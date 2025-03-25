@@ -1,0 +1,32 @@
+[
+  {
+    "id": 308,
+    "name": "મરહુમા રેમબેન ગુલામભાઇ સુનસરા",
+    "died": "2013-01-30T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
+    "email": "sunaluminiyam@gmail.com",
+    "phone": 7990751577,
+    "initiatedBy": "altafali",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-05-09T09:17:46.095Z",
+    "updatedAt": "2024-05-09T09:17:46.095Z",
+    "original_date": "30-01-2013",
+    "hijri_date": "19 Rabi' al-Awwal, 1434 AH"
+  },
+  {
+    "id": 351,
+    "name": "મરહુમા રોશનબાનું બિન્તે ગુલામહુસૈનભાઇ બુધવાણી",
+    "died": "2021-01-30T00:00:00.000Z",
+    "place": "મુમ્બ્રા થાને મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "shahinkapasi17@gmail.com",
+    "phone": 9324082084,
+    "initiatedBy": "Shahin Zahirabbas Kapasi",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-07-05T20:15:53.199Z",
+    "updatedAt": "2024-07-05T20:15:53.199Z",
+    "original_date": "30-01-2021",
+    "hijri_date": "17 Jumada al-Akhir, 1442 AH"
+  }
+]

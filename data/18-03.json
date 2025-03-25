@@ -1,0 +1,62 @@
+[
+  {
+    "id": 53,
+    "name": "મરહુમા ઝાહેદાબેન બિન્તે હાજી યાકુબઅલી હસનઅલી નાથાણી (કાલીનાવાળા)",
+    "died": "1997-03-18T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:28:54.291Z",
+    "updatedAt": "2024-02-04T09:35:24.615Z",
+    "original_date": "18-03-1997",
+    "hijri_date": "9 Dhuʻl-Qiʻdah, 1417 AH"
+  },
+  {
+    "id": 97,
+    "name": "મરહુમ મોહંમ્મદહુસૈનભાઇ હબીબભાઇ ભીમાણી( પેપરવાલા )",
+    "died": "1998-03-18T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mumbhimani@gmail.com",
+    "phone": 9819407547,
+    "initiatedBy": "mumtaz bhimani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-06T20:20:26.408Z",
+    "updatedAt": "2024-03-06T20:20:26.408Z",
+    "original_date": "18-03-1998",
+    "hijri_date": "20 Dhuʻl-Qiʻdah, 1418 AH"
+  },
+  {
+    "id": 166,
+    "name": "મરહુમા કુલસુમબાઇ બિન્તે અસગરઅલી હીરજી",
+    "died": "2018-03-18T00:00:00.000Z",
+    "place": "મુંબઇ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "female",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "18-03-2018",
+    "hijri_date": "1 Mahe Rajab, 1439 AH"
+  },
+  {
+    "id": "#REF!",
+    "name": "મરહુમા મેમુદાબેન સુલેમાનભાઈ જીંદાણી",
+    "died": "2022-03-18T00:00:00.000Z",
+    "place": "જુનાગઢ ગુજરાત ઇન્ડિયા ",
+    "email": "Sj007@gmail.com",
+    "phone": 6352093050,
+    "initiatedBy": "Sahid Jindani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-03-05T20:18:24.130Z",
+    "updatedAt": "2025-03-05T20:18:24.130Z",
+    "original_date": "18-03-2022",
+    "hijri_date": "16 Shaʻban, 1443 AH"
+  }
+]

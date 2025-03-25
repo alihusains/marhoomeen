@@ -1,0 +1,47 @@
+[
+  {
+    "id": 36,
+    "name": "મરહુમ પ્યારઅલી મોહંમ્મદઅલી પ્રમાણી",
+    "died": "2014-05-12T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-02T03:32:33.573Z",
+    "updatedAt": "2024-02-02T08:16:04.910Z",
+    "original_date": "12-05-2014",
+    "hijri_date": "13 Mahe Rajab, 1435 AH"
+  },
+  {
+    "id": 310,
+    "name": "મરહુમ અસગરઅલી મોહંમ્મદઅલી મામદાણી",
+    "died": "2003-05-12T00:00:00.000Z",
+    "place": "કરાચી પાકિસ્તાન",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "Dilumama",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "12-05-2003",
+    "hijri_date": "11 Rabi' al-Awwal, 1424 AH"
+  },
+  {
+    "id": 578,
+    "name": "મરહુમા સૈયદ નઝીરાખાતુન બિન્તે મુમ્તાઝઅલી",
+    "died": "2014-05-12T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "saiyed.mubbsir@gmail.com",
+    "phone": 9321469646,
+    "initiatedBy": "saiyed  mubbsir.  husen ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-02-22T13:03:12.069Z",
+    "updatedAt": "2025-02-22T13:03:12.069Z",
+    "original_date": "12-05-2014",
+    "hijri_date": "13 Mahe Rajab, 1435 AH"
+  }
+]

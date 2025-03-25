@@ -1,0 +1,32 @@
+[
+  {
+    "id": 49,
+    "name": "મરહુમ હાજી યુસુફઅલી બરકતઅલી ભીમ‍ાણી (ટાણાવાળા)",
+    "died": "2018-08-06T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:25:07.458Z",
+    "updatedAt": "2024-02-04T09:35:59.067Z",
+    "original_date": "06-08-2018",
+    "hijri_date": "24 Dhuʻl-Qiʻdah, 1439 AH"
+  },
+  {
+    "id": 413,
+    "name": "મરહુમ ફીદાહુસૈનભાઇ મોહંમ્મદઅલી અજાની",
+    "died": "1992-08-06T00:00:00.000Z",
+    "place": "કરાચી પાકિસ્તાન ",
+    "email": "arifajani68@gmail.com",
+    "phone": 78914593,
+    "initiatedBy": "A Ajani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-12T18:35:02.357Z",
+    "updatedAt": "2024-08-12T18:35:02.357Z",
+    "original_date": "06-08-1992",
+    "hijri_date": "8 Mahe Safar, 1413 AH"
+  }
+]

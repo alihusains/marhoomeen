@@ -1,0 +1,47 @@
+[
+  {
+    "id": 50,
+    "name": "મરહુમ હાજી રમઝાનઅલી મોહંમ્મદઅલી વાલજી",
+    "died": "2023-02-03T00:00:00.000Z",
+    "place": "પિટ્સબર્ગ યુ.કે.",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "mas",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-16T11:52:52.523Z",
+    "updatedAt": "2024-02-16T11:52:52.523Z",
+    "original_date": "03-02-2023",
+    "hijri_date": "13 Mahe Rajab, 1444 AH"
+  },
+  {
+    "id": 408,
+    "name": "મરહુમા ફાતમાબાઇ બિન્તે અકબરઅલી જીવરાજ ઘુઘરીયા W/o ફીદાહુસૈન  મોહંમ્મદઅલી  એહમદભાઈ અજાની",
+    "died": "1969-02-03T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ",
+    "email": "ajanis1512@gmail.com",
+    "phone": 78965565,
+    "initiatedBy": "Arif Ajani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-12T11:46:58.987Z",
+    "updatedAt": "2024-08-12T11:46:58.987Z",
+    "original_date": "03-02-1969",
+    "hijri_date": "16 Dhuʻl-Qiʻdah, 1388 AH"
+  },
+  {
+    "id": 548,
+    "name": "મરહુમા રસીદાબેન હસનઅલી વીરાણી ",
+    "died": "2024-02-03T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "rehana.s.jivani@gmail.com",
+    "phone": 9833679914,
+    "initiatedBy": "Rehana shoebali jivani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-01-28T07:17:38.146Z",
+    "updatedAt": "2025-01-28T07:17:38.146Z",
+    "original_date": "03-02-2024",
+    "hijri_date": "23 Mahe Rajab, 1445 AH"
+  }
+]

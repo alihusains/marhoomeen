@@ -1,0 +1,32 @@
+[
+  {
+    "id": 13,
+    "name": "મરહુમા હાજીયાણી જેનાબેન બિન્તે કાસમઅલી સોરઠીયા W/o મરહુમ હાજી દોસ્તમોહંમ્મદભાઇ જીવનભાઇ નાયાણી (ભઠ્ઠીવાળા)",
+    "died": "2022-02-06T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:28:54.291Z",
+    "updatedAt": "2024-02-04T09:33:25.888Z",
+    "original_date": "06-02-2022",
+    "hijri_date": "5 Mahe Rajab, 1443 AH"
+  },
+  {
+    "id": 86,
+    "name": "મરહુમ જાફરઅલી હસનઅલી ભંભેરા",
+    "died": "1979-02-06T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "mjbhambhera3@gmail.com",
+    "phone": 9825875076,
+    "initiatedBy": "mohammedhusen bhambhera",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-06T07:10:08.836Z",
+    "updatedAt": "2024-03-06T07:10:08.836Z",
+    "original_date": "06-02-1979",
+    "hijri_date": "9 Rabi' al-Awwal, 1399 AH"
+  }
+]

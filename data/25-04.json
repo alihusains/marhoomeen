@@ -1,0 +1,32 @@
+[
+  {
+    "id": 189,
+    "name": "મરહુમ ઝહીરઅબ્બાસ રફીકભાઇ વીરાણી",
+    "died": "2021-04-25T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "25-04-2021",
+    "hijri_date": "13 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 214,
+    "name": "મરહુમા નૂરીબેન શરીફભાઈ પલસાણિયા",
+    "died": "2023-04-25T00:00:00.000Z",
+    "place": "વાઘરોલ નોર્થ ગુજરાત ઇન્ડીયા",
+    "email": "faizsamim@yahoo.com",
+    "phone": 8268571786,
+    "initiatedBy": "ફૈઝ મોહમ્મદ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-30T02:06:33.769Z",
+    "updatedAt": "2024-03-30T02:06:33.769Z",
+    "original_date": "25-04-2023",
+    "hijri_date": "5 Shawwal, 1444 AH"
+  }
+]

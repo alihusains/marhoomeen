@@ -1,0 +1,32 @@
+[
+  {
+    "id": 22,
+    "name": "મરહુમ અમીરઅલી અલીભાઇ ઢેબર (ભુજ-કચ્છ)",
+    "died": "2000-12-31T00:00:00.000Z",
+    "place": "ભુજ-કચ્છ ગુજરાત ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "31-12-2000",
+    "hijri_date": "6 Shawwal, 1421 AH"
+  },
+  {
+    "id": 537,
+    "name": "મરહુમ અઝીઝભાઇ મોહંમ્મદભાઇ ખોજા",
+    "died": "2019-12-31T00:00:00.000Z",
+    "place": "ભુજ કચ્છ ઇન્ડિયા ",
+    "email": "bhimanizavadasgher@gmail.com",
+    "phone": 9106640475,
+    "initiatedBy": "nilam javadasghar bhimani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-01-20T19:26:23.631Z",
+    "updatedAt": "2025-01-20T19:26:23.631Z",
+    "original_date": "31-12-2019",
+    "hijri_date": "5 Jumada al-Awwal, 1441 AH"
+  }
+]

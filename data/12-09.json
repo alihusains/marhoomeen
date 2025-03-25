@@ -1,0 +1,32 @@
+[
+  {
+    "id": 406,
+    "name": "મરહુમ મોહંમ્મદરઝાભાઇ માસુમઅલી નાયાણી ",
+    "died": "2019-09-12T00:00:00.000Z",
+    "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+    "email": "siddika1272@gmail.com",
+    "phone": 9825665133,
+    "initiatedBy": "Nayani Siddika Fatema",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-11T20:27:57.436Z",
+    "updatedAt": "2024-08-11T20:27:57.436Z",
+    "original_date": "12-09-2019",
+    "hijri_date": "13 Mahe Muharram, 1441 AH"
+  },
+  {
+    "id": 454,
+    "name": "મરહુમ હાજી રજબઅલી હાજી ગુલામહુસૈનભાઇ ભોજાણી",
+    "died": "2006-09-12T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "bhojani102@gmail.com",
+    "phone": 9925976862,
+    "initiatedBy": "Shabnirali Rajabali Bhojani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-09-25T12:42:00.144Z",
+    "updatedAt": "2024-09-25T12:42:00.144Z",
+    "original_date": "12-09-2006",
+    "hijri_date": "20 Shaʻban, 1427 AH"
+  }
+]

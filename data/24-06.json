@@ -1,0 +1,32 @@
+[
+  {
+    "id": 218,
+    "name": "મરહુમ અલીરઝાભાઇ કાસમઅલી જેરાજ (કેરા વાળા)",
+    "died": "2009-06-24T00:00:00.000Z",
+    "place": "કેરા - કચ્છ ઇન્ડિયા ",
+    "email": "arishumen@gmail.com",
+    "phone": 9820743074,
+    "initiatedBy": "aarif aliraza jeraj",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-30T05:07:52.330Z",
+    "updatedAt": "2024-03-30T05:07:52.330Z",
+    "original_date": "24-06-2009",
+    "hijri_date": "2 Mahe Rajab, 1430 AH"
+  },
+  {
+    "id": 416,
+    "name": "મરહુમ મકસુદઅલી ગુલામઅલી મોમીન",
+    "died": "2021-06-24T00:00:00.000Z",
+    "place": "યુ.એસ.એ.",
+    "email": "ali2naaz@yahoo.com",
+    "phone": 4047861248,
+    "initiatedBy": "Hoor Mohlal",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-14T22:22:41.946Z",
+    "updatedAt": "2024-08-14T22:22:41.946Z",
+    "original_date": "24-06-2021",
+    "hijri_date": "14 Dhuʻl-Qiʻdah, 1442 AH"
+  }
+]

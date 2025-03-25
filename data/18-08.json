@@ -1,0 +1,32 @@
+[
+  {
+    "id": 354,
+    "name": "મરહુમ નુરઅલી બહાદુરઅલી વીરાણી",
+    "died": "2021-08-18T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "mukhtarvirani72@gmail.com",
+    "phone": 9879000670,
+    "initiatedBy": "mukhtar virani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-07-12T14:48:34.896Z",
+    "updatedAt": "2024-07-12T14:48:34.896Z",
+    "original_date": "18-08-2021",
+    "hijri_date": "10 Mahe Muharram, 1443 AH"
+  },
+  {
+    "id": 441,
+    "name": "મરહુમા ખાતુનબેન બિન્તે હસનઅલી  એન. હસન",
+    "died": "2024-08-18T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
+    "email": "Sheralihasan@gmail.com",
+    "phone": 9099998649,
+    "initiatedBy": "sherali ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-31T20:36:57.192Z",
+    "updatedAt": "2024-08-31T20:36:57.192Z",
+    "original_date": "18-08-2024",
+    "hijri_date": "14 Mahe Safar, 1446 AH"
+  }
+]

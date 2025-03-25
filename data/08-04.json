@@ -1,0 +1,32 @@
+[
+  {
+    "id": 29,
+    "name": "મરહુમ બરકતઅલી ભાણજીભાઇ લાખાણી",
+    "died": "1988-04-08T00:00:00.000Z",
+    "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા ",
+    "email": "sahidlakhani2@gmail.com",
+    "phone": 9998798639,
+    "initiatedBy": "મરહુમ ઝેહરાબાનુ ગુલામહુશૅન ચારણીયા",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-02T04:14:16.784Z",
+    "updatedAt": "2024-02-02T08:25:03.999Z",
+    "original_date": "08-04-1988",
+    "hijri_date": "21 Shaʻban, 1408 AH"
+  },
+  {
+    "id": 323,
+    "name": "મરહુમા ફાતેમાબાનુ જાનમોહંમ્મદ પંજવાણી",
+    "died": "2013-04-08T00:00:00.000Z",
+    "place": "સુરત ગુજરાત ઇન્ડિયા ",
+    "email": "mvgowani@mail.com",
+    "phone": 9924389468,
+    "initiatedBy": "mohammadhussain v gowani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-05-27T23:04:33.449Z",
+    "updatedAt": "2024-05-27T23:04:33.449Z",
+    "original_date": "08-04-2013",
+    "hijri_date": "28 Jumada al-Awwal, 1434 AH"
+  }
+]

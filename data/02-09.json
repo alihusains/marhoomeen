@@ -1,0 +1,32 @@
+[
+  {
+    "id": 183,
+    "name": "મરહુમ અકબર અલી યુસુફભાઇ અઘારીયા",
+    "died": "2020-09-02T00:00:00.000Z",
+    "place": "શેરપુરા બનાસકાંઠા ઇન્ડિયા ",
+    "email": "mohamadaghariya530@gmail.com",
+    "phone": 8000425786,
+    "initiatedBy": "મોહમ્મદ અલી અકબર અલી અઘરીયા ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-21T22:27:34.174Z",
+    "updatedAt": "2024-03-21T22:27:34.174Z",
+    "original_date": "02-09-2020",
+    "hijri_date": "14 Mahe Muharram, 1442 AH"
+  },
+  {
+    "id": 442,
+    "name": "મરહુમ મોહમ્મદહુસૈનભાઇ માસુમઅલી વકીલ ",
+    "died": "2024-09-02T00:00:00.000Z",
+    "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "02-09-2024",
+    "hijri_date": "29 Mahe Safar, 1446 AH"
+  }
+]

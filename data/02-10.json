@@ -1,0 +1,62 @@
+[
+  {
+    "id": 99,
+    "name": "મરહુમા ફાતમાબાનું બિન્તે રઝાહુસૈન ભીમાણી",
+    "died": "1980-10-02T00:00:00.000Z",
+    "place": "વીરમગામ ગુજરાત ઇન્ડિયા ",
+    "email": "sukunenterprise@gmail.com",
+    "phone": 9879644611,
+    "initiatedBy": "Abbas ali habib ali nayani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-08T14:14:59.417Z",
+    "updatedAt": "2024-03-08T14:14:59.417Z",
+    "original_date": "02-10-1980",
+    "hijri_date": "23 Dhuʻl-Qiʻdah, 1400 AH"
+  },
+  {
+    "id": 210,
+    "name": "મરહુમ અલીભાઈ પીરભાઈ સુનસરા",
+    "died": "1993-10-02T00:00:00.000Z",
+    "place": "મુંબઇ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mehjabeensunasra110@gmail.com",
+    "phone": 9326770195,
+    "initiatedBy": "Mehjabeen Sunasra",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-29T12:35:02.558Z",
+    "updatedAt": "2024-03-29T12:35:02.558Z",
+    "original_date": "02-10-1993",
+    "hijri_date": "16 Rabi' al-Akhir, 1414 AH"
+  },
+  {
+    "id": 566,
+    "name": "મરહુમ બાકરઅલી બચુભાઈ જમાણી ",
+    "died": "2023-10-02T00:00:00.000Z",
+    "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+    "email": "naimjamani92@gmail.com",
+    "phone": 9773265936,
+    "initiatedBy": "Naimabbas Jamani ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-02-05T13:34:39.402Z",
+    "updatedAt": "2025-02-05T13:34:39.402Z",
+    "original_date": "02-10-2023",
+    "hijri_date": "17 Rabi' al-Awwal, 1445 AH"
+  },
+  {
+    "id": 569,
+    "name": "મરહુમા બિન્તેઝહેરા બિન્તે સુલતાનઅલી કામદાર",
+    "died": "2020-10-02T00:00:00.000Z",
+    "place": "દુર્ગ છતીસગઢ ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "femida merchant",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "02-10-2020",
+    "hijri_date": "15 Mahe Safar, 1442 AH"
+  }
+]

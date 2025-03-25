@@ -1,0 +1,47 @@
+[
+  {
+    "id": 359,
+    "name": "મરહુમા બિસ્મિલ્લાહ બેગમ બિન્તે મુસતુફા હુસૈનભાઇ  મીરઝા",
+    "died": "2020-12-18T00:00:00.000Z",
+    "place": "ખંભાત-આણંદ ગુજરાત ઇન્ડિયા ",
+    "email": "mirzamunishraza92@gmail.com",
+    "phone": 9601639110,
+    "initiatedBy": "Munish Raza Zavvar Husain Mirza",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-07-14T14:34:56.208Z",
+    "updatedAt": "2024-07-14T14:34:56.208Z",
+    "original_date": "18-12-2020",
+    "hijri_date": "4 Jumada al-Awwal, 1442 AH"
+  },
+  {
+    "id": 400,
+    "name": "મરહુમા માદુમાબેન રેહમતુલ્લાભાઇ દેવજાણી",
+    "died": "2018-12-18T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "lakhanimumtaz591@gmail.com",
+    "phone": 6356288153,
+    "initiatedBy": "lakhani mumtaz",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-09T22:06:46.897Z",
+    "updatedAt": "2024-08-09T22:06:46.897Z",
+    "original_date": "18-12-2018",
+    "hijri_date": "11 Rabi' al-Akhir, 1440 AH"
+  },
+  {
+    "id": 484,
+    "name": "મરહુમ ઇસ્માઇલભાઇ અલીભાઇ ભીમાણી",
+    "died": "1988-12-18T00:00:00.000Z",
+    "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "18-12-1988",
+    "hijri_date": "9 Jumada al-Awwal, 1409 AH"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 67,
+    "name": "મરહુમ માસુમઅલી મોહંમ્મદઅલી નુરાની ",
+    "died": "2012-03-23T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "viranisadique@gmail.com",
+    "phone": 9867097865,
+    "initiatedBy": "Sadique Hussain Haider ali Virani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-25T12:04:02.364Z",
+    "updatedAt": "2024-02-25T12:04:02.364Z",
+    "original_date": "23-03-2012",
+    "hijri_date": "1 Jumada al-Awwal, 1433 AH"
+  },
+  {
+    "id": 626,
+    "name": "મરહુમા મરિયમ બેન નુરભાઈ પલાસરા ",
+    "died": "1993-03-23T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડીયા",
+    "email": "hasanashiyana@gmail.com",
+    "phone": 9724921007,
+    "initiatedBy": "vasim Ali ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-03-23T06:28:00.851Z",
+    "updatedAt": "2025-03-23T06:28:00.851Z",
+    "original_date": "23-03-1993",
+    "hijri_date": "30 Mahe Ramadhan, 1413 AH"
+  }
+]

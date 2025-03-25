@@ -1,0 +1,32 @@
+[
+  {
+    "id": 88,
+    "name": "મરહુમ મોહંમ્મદઅલી હસનઅલી ભંભેરા ",
+    "died": "1995-03-06T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "mjbhambhera3@gmail.com",
+    "phone": 9825875076,
+    "initiatedBy": "mohammedhusen bhambhera",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-06T07:10:14.385Z",
+    "updatedAt": "2024-03-06T07:10:14.385Z",
+    "original_date": "06-03-1995",
+    "hijri_date": "5 Shawwal, 1415 AH"
+  },
+  {
+    "id": 89,
+    "name": "મરહુમ અકબરઅલી હસનઅલી ભંભેરા ",
+    "died": "1981-03-06T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "mjbhambhera3@gmail.com",
+    "phone": 9825875076,
+    "initiatedBy": "mohammedhusen bhambhera",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-06T07:10:17.596Z",
+    "updatedAt": "2024-03-06T07:10:17.596Z",
+    "original_date": "06-03-1981",
+    "hijri_date": "30 Rabi' al-Akhir, 1401 AH"
+  }
+]

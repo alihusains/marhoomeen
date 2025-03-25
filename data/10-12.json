@@ -1,0 +1,32 @@
+[
+  {
+    "id": 506,
+    "name": "મરહુમ  રજબઅલી ફીદાહુસૈનભાઈ મરચન્ટ",
+    "died": "2018-12-10T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "badamifiroz@gmail.com",
+    "phone": 9879524921,
+    "initiatedBy": "badami sabnish ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-12-10T13:03:25.900Z",
+    "updatedAt": "2024-12-10T13:03:25.900Z",
+    "original_date": "10-12-2018",
+    "hijri_date": "3 Rabi' al-Akhir, 1440 AH"
+  },
+  {
+    "id": 528,
+    "name": "મરહુમ રઝાહુસૈન દેવજીભાઈ માવાણી (મુખી)",
+    "died": "1995-12-10T00:00:00.000Z",
+    "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+    "email": "zaidrazamavani@Email.com",
+    "phone": 9824929434,
+    "initiatedBy": "Zaid Raza Mavani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-01-16T12:12:47.048Z",
+    "updatedAt": "2025-01-16T12:12:47.048Z",
+    "original_date": "10-12-1995",
+    "hijri_date": "18 Mahe Rajab, 1416 AH"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 140,
+    "name": "મરહુમ અનીસુલ મેહદી મુસ્તફાહુસૈન પોગલવા",
+    "died": "1999-10-17T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાઠા ઇન્ડિયા ",
+    "email": "alminpogalva@gmail.com",
+    "phone": 7045461920,
+    "initiatedBy": "અલમીન પોગલવા",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-14T09:15:32.173Z",
+    "updatedAt": "2024-03-14T09:15:32.173Z",
+    "original_date": "17-10-1999",
+    "hijri_date": "8 Mahe Rajab, 1420 AH"
+  },
+  {
+    "id": 350,
+    "name": "મરહુમ હસનઅબ્બાસભાઇ મોહંમ્મદ કાસીમભાઇ મોગલ",
+    "died": "2001-10-17T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "shabihassan@rediffmai.com",
+    "phone": 9979872786,
+    "initiatedBy": "SHABIHASAN",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-06-30T11:29:30.072Z",
+    "updatedAt": "2024-06-30T11:29:30.072Z",
+    "original_date": "17-10-2001",
+    "hijri_date": "1 Shaʻban, 1422 AH"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "#REF!",
+    "name": "મરહુમ હુસૈનઅલી યુસુફઅલી બુધવાણી",
+    "died": "2024-03-11T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "11-03-2024",
+    "hijri_date": "1 Mahe Ramadhan, 1445 AH"
+  },
+  {
+    "id": 115,
+    "name": "મરહુમા તાહેરાબાનુ અકબરઅલી ખેતાણી ",
+    "died": "2024-03-11T00:00:00.000Z",
+    "place": "દુબઇ યુ.એ.ઇ.",
+    "email": "sukunenterprise@gmail.com",
+    "phone": 9879644644,
+    "initiatedBy": "Abbas nayani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-12T01:19:57.192Z",
+    "updatedAt": "2024-03-12T01:19:57.192Z",
+    "original_date": "11-03-2024",
+    "hijri_date": "1 Mahe Ramadhan, 1445 AH"
+  },
+  {
+    "id": 297,
+    "name": "મરહુમા મરીયમબાઇ હાજી હીરજીભાઇ નથવાણી-સીનોગ્રાવાલા",
+    "died": "2000-03-11T00:00:00.000Z",
+    "place": "નાગલપર કચ્છ ઇન્ડિયા ",
+    "email": "ianathwani@gmail.com",
+    "phone": 9925454694,
+    "initiatedBy": "Imran nathwani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-04-23T00:22:34.855Z",
+    "updatedAt": "2024-04-23T00:22:34.855Z",
+    "original_date": "11-03-2000",
+    "hijri_date": "5 Dhuʻl-Hijjah, 1420 AH"
+  },
+  {
+    "id": 393,
+    "name": "મરહુમા રસીદાબાનું વજીરઅલી ભોજાણી ",
+    "died": "2018-03-11T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "mohsinasariya@gmail.com",
+    "phone": 8155856929,
+    "initiatedBy": "khushboo Asariya",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-08T14:09:29.499Z",
+    "updatedAt": "2024-08-08T14:09:29.499Z",
+    "original_date": "11-03-2018",
+    "hijri_date": "24 Jumada al-Akhir, 1439 AH"
+  }
+]

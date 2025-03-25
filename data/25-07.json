@@ -1,0 +1,62 @@
+[
+  {
+    "id": 228,
+    "name": "મરહુમ તુરાબઅલી હુસૈનશા મોગલ",
+    "died": "1997-07-25T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા",
+    "email": "nakimogal11072@gmail.com",
+    "phone": 9824727293,
+    "initiatedBy": "MOGAL ALINAKI ANSAR HUSSAIN",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-31T21:19:46.828Z",
+    "updatedAt": "2024-03-31T21:19:46.828Z",
+    "original_date": "25-07-1997",
+    "hijri_date": "21 Rabi' al-Awwal, 1418 AH"
+  },
+  {
+    "id": 373,
+    "name": " મરહુમ મોહંમદ હુસૈનભાઇ સીદીભાઇ ફરસતા",
+    "died": "2019-07-25T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "komelfirast89@gmail.com",
+    "phone": 9723835042,
+    "initiatedBy": "komelabbas farasta",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-01T22:37:19.321Z",
+    "updatedAt": "2024-08-01T22:37:19.321Z",
+    "original_date": "25-07-2019",
+    "hijri_date": "23 Dhuʻl-Qiʻdah, 1440 AH"
+  },
+  {
+    "id": 409,
+    "name": "મરહુમા હાજીયાણી ગુલશનબાનું બિન્તે ફીદાહુસૈનભાઇ  પારેખ W/o હુસૈનઅલી લોખંડવાલા ",
+    "died": "2021-07-25T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "arifshabana@gmail.com",
+    "phone": 8779587276,
+    "initiatedBy": "shabana arif ajani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-12T18:27:07.293Z",
+    "updatedAt": "2024-08-12T18:27:07.293Z",
+    "original_date": "25-07-2021",
+    "hijri_date": "15 Dhuʻl-Hijjah, 1442 AH"
+  },
+  {
+    "id": 599,
+    "name": "મરહુમ અનવરભાઇ હાજી અબ્દુલભાઇ કાસમભાઇ વોહરા",
+    "died": "2011-07-25T00:00:00.000Z",
+    "place": "સલોન-નડીયાદ ગુજરાત ઇન્ડિયા",
+    "email": "mohseenvohra@gmail.com",
+    "phone": 9998117678,
+    "initiatedBy": "siraj",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-03-09T18:06:11.282Z",
+    "updatedAt": "2025-03-09T18:06:11.282Z",
+    "original_date": "25-07-2011",
+    "hijri_date": "24 Shaʻban, 1432 AH"
+  }
+]

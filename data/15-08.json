@@ -1,0 +1,32 @@
+[
+  {
+    "id": 270,
+    "name": "મરહુમ મોહસીનઅલી એહમદઅલી વાલજી દામાણી",
+    "died": "2021-08-15T00:00:00.000Z",
+    "place": "લુંમ્બાસી કોંગો સેન્ટ્રલ આફ્રિકા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-06T19:53:09.625Z",
+    "updatedAt": "2024-04-06T19:53:09.625Z",
+    "original_date": "15-08-2021",
+    "hijri_date": "7 Mahe Muharram, 1443 AH"
+  },
+  {
+    "id": 364,
+    "name": "મરહુમ આબીદઅલી અમીરઅલી રમઝાનઅલી સોરઠીયા(રાણાવાવવાળા)",
+    "died": "2006-08-15T00:00:00.000Z",
+    "place": "કંમ્પાલા આફ્રિકા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "15-08-2006",
+    "hijri_date": "21 Mahe Rajab, 1427 AH"
+  }
+]

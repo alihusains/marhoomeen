@@ -1,0 +1,47 @@
+[
+  {
+    "id": 150,
+    "name": "મરહુમા ઝહેરા બિન્તે રજબઅલી શરીફ W/o ઓનઅલી લાલજી દાતુ ",
+    "died": "2020-06-20T00:00:00.000Z",
+    "place": "બેહિસ્તે ઝેહરા સ.અ. , ટોરંટો",
+    "email": "sabyhirji@gmail.com",
+    "phone": 7901616393,
+    "initiatedBy": "sab",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-15T01:45:34.975Z",
+    "updatedAt": "2024-03-15T01:45:34.975Z",
+    "original_date": "20-06-2020",
+    "hijri_date": "29 Shawwal, 1441 AH"
+  },
+  {
+    "id": 264,
+    "name": "મરહુમા હાજીય‍ાણી ઝરીનાબેન બિન્તે રમઝાનઅલી રાજાણી W/o મરહુમ હાજી મોહંમ્મદઅલી અકબરઅલી પંજવાણી ",
+    "died": "2022-06-20T00:00:00.000Z",
+    "place": "મુંબઇ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "amirizulfiqar@gmail.com",
+    "phone": 9819637370,
+    "initiatedBy": "Zulfiqar G. Amiri",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-04-06T13:04:43.694Z",
+    "updatedAt": "2024-04-06T13:04:43.694Z",
+    "original_date": "20-06-2022",
+    "hijri_date": "21 Dhuʻl-Qiʻdah, 1443 AH"
+  },
+  {
+    "id": 547,
+    "name": "મરહુમ માસુમઅલી હસનઅલી વીરાણી ",
+    "died": "2024-06-20T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "rehana.s.jivani@gmail.com",
+    "phone": 9833679914,
+    "initiatedBy": "Rehana shoebali jivani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-01-28T07:17:34.901Z",
+    "updatedAt": "2025-01-28T07:17:34.901Z",
+    "original_date": "20-06-2024",
+    "hijri_date": "14 Dhuʻl-Hijjah, 1445 AH"
+  }
+]

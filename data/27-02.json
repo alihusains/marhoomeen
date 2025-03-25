@@ -1,0 +1,32 @@
+[
+  {
+    "id": 72,
+    "name": "મરહુમ જાફરઅલી ફાઝલભાઇ મર્ચંટ (જે. એફ)",
+    "died": "2010-02-27T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "sorathiyaalihusain@gmail.com",
+    "phone": 8286536077,
+    "initiatedBy": "Ali Husain Sorathiya",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-27T20:42:34.172Z",
+    "updatedAt": "2024-02-27T20:42:34.172Z",
+    "original_date": "27-02-2010",
+    "hijri_date": "13 Rabi' al-Awwal, 1431 AH"
+  },
+  {
+    "id": 73,
+    "name": "મરહુમ અસગરઅલી હસનઅલી ભોજાણી",
+    "died": "2011-02-27T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "sorathiyaalihusain@gmail.com",
+    "phone": 8286536077,
+    "initiatedBy": "Ali Husain Sorathiya",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-27T20:46:40.495Z",
+    "updatedAt": "2024-02-27T20:46:40.495Z",
+    "original_date": "27-02-2011",
+    "hijri_date": "24 Rabi' al-Awwal, 1432 AH"
+  }
+]

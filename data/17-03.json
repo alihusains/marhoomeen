@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9,
+    "name": "મરહુમા ફાતમાબેન બિન્તે જમાલ ડોસા W/o મરહુમ રમઝાનઅલી કાસમઅલી સોરઠીયા (રાણાવાવ વાળા)",
+    "died": "2008-03-17T00:00:00.000Z",
+    "place": "રાણાવાવ ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "mas",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:28:54.291Z",
+    "updatedAt": "2024-02-04T09:34:21.296Z",
+    "original_date": "17-03-2008",
+    "hijri_date": "10 Rabi' al-Awwal, 1429 AH"
+  },
+  {
+    "id": 163,
+    "name": "મરહુમ હાજી અનસારહુસૈન જાફરઅલીભાઇ મર્ચન્ટ ( J.F. વાળા ) ",
+    "died": "2024-03-17T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-17T18:42:47.977Z",
+    "updatedAt": "2024-03-17T18:42:47.977Z",
+    "original_date": "17-03-2024",
+    "hijri_date": "7 Mahe Ramadhan, 1445 AH"
+  },
+  {
+    "id": 476,
+    "name": "મરહુમા ફાતેમા સુગરા અફઝલહુસૈન ભંભેરા",
+    "died": "2011-03-17T00:00:00.000Z",
+    "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "17-03-2011",
+    "hijri_date": "13 Rabi' al-Akhir, 1432 AH"
+  }
+]

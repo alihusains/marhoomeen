@@ -1,0 +1,32 @@
+[
+  {
+    "id": 134,
+    "name": "મરહુમ હાજી માસુમઅલી જાફરઅલી વકીલ ",
+    "died": "2004-04-11T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "sayyedavakil5@gmail.com",
+    "phone": 9870778695,
+    "initiatedBy": "Sayyeda ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-14T07:10:57.695Z",
+    "updatedAt": "2024-03-14T07:10:57.695Z",
+    "original_date": "11-04-2004",
+    "hijri_date": "22 Mahe Safar, 1425 AH"
+  },
+  {
+    "id": 383,
+    "name": "મરહુમ હાજી માસુમઅલી જાફરઅલી વકીલ ",
+    "died": "2004-04-11T00:00:00.000Z",
+    "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "zehrapharma@gmail.com",
+    "phone": 9821071914,
+    "initiatedBy": "Shabbirali masoomali vakil ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-08T07:00:42.715Z",
+    "updatedAt": "2024-08-08T07:00:42.715Z",
+    "original_date": "11-04-2004",
+    "hijri_date": "22 Mahe Safar, 1425 AH"
+  }
+]

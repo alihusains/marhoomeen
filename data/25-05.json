@@ -1,0 +1,32 @@
+[
+  {
+    "id": 85,
+    "name": "મરહુમ રફીકહુસૈન બરકતઅલી જેમાણી",
+    "died": "2021-05-25T00:00:00.000Z",
+    "place": "ડેડીયાપાડા ગુજરાત ઇન્ડિયા ",
+    "email": "mfarsta@yahoo.com",
+    "phone": 9913911414,
+    "initiatedBy": "FARASTA MEHBOOBALI ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-05T23:12:28.485Z",
+    "updatedAt": "2024-03-05T23:12:28.485Z",
+    "original_date": "25-05-2021",
+    "hijri_date": "14 Shawwal, 1442 AH"
+  },
+  {
+    "id": 396,
+    "name": "મરહુમ અલહાજ નુરઅલીભાઇ શેરઅલીભાઇ મુખી",
+    "died": "2024-05-25T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "saiyu47786@gmail.com",
+    "phone": 7211195237,
+    "initiatedBy": "saiyada vakil",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-09T01:15:24.544Z",
+    "updatedAt": "2024-08-09T01:15:24.544Z",
+    "original_date": "25-05-2024",
+    "hijri_date": "17 Dhuʻl-Qiʻdah, 1445 AH"
+  }
+]

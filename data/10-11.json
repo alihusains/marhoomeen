@@ -1,0 +1,62 @@
+[
+  {
+    "id": 23,
+    "name": "મરહુમા શીરીનબેન બિન્તે અલીભાઇ શામજીભાઇ ઢેબર W/o મરહુમ રમઝાનઅલી વસનજીભાઇ મામદાણી(મોટા દહીસરાવાળા)",
+    "died": "1998-11-10T00:00:00.000Z",
+    "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "female",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "10-11-1998",
+    "hijri_date": "21 Mahe Rajab, 1419 AH"
+  },
+  {
+    "id": 125,
+    "name": "મરહુમા કનીઝે કુબરા બિન્તે  અમીરમિંયા બુખારી ",
+    "died": "2020-11-10T00:00:00.000Z",
+    "place": "અહમદાબાદ ગુજરાત ઇન્ડિયા ",
+    "email": "bukharishahid092@gmail.com",
+    "phone": 9558301400,
+    "initiatedBy": "Shahid Husain Bukhari",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-13T21:29:21.480Z",
+    "updatedAt": "2024-03-13T21:29:21.480Z",
+    "original_date": "10-11-2020",
+    "hijri_date": "25 Rabi' al-Awwal, 1442 AH"
+  },
+  {
+    "id": 619,
+    "name": " મરહુમ રમઝાનઅલી ફઝલહુસૈન દેવજીયાણી",
+    "died": "2023-11-10T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "sajjadalis7992@gmail.com",
+    "phone": 9106812497,
+    "initiatedBy": "SAJJAD ALI RAMJAN ALI DEVJIYANI ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-03-18T06:42:17.447Z",
+    "updatedAt": "2025-03-18T06:42:17.447Z",
+    "original_date": "10-11-2023",
+    "hijri_date": "27 Rabi' al-Akhir, 1445 AH"
+  },
+  {
+    "id": 633,
+    "name": "મરહુમા રૂબાબબેન મોહમ્મદહુસેન કડીવાલાખાન",
+    "died": "2024-11-10T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા",
+    "email": "firozkadiwala504@gmail.com",
+    "phone": 9998687493,
+    "initiatedBy": "કડીવાલા ફિરોઝ હૈદર મહમદ અલી",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-03-24T22:40:44.678Z",
+    "updatedAt": "2025-03-24T22:40:44.678Z",
+    "original_date": "10-11-2024",
+    "hijri_date": "9 Jumada al-Awwal, 1446 AH"
+  }
+]

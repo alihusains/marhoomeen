@@ -1,0 +1,47 @@
+[
+  {
+    "id": 82,
+    "name": "મરહુમા સફીયાબેગમ ઝૈનુદીન સૈયદ ",
+    "died": "2019-02-14T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "shabihassan@rediffmail.com",
+    "phone": 9979872786,
+    "initiatedBy": "SHABIHASAN H MOGAL",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-05T20:31:29.877Z",
+    "updatedAt": "2024-03-05T20:31:29.877Z",
+    "original_date": "14-02-2019",
+    "hijri_date": "10 Jumada al-Akhir, 1440 AH"
+  },
+  {
+    "id": 263,
+    "name": "મરહુમા અમીશ ખાતુન બિન્તે નાશીરહુસૈન દામાણી W/o મરહુમ હાજી મોહંમ્મદઅલી અકબરઅલી પંજવાણી  ",
+    "died": "1972-02-14T00:00:00.000Z",
+    "place": "મુંબઇ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "amirizulfiqar@gmail.com",
+    "phone": 9819637370,
+    "initiatedBy": "Zulfiqar G. Amiri",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-04-06T13:04:34.581Z",
+    "updatedAt": "2024-04-06T13:04:34.581Z",
+    "original_date": "14-02-1972",
+    "hijri_date": "29 Dhuʻl-Hijjah, 1391 AH"
+  },
+  {
+    "id": 555,
+    "name": "મરહુમ સીકંદરહુસૈન હાજી પીરભાઇ રસભર્યા ",
+    "died": "1997-02-14T00:00:00.000Z",
+    "place": "વીજપડી બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
+    "email": "ashikabbasrasbharya@gmail.com",
+    "phone": 7621061064,
+    "initiatedBy": "Rasbharya AshikAbbas D",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-01-28T08:13:49.931Z",
+    "updatedAt": "2025-01-28T08:13:49.931Z",
+    "original_date": "14-02-1997",
+    "hijri_date": "7 Shawwal, 1417 AH"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 38,
+    "name": "મરહુમ મોહંમ્મદરઝા ઇબ્ને અનવરઅલી દામાણી",
+    "died": "2015-02-07T00:00:00.000Z",
+    "place": "સુરત ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-02T03:21:01.065Z",
+    "updatedAt": "2024-02-02T08:16:40.708Z",
+    "original_date": "07-02-2015",
+    "hijri_date": "18 Rabi' al-Akhir, 1436 AH"
+  },
+  {
+    "id": 287,
+    "name": "મરહુમા ખૈયરૂન્નિશાબાઇ બિન્તે અબ્દુલહુસૈનભાઇ વોશીંગવાલા ",
+    "died": "2015-02-07T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ  મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "masumakarimi192@gmail.com",
+    "phone": 9137230041,
+    "initiatedBy": "Masuma karimi",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-04-18T18:47:06.118Z",
+    "updatedAt": "2024-04-18T18:47:06.118Z",
+    "original_date": "07-02-2015",
+    "hijri_date": "18 Rabi' al-Akhir, 1436 AH"
+  },
+  {
+    "id": 419,
+    "name": "મરહુમા ખૈરૂન્નિસાબાઇ ગુલામહુસૈનભાઇ ટેઇલર",
+    "died": "1997-02-07T00:00:00.000Z",
+    "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "zeenatmerchant28@yahoo.co.uk",
+    "phone": 716630820,
+    "initiatedBy": "zameena Dewji ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-15T22:02:54.975Z",
+    "updatedAt": "2024-08-15T22:02:54.975Z",
+    "original_date": "07-02-1997",
+    "hijri_date": "29 Mahe Ramadhan, 1417 AH"
+  },
+  {
+    "id": 436,
+    "name": "મરહુમા અમીનાબેન ફકીરમોહંમ્મદ મોમીન",
+    "died": "2007-02-07T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "almomin14@ymail.com",
+    "phone": 4702951081,
+    "initiatedBy": "Aliraza Momin",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-28T15:42:05.932Z",
+    "updatedAt": "2024-08-28T15:42:05.932Z",
+    "original_date": "07-02-2007",
+    "hijri_date": "19 Mahe Muharram, 1428 AH"
+  }
+]

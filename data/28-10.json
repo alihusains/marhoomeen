@@ -1,0 +1,62 @@
+[
+  {
+    "id": 231,
+    "name": "મરહુમા શકીનાબેન નુરભાઈ પટેલ ",
+    "died": "2021-10-28T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
+    "email": "sabbirpatel13@yahoo.in",
+    "phone": 9825991786,
+    "initiatedBy": "sabbirali noorbhai patel",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-04-01T04:32:22.567Z",
+    "updatedAt": "2024-04-01T04:32:22.567Z",
+    "original_date": "28-10-2021",
+    "hijri_date": "22 Rabi' al-Awwal, 1443 AH"
+  },
+  {
+    "id": 267,
+    "name": "મરહુમ અલ્હાજ અનવરઅલી કરમાલીભાઇ ",
+    "died": "2021-10-28T00:00:00.000Z",
+    "place": "તાનઝાનીયા માડાગાસ્કર ",
+    "email": "amirizulfiqar@gmail.com",
+    "phone": 9819637370,
+    "initiatedBy": "Zulfiqar G. Amiri",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-06T13:04:50.706Z",
+    "updatedAt": "2024-04-06T13:04:50.706Z",
+    "original_date": "28-10-2021",
+    "hijri_date": "22 Rabi' al-Awwal, 1443 AH"
+  },
+  {
+    "id": 613,
+    "name": "મરહુમા હાજીયાણી સકીનાબેન નુરભાઈ પટેલ ",
+    "died": "2021-10-28T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડીયા",
+    "email": "sabbirpatel13@yahoo.in",
+    "phone": 9825991786,
+    "initiatedBy": "sabbirali",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-03-16T05:22:24.486Z",
+    "updatedAt": "2025-03-16T05:22:24.486Z",
+    "original_date": "28-10-2021",
+    "hijri_date": "22 Rabi' al-Awwal, 1443 AH"
+  },
+  {
+    "id": 641,
+    "name": "મરહુમ અબ્દુલહુસૈન હબીબભાઇ લાલાણી",
+    "died": "2019-10-28T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "Kazmilalani110@gmail.com",
+    "phone": 8879142274,
+    "initiatedBy": "kazmi lalani ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-03-21T05:37:16.162Z",
+    "updatedAt": "2025-03-21T05:37:16.162Z",
+    "original_date": "28-10-2019",
+    "hijri_date": "30 Mahe Safar, 1441 AH"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 443,
+    "name": "મરહુમા રસુલબેન જમાલ ભાઈ મોમીન",
+    "died": "2011-03-24T00:00:00.000Z",
+    "place": "જન્નતુલબકી મદીના શરીફ",
+    "email": "ahesanhusain6690@gmail.com",
+    "phone": 9601040932,
+    "initiatedBy": "momin Ahesan Husain",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-09-03T16:31:48.959Z",
+    "updatedAt": "2024-09-03T16:31:48.959Z",
+    "original_date": "24-03-2011",
+    "hijri_date": "20 Rabi' al-Akhir, 1432 AH"
+  },
+  {
+    "id": 631,
+    "name": "મરહુમા નફીશાબાનુ બિન્તે બહાદુરઅલી પંજવાણી",
+    "died": "1994-03-24T00:00:00.000Z",
+    "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+    "email": "sharminmamdani@gmail.com",
+    "phone": 9898264705,
+    "initiatedBy": "sharmin aliraza mamdani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-03-24T19:31:56.611Z",
+    "updatedAt": "2025-03-24T19:31:56.611Z",
+    "original_date": "24-03-1994",
+    "hijri_date": "12 Shawwal, 1414 AH"
+  }
+]

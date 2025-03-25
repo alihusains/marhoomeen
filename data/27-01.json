@@ -1,0 +1,32 @@
+[
+  {
+    "id": 87,
+    "name": "મરહુમા કુલશુમબાનું બિન્તે કાનજીભાઇ",
+    "died": "2021-01-27T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "mjbhambhera3@gmail.com",
+    "phone": 9825875076,
+    "initiatedBy": "mohammedhusen bhambhera",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-06T07:10:11.503Z",
+    "updatedAt": "2024-03-06T07:10:11.503Z",
+    "original_date": "27-01-2021",
+    "hijri_date": "14 Jumada al-Akhir, 1442 AH"
+  },
+  {
+    "id": 422,
+    "name": "મરહુમ હસનભાઇ મોહંમ્મદઅલી બંગલા",
+    "died": "2020-01-27T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
+    "email": "kaifmusabji@gmail.com",
+    "phone": 9998687495,
+    "initiatedBy": "kulsum saifali musabji",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-20T19:55:54.602Z",
+    "updatedAt": "2024-08-20T19:55:54.602Z",
+    "original_date": "27-01-2020",
+    "hijri_date": "3 Jumada al-Akhir, 1441 AH"
+  }
+]

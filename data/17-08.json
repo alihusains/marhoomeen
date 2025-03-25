@@ -1,0 +1,47 @@
+[
+  {
+    "id": 14,
+    "name": "મરહુમ હાજી રમઝાનઅલી પોપટઅલી કાનાણી (R.P.KANANI) લાલપુરવાળા",
+    "died": "2020-08-17T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત  ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:28:54.291Z",
+    "updatedAt": "2024-02-04T09:33:39.018Z",
+    "original_date": "17-08-2020",
+    "hijri_date": "28 Dhuʻl-Hijjah, 1441 AH"
+  },
+  {
+    "id": 178,
+    "name": "મરહુમ યુસુફઅલી ગાંગજીભાઇ પીરભાઇ ઘીવાલા",
+    "died": "2014-08-17T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "maghee1@hotmail.com",
+    "phone": 6466781549,
+    "initiatedBy": "Zainab Gheewala",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-19T21:33:04.895Z",
+    "updatedAt": "2024-03-19T21:33:04.895Z",
+    "original_date": "17-08-2014",
+    "hijri_date": "22 Shawwal, 1435 AH"
+  },
+  {
+    "id": 632,
+    "name": "મરહુમા હાજીયાણી ખૈરૂન્નીશાબેન બિન્તે અલાદીનભાઇ વસાયા",
+    "died": "2023-08-17T00:00:00.000Z",
+    "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+    "email": "sharminmamdani@gmail.com",
+    "phone": 9898264705,
+    "initiatedBy": "sharmin aliraza mamdani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-03-24T19:37:21.944Z",
+    "updatedAt": "2025-03-24T19:37:21.944Z",
+    "original_date": "17-08-2023",
+    "hijri_date": "1 Mahe Safar, 1445 AH"
+  }
+]

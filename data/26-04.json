@@ -1,0 +1,47 @@
+[
+  {
+    "id": 224,
+    "name": "મરહુમ હાજી હુસૈનઅલી ગુલામહુસૈન જમાણી(બત્તીવાળા)",
+    "died": "2021-04-26T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા",
+    "email": "arifalijamani@gmail.com",
+    "phone": 8866775616,
+    "initiatedBy": "આરીફઅલી એચ જમાણી",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-30T20:28:58.429Z",
+    "updatedAt": "2024-03-30T20:28:58.429Z",
+    "original_date": "26-04-2021",
+    "hijri_date": "14 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 300,
+    "name": "મરહુમ મોહંમ્મદરઝા ભાઇ ઇબ્ને હુસૈનઅલી બંદેઅલી વીરજી ખોજા(કેરા-કચ્છ)",
+    "died": "2021-04-26T00:00:00.000Z",
+    "place": "કેરા કચ્છ ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "26-04-2021",
+    "hijri_date": "14 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 618,
+    "name": " મરહુમ રઝાભાઇ નુરભાઇ મલપરા",
+    "died": "2021-04-26T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડીયા",
+    "email": "malparashirina@gmail.com",
+    "phone": 9898504606,
+    "initiatedBy": "Shirina Ben Misam Ali Malpara ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-03-17T19:55:30.468Z",
+    "updatedAt": "2025-03-17T19:55:30.468Z",
+    "original_date": "26-04-2021",
+    "hijri_date": "14 Mahe Ramadhan, 1442 AH"
+  }
+]

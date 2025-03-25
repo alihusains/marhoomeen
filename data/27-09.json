@@ -1,0 +1,47 @@
+[
+  {
+    "id": 60,
+    "name": "મરહુમા રસીદાબેન બિન્તે બહાદુરઅલી ભેરવાણી Wo મરહુમ ફિરોઝઅલી હૈદરઅલી પોપટ ભારવાણી",
+    "died": "2020-09-27T00:00:00.000Z",
+    "place": "માલીયા-મિંયાણા ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "mas",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-02-20T01:11:05.150Z",
+    "updatedAt": "2024-02-20T01:11:05.150Z",
+    "original_date": "27-09-2020",
+    "hijri_date": "10 Mahe Safar, 1442 AH"
+  },
+  {
+    "id": 243,
+    "name": "મરહુમ સલીમહુસૈન હાજી અસગરઅલી હાલાણી",
+    "died": "2019-09-27T00:00:00.000Z",
+    "place": "અહમદાવાદ ગુજરાત ઇન્ડિયા",
+    "email": "haidralimamadni@gimal.com",
+    "phone": 9428347814,
+    "initiatedBy": "sahbbir m mamadni morbi",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-04T10:22:55.144Z",
+    "updatedAt": "2024-04-04T10:22:55.144Z",
+    "original_date": "27-09-2019",
+    "hijri_date": "28 Mahe Muharram, 1441 AH"
+  },
+  {
+    "id": 568,
+    "name": "મરહુમ અકબરઅલી મોહંમ્મદઅલી કામદાર",
+    "died": "2020-09-27T00:00:00.000Z",
+    "place": "દુર્ગ છતીસગઢ ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "femida merchant",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "27-09-2020",
+    "hijri_date": "10 Mahe Safar, 1442 AH"
+  }
+]

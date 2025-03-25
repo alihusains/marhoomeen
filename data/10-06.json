@@ -1,0 +1,32 @@
+[
+  {
+    "id": 136,
+    "name": "મરહુમ મંજુરઅલી મહમદઅલી ગોવાણી",
+    "died": "1989-06-10T00:00:00.000Z",
+    "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
+    "email": "aligovani88@gmail.com",
+    "phone": 9173072072,
+    "initiatedBy": "અલીરઝા ગોવાણી",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-14T09:07:08.510Z",
+    "updatedAt": "2024-03-14T09:07:08.510Z",
+    "original_date": "10-06-1989",
+    "hijri_date": "7 Dhuʻl-Qiʻdah, 1409 AH"
+  },
+  {
+    "id": 341,
+    "name": "મરહુમ ડોસનભાઇ અઘારીયા",
+    "died": "2021-06-10T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
+    "email": "riyaz.aghariya@gmail.com",
+    "phone": 9979971919,
+    "initiatedBy": "Riyaz Aghariya",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-06-09T22:23:29.264Z",
+    "updatedAt": "2024-06-09T22:23:29.264Z",
+    "original_date": "10-06-2021",
+    "hijri_date": "30 Shawwal, 1442 AH"
+  }
+]

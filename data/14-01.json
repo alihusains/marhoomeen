@@ -1,0 +1,32 @@
+[
+  {
+    "id": 277,
+    "name": "મરહુમ અલીભાઇ ગીગાભાઇ વાલજી",
+    "died": "1957-01-14T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9220853236,
+    "initiatedBy": "siraj mamdani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-07T12:57:16.796Z",
+    "updatedAt": "2024-04-07T12:57:16.796Z",
+    "original_date": "14-01-1957",
+    "hijri_date": "13 Jumada al-Akhir, 1376 AH"
+  },
+  {
+    "id": 283,
+    "name": "મરહુમ વાહીદઅલી અબ્દુલહુસૈન ગોવાણી ",
+    "died": "2009-01-14T00:00:00.000Z",
+    "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
+    "email": "mvgowani@gmail.com",
+    "phone": 9722771212,
+    "initiatedBy": "mohammadhussain vahedali govani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-18T16:48:06.125Z",
+    "updatedAt": "2024-04-18T16:48:06.125Z",
+    "original_date": "14-01-2009",
+    "hijri_date": "18 Mahe Muharram, 1430 AH"
+  }
+]

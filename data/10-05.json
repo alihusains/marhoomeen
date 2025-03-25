@@ -1,0 +1,62 @@
+[
+  {
+    "id": 147,
+    "name": "મરહુમ હાજી નઝર અબ્બાસ હાજી ગુલામ અબ્બાસ તળાજાવાળા ",
+    "died": "2021-05-10T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mtalajawala@gmail.com",
+    "phone": 9833955856,
+    "initiatedBy": "Qasim talajawala",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-15T00:18:26.508Z",
+    "updatedAt": "2024-03-15T00:18:26.508Z",
+    "original_date": "10-05-2021",
+    "hijri_date": "28 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 272,
+    "name": "મરહુમા ફતુબેન નાનુભાઇ દોઢીયા",
+    "died": "2023-05-10T00:00:00.000Z",
+    "place": "થડચ પાલીતાણા ગુજરાત ઇન્ડિયા ",
+    "email": "adildodiya44@gmail.com",
+    "phone": 7373959495,
+    "initiatedBy": "Asharaf dodiya",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-04-07T06:08:46.219Z",
+    "updatedAt": "2024-04-07T06:08:46.219Z",
+    "original_date": "10-05-2023",
+    "hijri_date": "20 Shawwal, 1444 AH"
+  },
+  {
+    "id": 309,
+    "name": "મરહુમા નાઝીમાબાનુ બિન્તે મોહંમ્મદહુસૈન મરચન્ટ W/o સલીમભાઇ નિશારભાઇ ડોકટર & S/o આરીફભાઈ મરચન્ટ (J.F.)",
+    "died": "2024-05-10T00:00:00.000Z",
+    "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "Admin",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-05-09T09:17:46.095Z",
+    "updatedAt": "2024-05-09T09:17:46.095Z",
+    "original_date": "10-05-2024",
+    "hijri_date": "2 Dhuʻl-Qiʻdah, 1445 AH"
+  },
+  {
+    "id": 451,
+    "name": "મરહુમ હાજી નજરઅબ્બાસ ઇબ્ને હાજી ગુલામઅબ્બાસ  તલાજાવાલા",
+    "died": "2021-05-10T00:00:00.000Z",
+    "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mntalajawala@gmail.com",
+    "phone": 9833955856,
+    "initiatedBy": "qasim",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-09-20T13:33:33.563Z",
+    "updatedAt": "2024-09-20T13:33:33.563Z",
+    "original_date": "10-05-2021",
+    "hijri_date": "28 Mahe Ramadhan, 1442 AH"
+  }
+]

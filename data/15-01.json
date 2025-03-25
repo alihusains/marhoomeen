@@ -1,0 +1,62 @@
+[
+  {
+    "id": 227,
+    "name": "મરહુમ આશીકઅલી તુરાબઅલી મોગલ",
+    "died": "1999-01-15T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા",
+    "email": "nakimogal11072@gmail.com",
+    "phone": 9824727293,
+    "initiatedBy": "MOGAL ALINAKI ANSAR HUSSAIN",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-31T21:16:32.735Z",
+    "updatedAt": "2024-03-31T21:16:32.735Z",
+    "original_date": "15-01-1999",
+    "hijri_date": "28 Mahe Ramadhan, 1419 AH"
+  },
+  {
+    "id": 525,
+    "name": "મરહુમ અબ્દુલ રસુલ ફઝલ મર્ચંન્ટ",
+    "died": "2004-01-15T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "15-01-2004",
+    "hijri_date": "23 Dhuʻl-Qiʻdah, 1424 AH"
+  },
+  {
+    "id": 532,
+    "name": "મરહુમા કુલશુમબેન મોહંમ્મદઅલી ઇસ્માઇલ",
+    "died": "2017-01-15T00:00:00.000Z",
+    "place": "નાગલપર કચ્છ ઇન્ડિયા ",
+    "email": "bhimanizavadasgher@gmail.com",
+    "phone": 9106640475,
+    "initiatedBy": "nilam javadasghar bhimani ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-01-20T19:18:43.504Z",
+    "updatedAt": "2025-01-20T19:18:43.504Z",
+    "original_date": "15-01-2017",
+    "hijri_date": "17 Rabi' al-Akhir, 1438 AH"
+  },
+  {
+    "id": 542,
+    "name": "મરહુમા ફાતમાબેન નાનજીભાઇ દેવજાણી",
+    "died": "1975-01-15T00:00:00.000Z",
+    "place": "વીજપડી બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
+    "email": "ashikabbasrasbharya@gmail.com",
+    "phone": 7621061064,
+    "initiatedBy": "Rasbharya AshikAbbas D ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-01-27T22:55:13.941Z",
+    "updatedAt": "2025-01-27T22:55:13.941Z",
+    "original_date": "15-01-1975",
+    "hijri_date": "3 Mahe Muharram, 1395 AH"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 16,
+    "name": "મરહુમ હાજી તુરાબઅલી હુસૈનઅલી રાજાણી ",
+    "died": "2020-06-01T00:00:00.000Z",
+    "place": "મઝગ‍ાંવ મુંબઈ ઇન્ડિયા",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969558682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:28:54.291Z",
+    "updatedAt": "2024-02-04T09:35:02.884Z",
+    "original_date": "01-06-2020",
+    "hijri_date": "10 Shawwal, 1441 AH"
+  },
+  {
+    "id": 59,
+    "name": "મરહુમા રોશનબાનું બિનતે ગુલામહુસૈનભાઇ દામાણી W/o મરહુમ શેરઅલી ફાઝલ ઇસ્માઇલ (કેરા-કચ્છ) ",
+    "died": "2020-06-01T00:00:00.000Z",
+    "place": "ભુજ-કચ્છ ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "mas",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-02-20T01:11:05.150Z",
+    "updatedAt": "2024-02-20T01:11:05.150Z",
+    "original_date": "01-06-2020",
+    "hijri_date": "10 Shawwal, 1441 AH"
+  },
+  {
+    "id": 519,
+    "name": "મરહુમા ઝહેરાબાનુ બિન્તે રઝાહુસૈનભાઇ નાણાવટી W/o મરહુમ દીનારઅલી અબ્દુલહુસૈનભાઇ ગોવાની ",
+    "died": "2019-06-01T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "1973afzaldgovani@gmail.com",
+    "phone": 9820371607,
+    "initiatedBy": "AFZAL Husain Dinar ali Govani ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-12-25T07:30:05.778Z",
+    "updatedAt": "2024-12-25T07:30:05.778Z",
+    "original_date": "01-06-2019",
+    "hijri_date": "28 Mahe Ramadhan, 1440 AH"
+  }
+]

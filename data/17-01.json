@@ -1,0 +1,32 @@
+[
+  {
+    "id": 152,
+    "name": "મરહુમા નાઝનીન બિન્તે ઓનઅલી લાલજી દાતુ",
+    "died": "2023-01-17T00:00:00.000Z",
+    "place": "Sutton, London",
+    "email": "sabyhirji@gmail.com",
+    "phone": 7901616393,
+    "initiatedBy": "sab",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-15T09:18:57.658Z",
+    "updatedAt": "2024-03-15T09:18:57.658Z",
+    "original_date": "17-01-2023",
+    "hijri_date": "25 Jumada al-Akhir, 1444 AH"
+  },
+  {
+    "id": 376,
+    "name": "મરહુમ નિશારહુસૈન મોહંમ્મદઅલી રૂપાણી",
+    "died": "2010-01-17T00:00:00.000Z",
+    "place": "પાલધર મહારાષ્ટ્ર ઇન્ડિયા",
+    "email": "komailrupani36@gmail.com",
+    "phone": 9028221186,
+    "initiatedBy": "Komail Rupani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-05T19:30:08.705Z",
+    "updatedAt": "2024-08-05T19:30:08.705Z",
+    "original_date": "17-01-2010",
+    "hijri_date": "2 Mahe Safar, 1431 AH"
+  }
+]

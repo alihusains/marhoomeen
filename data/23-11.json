@@ -1,0 +1,32 @@
+[
+  {
+    "id": 340,
+    "name": "મરહુમ અમીરઅલી અકબરઅલી જેરાજ ",
+    "died": "2015-11-23T00:00:00.000Z",
+    "place": "ભુજ કચ્છ ઇન્ડિયા ",
+    "email": "aliakbarjeraj3131@gmail.com",
+    "phone": 8780541508,
+    "initiatedBy": "AliAkbar AmirAli Jeraj ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-06-09T22:17:22.462Z",
+    "updatedAt": "2024-06-09T22:17:22.462Z",
+    "original_date": "23-11-2015",
+    "hijri_date": "12 Mahe Safar, 1437 AH"
+  },
+  {
+    "id": 382,
+    "name": "મરહુમ સજ્જાદઅલી ઇબ્ને હુસૈનઅલી કરીમઅલી અસરાની",
+    "died": "2022-11-23T00:00:00.000Z",
+    "place": "મરખામ કેનેડા",
+    "email": "masrani@gmail.com",
+    "phone": 8879870447,
+    "initiatedBy": "Munir Asrani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-08T02:12:31.757Z",
+    "updatedAt": "2024-08-08T02:12:31.757Z",
+    "original_date": "23-11-2022",
+    "hijri_date": "29 Rabi' al-Akhir, 1444 AH"
+  }
+]

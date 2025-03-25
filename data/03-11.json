@@ -1,0 +1,32 @@
+[
+  {
+    "id": 448,
+    "name": "મરહુમા રોશનબાનુ શેરઅલી મુખી",
+    "died": "2020-11-03T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "sajjadp@eim.ae",
+    "phone": 504509092,
+    "initiatedBy": "Sajjad",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-09-13T18:02:06.104Z",
+    "updatedAt": "2024-09-13T18:02:06.104Z",
+    "original_date": "03-11-2020",
+    "hijri_date": "18 Rabi' al-Awwal, 1442 AH"
+  },
+  {
+    "id": 483,
+    "name": "મરહુમા નાજીમા રમઝાનઅલી ભોજાણી",
+    "died": "2024-11-03T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "03-11-2024",
+    "hijri_date": "2 Jumada al-Awwal, 1446 AH"
+  }
+]

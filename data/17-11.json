@@ -1,0 +1,62 @@
+[
+  {
+    "id": 137,
+    "name": "મરહુમ રાજમોહંમ્મદ અલીમદ પોગલવા",
+    "died": "1986-11-17T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાઠા ઇન્ડિયા ",
+    "email": "alminpogalva@gmail.com",
+    "phone": 7045461920,
+    "initiatedBy": "અલમીન પોગલવા",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-14T09:15:24.848Z",
+    "updatedAt": "2024-03-14T09:15:24.848Z",
+    "original_date": "17-11-1986",
+    "hijri_date": "15 Rabi' al-Awwal, 1407 AH"
+  },
+  {
+    "id": 290,
+    "name": "મરહુમ હુસૈનઅલી કાસમઅલી છગલાની",
+    "died": "2015-11-17T00:00:00.000Z",
+    "place": "મુન્દ્રા કચ્છ ઇન્ડિયા ",
+    "email": "sajjad1028@gmail.com",
+    "phone": 9099118786,
+    "initiatedBy": "sajjad",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-19T11:31:16.940Z",
+    "updatedAt": "2024-04-19T11:31:16.940Z",
+    "original_date": "17-11-2015",
+    "hijri_date": "6 Mahe Safar, 1437 AH"
+  },
+  {
+    "id": 492,
+    "name": "મરહુમ હૈદરઅલી એહમદઅલી પનવેલવાલા",
+    "died": "2024-11-17T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "17-11-2024",
+    "hijri_date": "16 Jumada al-Awwal, 1446 AH"
+  },
+  {
+    "id": 518,
+    "name": "મરહુમ હુશેનઅલી કાસમઅલી ખોજા ",
+    "died": "2015-11-17T00:00:00.000Z",
+    "place": "મુન્દ્રા (કચ્છ) ઇન્ડિયા ",
+    "email": "sajjad1028@gmail.com",
+    "phone": 9099118786,
+    "initiatedBy": "સજ્જાદઅલી હુશેનઅલી ખોજા ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-12-20T20:26:09.214Z",
+    "updatedAt": "2024-12-20T20:26:09.214Z",
+    "original_date": "17-11-2015",
+    "hijri_date": "6 Mahe Safar, 1437 AH"
+  }
+]

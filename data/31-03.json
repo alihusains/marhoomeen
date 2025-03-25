@@ -1,0 +1,47 @@
+[
+  {
+    "id": 132,
+    "name": "મરહુમ મોહંમ્મદભાઇ ડોસનભાઇ પોગલવા ",
+    "died": "2004-03-31T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાઠા ઇન્ડિયા ",
+    "email": "alimahammadpogalva@yahoo.com",
+    "phone": 9898560412,
+    "initiatedBy": "Alimahammad",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-14T09:08:23.319Z",
+    "updatedAt": "2024-03-14T09:08:23.319Z",
+    "original_date": "31-03-2004",
+    "hijri_date": "11 Mahe Safar, 1425 AH"
+  },
+  {
+    "id": 339,
+    "name": "મરહુમા માસુમાબેન બિન્તે શરીફઅલી કાયાણી W/o  મરહુમ અમીરઅલી અકબરઅલી જેરાજ ",
+    "died": "2023-03-31T00:00:00.000Z",
+    "place": "ભુજ કચ્છ ઇન્ડિયા ",
+    "email": "aliakbarjeraj3131@gmail.com",
+    "phone": 8780541508,
+    "initiatedBy": "AliAkbar AmirAli Jeraj ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-06-09T22:17:18.622Z",
+    "updatedAt": "2024-06-09T22:17:18.622Z",
+    "original_date": "31-03-2023",
+    "hijri_date": "10 Mahe Ramadhan, 1444 AH"
+  },
+  {
+    "id": 513,
+    "name": "મરહુમા માસુમાબેન બિન્તે શરીફઅલી રવજી ",
+    "died": "2023-03-31T00:00:00.000Z",
+    "place": "ભુજ કચ્છ ઇન્ડિયા ",
+    "email": "aliakbar@gmail.com",
+    "phone": 8780541508,
+    "initiatedBy": "અલી અકબર અમીરઅલી જેરાજ ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-01-07T10:24:58.715Z",
+    "updatedAt": "2025-01-07T10:24:58.715Z",
+    "original_date": "31-03-2023",
+    "hijri_date": "10 Mahe Ramadhan, 1444 AH"
+  }
+]

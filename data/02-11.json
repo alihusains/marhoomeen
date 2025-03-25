@@ -1,0 +1,32 @@
+[
+  {
+    "id": 20,
+    "name": "મરહુમા યાસમીનબેન ( કુબરાબેન ) બિન્તે હસનઅલી ઢેબર W/o અખતરઅલી યુસુફઅલી નાયાણી",
+    "died": "2019-11-02T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969558682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:28:54.291Z",
+    "updatedAt": "2024-02-04T09:34:55.967Z",
+    "original_date": "02-11-2019",
+    "hijri_date": "5 Rabi' al-Awwal, 1441 AH"
+  },
+  {
+    "id": 209,
+    "name": "મરહુમા આમેનાબેન  બિન્તે અકબરઅલી સુનસરા",
+    "died": "2005-11-02T00:00:00.000Z",
+    "place": "મુંબઇ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mehjabeensunasra110@gmail.com",
+    "phone": 9326770195,
+    "initiatedBy": "Mehjabeen Sunasara",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-29T12:26:38.736Z",
+    "updatedAt": "2024-03-29T12:26:38.736Z",
+    "original_date": "02-11-2005",
+    "hijri_date": "30 Mahe Ramadhan, 1426 AH"
+  }
+]

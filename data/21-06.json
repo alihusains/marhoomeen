@@ -1,0 +1,47 @@
+[
+  {
+    "id": 417,
+    "name": "મરહુમા ફાતમાબેન બાપુભાઇ મોમીન ",
+    "died": "2007-06-21T00:00:00.000Z",
+    "place": "યુ.એસ.એ.",
+    "email": "ali2naaz@yahoo.com",
+    "phone": 4047861248,
+    "initiatedBy": "Hoor Mohlal",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-08-14T22:22:45.674Z",
+    "updatedAt": "2024-08-14T22:22:45.674Z",
+    "original_date": "21-06-2007",
+    "hijri_date": "6 Jumada al-Akhir, 1428 AH"
+  },
+  {
+    "id": 437,
+    "name": "મરહુમ ગુલામ એહમદ મોહંમ્મદભાઇ મોમીન",
+    "died": "2005-06-21T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "almomin14@ymail.com",
+    "phone": 4702951081,
+    "initiatedBy": "aliraza momin",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-28T16:06:35.420Z",
+    "updatedAt": "2024-08-28T16:06:35.420Z",
+    "original_date": "21-06-2005",
+    "hijri_date": "15 Jumada al-Awwal, 1426 AH"
+  },
+  {
+    "id": 503,
+    "name": "મરહુમ હાફીઝઅલી અકબરઅલી મુની ",
+    "died": "2001-06-21T00:00:00.000Z",
+    "place": "વીજપડી બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
+    "email": "ADWANIMUNI786@GMAIL.COM",
+    "phone": 9898616105,
+    "initiatedBy": "AFJAL ALI AKBAR ALI MUNI",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-12-10T22:48:09.842Z",
+    "updatedAt": "2024-12-10T22:48:09.842Z",
+    "original_date": "21-06-2001",
+    "hijri_date": "29 Rabi' al-Awwal, 1422 AH"
+  }
+]

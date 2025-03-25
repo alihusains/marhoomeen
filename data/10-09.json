@@ -1,0 +1,32 @@
+[
+  {
+    "id": 386,
+    "name": "મરહુમ બરકતઅલી નજરઅલી હેમાણી",
+    "died": "2020-09-10T00:00:00.000Z",
+    "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "mmbhojani00@yahoo.com",
+    "phone": 9833967559,
+    "initiatedBy": "Mehjabeen",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-08-08T07:16:41.194Z",
+    "updatedAt": "2024-08-08T07:16:41.194Z",
+    "original_date": "10-09-2020",
+    "hijri_date": "22 Mahe Muharram, 1442 AH"
+  },
+  {
+    "id": 490,
+    "name": "મરહુમા અમીનાબેન મોહંમદભાઈ ચૌધરી",
+    "died": "1987-09-10T00:00:00.000Z",
+    "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
+    "email": "alimahammadpogalva@yahoo.com",
+    "phone": 9898560412,
+    "initiatedBy": "અલીમોહંમદ  ડોસનભાઈ પોગલવા ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-11-11T20:58:02.688Z",
+    "updatedAt": "2024-11-11T20:58:02.689Z",
+    "original_date": "10-09-1987",
+    "hijri_date": "17 Mahe Muharram, 1408 AH"
+  }
+]

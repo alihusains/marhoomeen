@@ -1,0 +1,32 @@
+[
+  {
+    "id": 180,
+    "name": "મરહુમા દૌલતબાનું બિન્તે  ફિદાહુસૈન  ઓટોવાલા W/o  મરહુમ અકબરઅલી યુસુફઅલી હીરાણી",
+    "died": "2013-08-19T00:00:00.000Z",
+    "place": "થ્રોલહટ્ટન સ્વીડન ",
+    "email": "hirani@sharkspeed.com",
+    "phone": 707209531,
+    "initiatedBy": "munawwar Ali Hirani ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-20T13:13:20.069Z",
+    "updatedAt": "2024-03-20T13:13:20.069Z",
+    "original_date": "19-08-2013",
+    "hijri_date": "13 Shawwal, 1434 AH"
+  },
+  {
+    "id": 357,
+    "name": "મરહુમ અલમદાર હુસૈન ઇઝહાર હુસૈન સૈયદ ",
+    "died": "1989-08-19T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "saiyedabbas@gmail.com",
+    "phone": 9737153155,
+    "initiatedBy": "Saiyed Abbas Hussain Alamdar Hussain",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-07-12T21:16:00.495Z",
+    "updatedAt": "2024-07-12T21:16:00.495Z",
+    "original_date": "19-08-1989",
+    "hijri_date": "18 Mahe Muharram, 1410 AH"
+  }
+]

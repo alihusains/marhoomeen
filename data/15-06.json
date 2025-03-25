@@ -1,0 +1,32 @@
+[
+  {
+    "id": 345,
+    "name": "મરહુમા શેરબાનુબાઇ હસનઅલી હીરજી રાજપર  M/o હાજીયાણી શાહેદાબેન ધરમશી ",
+    "died": "2024-06-15T00:00:00.000Z",
+    "place": "Birmingham",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "શાહેદાબેન ધરમશી",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "15-06-2024",
+    "hijri_date": "9 Dhuʻl-Hijjah, 1445 AH"
+  },
+  {
+    "id": 346,
+    "name": "મરહુમ હબીબભાઇ  સુલેમાનભાઇ  મકનોજીયા ",
+    "died": "1999-06-15T00:00:00.000Z",
+    "place": "મેતા-કાણોદર બનાસકાંઠા ઇન્ડિયા ",
+    "email": "mrm.mustakim92@gmail.com",
+    "phone": 8097610900,
+    "initiatedBy": "મુસ્તકીમ મેક્નોજિયા",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-06-16T14:38:22.328Z",
+    "updatedAt": "2024-06-16T14:38:22.328Z",
+    "original_date": "15-06-1999",
+    "hijri_date": "2 Rabi' al-Awwal, 1420 AH"
+  }
+]

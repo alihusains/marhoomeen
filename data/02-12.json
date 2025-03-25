@@ -1,0 +1,47 @@
+[
+  {
+    "id": 40,
+    "name": "મરહુમ હાજી મોહંમ્મદઅલી ગુલામહુસૈન  દામાણી (બાબુભાઇ)",
+    "died": "2016-12-02T00:00:00.000Z",
+    "place": "ભુજ-કચ્છ ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-03T13:30:21.228Z",
+    "updatedAt": "2024-02-04T09:38:48.310Z",
+    "original_date": "02-12-2016",
+    "hijri_date": "3 Rabi' al-Awwal, 1438 AH"
+  },
+  {
+    "id": 184,
+    "name": "મરહુમા હાજીયાણી શેરબાનું બિન્તે બરકતઅલી દાઉદાણી ",
+    "died": "2023-12-02T00:00:00.000Z",
+    "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
+    "email": "brotherlakhani@gmail.com",
+    "phone": 9722361072,
+    "initiatedBy": "REZAALI LAKHANI",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-03-21T23:49:57.398Z",
+    "updatedAt": "2024-03-21T23:49:57.398Z",
+    "original_date": "02-12-2023",
+    "hijri_date": "19 Jumada al-Awwal, 1445 AH"
+  },
+  {
+    "id": 611,
+    "name": "મર્હુમ તુરાબઅલી અમરશીભાઇ કમાણી ",
+    "died": "2000-12-02T00:00:00.000Z",
+    "place": "રાજુલા ગુજરાત ઈન્ડિયા ",
+    "email": "rajabalimuni@yahoo.com",
+    "phone": 9824288863,
+    "initiatedBy": "sultanali Haji Rajabali muni ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-03-14T17:53:06.685Z",
+    "updatedAt": "2025-03-14T17:53:06.685Z",
+    "original_date": "02-12-2000",
+    "hijri_date": "7 Mahe Ramadhan, 1421 AH"
+  }
+]

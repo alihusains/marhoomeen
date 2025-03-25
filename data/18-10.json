@@ -1,0 +1,32 @@
+[
+  {
+    "id": 529,
+    "name": "મરહુમ સૈયદ સાદીકહુસૈન અકબરઅલી નકવી",
+    "died": "2010-10-18T00:00:00.000Z",
+    "place": "કોડીનાર, ગુજરાત, ઇન્ડિયા",
+    "email": "shahji9870@gmail.com",
+    "phone": 9879278614,
+    "initiatedBy": "સૈયદ ફીરોઝહૈદર સાદીકહુસૈન નકવી",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-01-19T00:54:13.696Z",
+    "updatedAt": "2025-01-19T00:54:13.696Z",
+    "original_date": "18-10-2010",
+    "hijri_date": "11 Dhuʻl-Qiʻdah, 1431 AH"
+  },
+  {
+    "id": 581,
+    "name": "મરહુમ સૈયદ ઇકબાલહુસૈન સાદીકઅલી જલાલી",
+    "died": "1980-10-18T00:00:00.000Z",
+    "place": "ખંભાત ગુજરાત ઇન્ડિયા ",
+    "email": "kanizesakina@gmail.com",
+    "phone": 9574690110,
+    "initiatedBy": "kanize sakina panjvani ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-02-28T19:14:20.774Z",
+    "updatedAt": "2025-02-28T19:14:20.774Z",
+    "original_date": "18-10-1980",
+    "hijri_date": "9 Dhuʻl-Hijjah, 1400 AH"
+  }
+]

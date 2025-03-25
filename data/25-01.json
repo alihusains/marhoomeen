@@ -1,0 +1,47 @@
+[
+  {
+    "id": 292,
+    "name": "મરહુમ મોહંમ્મદઅલી અલ્લાદીનભાઇ સુંદરાણી ",
+    "died": "2008-01-25T00:00:00.000Z",
+    "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+    "email": "mahedisundrani.75@gmail.com",
+    "phone": 9898203946,
+    "initiatedBy": "Mahedi Sundrani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-22T14:42:15.988Z",
+    "updatedAt": "2024-04-22T14:42:15.988Z",
+    "original_date": "25-01-2008",
+    "hijri_date": "17 Mahe Muharram, 1429 AH"
+  },
+  {
+    "id": 450,
+    "name": "મરહુમ શબ્બીરઅલી મોહંમ્મદઅલી અમીરી ",
+    "died": "2011-01-25T00:00:00.000Z",
+    "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+    "email": "saranikomelabbas70@gmail.com",
+    "phone": 6356057414,
+    "initiatedBy": "sarani komel abbas",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-09-19T22:10:15.487Z",
+    "updatedAt": "2024-09-19T22:10:15.487Z",
+    "original_date": "25-01-2011",
+    "hijri_date": "21 Mahe Safar, 1432 AH"
+  },
+  {
+    "id": 478,
+    "name": "મરહુમ હસનઅલી કરીમભાઈ રાજન લાખાણી",
+    "died": "1963-01-25T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "25-01-1963",
+    "hijri_date": "30 Shaʻban, 1382 AH"
+  }
+]

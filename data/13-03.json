@@ -1,0 +1,62 @@
+[
+  {
+    "id": 57,
+    "name": "મરહુમ હૈદરઅલી હસનઅલી (બચુદાદા) ભીમાણી (ટાણાવાળા)",
+    "died": "2004-03-13T00:00:00.000Z",
+    "place": "ટાણા ગુજરાત ઇન્ડિયા ",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "mas",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-20T01:11:05.150Z",
+    "updatedAt": "2024-02-20T01:11:05.150Z",
+    "original_date": "13-03-2004",
+    "hijri_date": "22 Mahe Muharram, 1425 AH"
+  },
+  {
+    "id": 472,
+    "name": "મરહુમા ઝહેરા બિન્તે ઇરફાન અલી અમીરી",
+    "died": "2014-03-13T00:00:00.000Z",
+    "place": "ગુલબરગા કર્નાટકા",
+    "email": "ia454908@gmail.com",
+    "phone": 6363793856,
+    "initiatedBy": "ઈરફાન અલી",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-10-22T18:31:09.902Z",
+    "updatedAt": "2024-10-22T18:31:09.902Z",
+    "original_date": "13-03-2014",
+    "hijri_date": "12 Jumada al-Awwal, 1435 AH"
+  },
+  {
+    "id": 516,
+    "name": "મરહુમ બસીરઅલી હસનઅલી પંજવાણી",
+    "died": "2005-03-13T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "zahirneelam1220@gmail.com",
+    "phone": 9664696912,
+    "initiatedBy": "Neelamzahirabbas",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-12-17T18:46:51.730Z",
+    "updatedAt": "2024-12-17T18:46:51.730Z",
+    "original_date": "13-03-2005",
+    "hijri_date": "3 Mahe Safar, 1426 AH"
+  },
+  {
+    "id": 602,
+    "name": "મરહુમ નિસારઅલી રમઝાનઅલી અલવાણી",
+    "died": "2024-03-13T00:00:00.000Z",
+    "place": "ગઢડા ગુજરાત ઇન્ડિયા ",
+    "email": "abbasalvani786@gmail.com",
+    "phone": 9016571214,
+    "initiatedBy": "સલીમઅલી નિસારઅલી અલવાણી",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-03-11T14:26:22.523Z",
+    "updatedAt": "2025-03-11T14:26:22.523Z",
+    "original_date": "13-03-2024",
+    "hijri_date": "3 Mahe Ramadhan, 1445 AH"
+  }
+]

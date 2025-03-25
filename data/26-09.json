@@ -1,0 +1,32 @@
+[
+  {
+    "id": 74,
+    "name": "મરહુમ બરકત અલી માસુમ અલી ભોજાણી",
+    "died": "2023-09-26T00:00:00.000Z",
+    "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
+    "email": "alamdarmobile7@gmail.com",
+    "phone": 9737969492,
+    "initiatedBy": "Abbas B bhojani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-03-03T06:58:07.642Z",
+    "updatedAt": "2024-03-03T06:58:07.642Z",
+    "original_date": "26-09-2023",
+    "hijri_date": "11 Rabi' al-Awwal, 1445 AH"
+  },
+  {
+    "id": 457,
+    "name": "મરહુમા દૌલતબાનું રજબઅલી જેમાંણી",
+    "died": "1976-09-26T00:00:00.000Z",
+    "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+    "email": "Bhurani.abbas@gmail.com",
+    "phone": 9974313218,
+    "initiatedBy": "Abbasali M Bhurani",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2024-09-29T00:51:29.704Z",
+    "updatedAt": "2024-09-29T00:51:29.704Z",
+    "original_date": "26-09-1976",
+    "hijri_date": "3 Shawwal, 1396 AH"
+  }
+]

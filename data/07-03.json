@@ -1,0 +1,47 @@
+[
+  {
+    "id": 268,
+    "name": "મરહુમ અલતાફ હુસૈન મોહંમ્મદ હુસૈનભાઇ અમીરી  ",
+    "died": "2014-03-07T00:00:00.000Z",
+    "place": "મુંબઇ મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "amirizulfiqar@gmail.com",
+    "phone": 9819637370,
+    "initiatedBy": "Zulfiqar G. Amiri",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-04-06T13:04:53.119Z",
+    "updatedAt": "2024-04-06T13:04:53.119Z",
+    "original_date": "07-03-2014",
+    "hijri_date": "6 Jumada al-Awwal, 1435 AH"
+  },
+  {
+    "id": 539,
+    "name": "મરહુમ ગુલામહુસૈન જીવાભાઇ સુનસરા",
+    "died": "2021-03-07T00:00:00.000Z",
+    "place": "મેતા બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
+    "email": "turabalisunasara@gmail.com",
+    "phone": 942960038,
+    "initiatedBy": "Turabali ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-01-27T03:14:34.205Z",
+    "updatedAt": "2025-01-27T03:14:34.205Z",
+    "original_date": "07-03-2021",
+    "hijri_date": "24 Mahe Rajab, 1442 AH"
+  },
+  {
+    "id": 544,
+    "name": "મરહુમ ગુલામહુસૈન કરમાલીભાઇ  રાજાણી",
+    "died": "2010-03-07T00:00:00.000Z",
+    "place": "સીલવાસા ગુજરાત ઇન્ડિયા ",
+    "email": "rajanimahmad110@gmail.com",
+    "phone": 8141418572,
+    "initiatedBy": "Mahmad Rajani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-01-27T23:44:11.916Z",
+    "updatedAt": "2025-01-27T23:44:11.916Z",
+    "original_date": "07-03-2010",
+    "hijri_date": "21 Rabi' al-Awwal, 1431 AH"
+  }
+]
