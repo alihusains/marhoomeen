@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # Manual trigger option
 
 env:
-  API_BASE_URL: "https://script.google.com/macros/s/${{ secrets.DEPLOYMENT_ID }}/exec"
+  DEPLOYMENT_ID: ${{ secrets.DEPLOYMENT_ID }}
 
 jobs:
   fetch-process-upload:
