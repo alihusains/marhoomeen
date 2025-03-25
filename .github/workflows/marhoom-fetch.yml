@@ -1,0 +1,43 @@
+name: Fetch and Process Marhoom Data
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Every 12 hours
+  workflow_dispatch:        # Manual trigger option
+
+env:
+  API_BASE_URL: "https://script.google.com/macros/s/${{ secrets.DEPLOYMENT_ID }}/exec"
+
+jobs:
+  fetch-process-upload:
+    runs-on: ubuntu-latest
+    environment: production   # Ensure it accesses the environment secrets
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Fetch and Process Marhoom Data
+        run: node process.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Update marhoom data $(date -u +"%Y-%m-%dT%H:%M:%SZ")" || echo "No changes to commit"
+          git push
+
+      - name: Purge CDNJS cache
+        run: |
+          curl -X PURGE "https://cdnjs.cloudflare.com/ajax/libs/YOUR_PATH/allmarhooms.json"
+          curl -X PURGE "https://cdnjs.cloudflare.com/ajax/libs/YOUR_PATH/monthwise.json"
+          curl -X PURGE "https://cdnjs.cloudflare.com/ajax/libs/YOUR_PATH/*.json"
