@@ -9688,5 +9688,50 @@
     "updatedAt": "2025-03-25T07:46:05.536Z",
     "original_date": "02-01-2025",
     "hijri_date": "3 Mahe Rajab, 1446 AH"
+  },
+  {
+    "id": 647,
+    "name": "મોહમ્મદ અલી ગુલામ અલી પંજવાણી ",
+    "died": "2010-08-17T00:00:00.000Z",
+    "place": "સુરત ગુજરાત ઇન્ડિયા ",
+    "email": "akbaralipanjwani15@gmail.com",
+    "phone": 9913499100,
+    "initiatedBy": "કોમેલ પંજવાણી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-03-26T05:51:54.920Z",
+    "updatedAt": "2025-03-26T05:51:54.920Z",
+    "original_date": "17-08-2010",
+    "hijri_date": "7 Mahe Ramadhan, 1431 AH"
+  },
+  {
+    "id": 648,
+    "name": "ફિરોઝ અલી મોહમ્મદ અલી પંજવાણી ",
+    "died": "2017-03-30T00:00:00.000Z",
+    "place": "સુરત ગુજરાત ઇન્ડિયા ",
+    "email": "akbaralipanjwani15@gmail.com",
+    "phone": 9913499100,
+    "initiatedBy": "કોમેલ પંજવાણી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-03-26T05:51:57.757Z",
+    "updatedAt": "2025-03-26T05:51:57.757Z",
+    "original_date": "30-03-2017",
+    "hijri_date": "2 Mahe Rajab, 1438 AH"
+  },
+  {
+    "id": 649,
+    "name": "સમીમ બેન મોહમ્મદ અલી મુની ",
+    "died": "2021-05-04T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "akbaralipanjwani15@gmail.com",
+    "phone": 9913499100,
+    "initiatedBy": "કોમેલ પંજવાણી ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-03-26T05:52:01.980Z",
+    "updatedAt": "2025-03-26T05:52:01.980Z",
+    "original_date": "04-05-2021",
+    "hijri_date": "22 Mahe Ramadhan, 1442 AH"
   }
 ]
