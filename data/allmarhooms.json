@@ -9718,5 +9718,50 @@
     "updatedAt": "",
     "original_date": "26-03-2025",
     "hijri_date": "26 Mahe Ramadhan, 1446 AH"
+  },
+  {
+    "id": 646,
+    "name": "રૂપાબેન મહંમદ હુસેન કડીવાલા ખાન",
+    "died": "2024-11-10T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા",
+    "email": "firozkadiwala504@gmail.com",
+    "phone": 9998687493,
+    "initiatedBy": "કડીવાલા ફિરોઝ હૈદર મહમદ અલી",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-03-26T21:21:44.252Z",
+    "updatedAt": "2025-03-26T21:21:44.252Z",
+    "original_date": "10-11-2024",
+    "hijri_date": "9 Jumada al-Awwal, 1446 AH"
+  },
+  {
+    "id": 647,
+    "name": " દેવજીયાણી  રમજાનઅલી ફાજલ હુસેન દીહોર વાળા",
+    "died": "2022-11-05T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઈન્ડીયા ",
+    "email": "sajjadalis7992@gmail.com",
+    "phone": 9106812497,
+    "initiatedBy": "devjiyani SAJJAD Ali ramjan Ali ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-03-26T23:58:24.660Z",
+    "updatedAt": "2025-03-26T23:58:24.660Z",
+    "original_date": "05-11-2022",
+    "hijri_date": "11 Rabi' al-Akhir, 1444 AH"
+  },
+  {
+    "id": 648,
+    "name": "DOLAT BANU AKBARALI PUNJANI",
+    "died": "2021-05-23T00:00:00.000Z",
+    "place": "BHAVNAGAR GUJARAT INDIA",
+    "email": "akilbhimani14@yahoo.com",
+    "phone": 7878877878,
+    "initiatedBy": "AKILHASAN MASUMALI Bhimani ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-03-27T03:20:46.384Z",
+    "updatedAt": "2025-03-27T03:20:46.384Z",
+    "original_date": "23-05-2021",
+    "hijri_date": "12 Shawwal, 1442 AH"
   }
 ]
