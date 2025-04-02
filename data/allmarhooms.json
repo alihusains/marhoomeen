@@ -9913,5 +9913,20 @@
     "updatedAt": "2025-04-01T11:47:06.101Z",
     "original_date": "25-09-2017",
     "hijri_date": "5 Mahe Muharram, 1439 AH"
+  },
+  {
+    "id": 663,
+    "name": "ramzanali fazalhusain devjani",
+    "died": "2022-11-05T00:00:00.000Z",
+    "place": "Bhavnagar",
+    "email": "sajjadalis7992@gmail.com",
+    "phone": 9106812497,
+    "initiatedBy": "sajjadali devjani",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-04-02T00:49:23.103Z",
+    "updatedAt": "2025-04-02T00:49:23.103Z",
+    "original_date": "05-11-2022",
+    "hijri_date": "11 Rabi' al-Akhir, 1444 AH"
   }
 ]
