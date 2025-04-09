@@ -3672,7 +3672,7 @@
     "createdAt": "2024-04-04T21:50:43.464Z",
     "updatedAt": "2024-04-04T21:50:43.464Z",
     "original_date": "14-12-2017",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Rabi' al-Awwal, 1439 AH"
   },
   {
     "id": 246,
@@ -9973,5 +9973,65 @@
     "updatedAt": "2025-04-08T13:54:11.069Z",
     "original_date": "08-04-1972",
     "hijri_date": "24 Mahe Safar, 1392 AH"
+  },
+  {
+    "id": 660,
+    "name": "મરહુમ મિર્ઝા નવરોઝ અલી અબ્બાસ હુસેન.",
+    "died": "2005-07-05T00:00:00.000Z",
+    "place": "ખંભાત.",
+    "email": "fyzMirza1910@gmail.com",
+    "phone": 9724203514,
+    "initiatedBy": "મિર્ઝા ફૈયાઝ હુસેન નવરોઝ અલી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-04-08T19:02:15.933Z",
+    "updatedAt": "2025-04-08T19:02:15.933Z",
+    "original_date": "05-07-2005",
+    "hijri_date": "29 Jumada al-Awwal, 1426 AH"
+  },
+  {
+    "id": 661,
+    "name": "zehrabai binte gulamhusain",
+    "died": "2011-04-07T00:00:00.000Z",
+    "place": "mumbai",
+    "email": "nargisabdullalani@gmail.com",
+    "phone": 7715863109,
+    "initiatedBy": " nargis",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-04-08T20:24:17.208Z",
+    "updatedAt": "2025-04-08T20:24:17.208Z",
+    "original_date": "07-04-2011",
+    "hijri_date": "4 Jumada al-Awwal, 1432 AH"
+  },
+  {
+    "id": 662,
+    "name": "રોશન બાનુ હાજી બહાદુર અલી નાયાણી",
+    "died": "2011-05-14T00:00:00.000Z",
+    "place": "આરામ બાગ ભાવનગર",
+    "email": "devjaniakhtarali@gmail.com",
+    "phone": 7990685672,
+    "initiatedBy": "અખતર અલી ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-04-08T20:35:15.799Z",
+    "updatedAt": "2025-04-08T20:35:15.799Z",
+    "original_date": "14-05-2011",
+    "hijri_date": "11 Jumada al-Akhir, 1432 AH"
+  },
+  {
+    "id": 663,
+    "name": "sugrabanu Mohammed Ali kayani",
+    "died": "2023-06-22T00:00:00.000Z",
+    "place": "bhuj -kutch ",
+    "email": "shabithussain.khwaja@gmail.com",
+    "phone": 894383142,
+    "initiatedBy": "Kabir khvaja",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-04-08T20:45:45.210Z",
+    "updatedAt": "2025-04-08T20:45:45.210Z",
+    "original_date": "22-06-2023",
+    "hijri_date": "4 Dhuʻl-Hijjah, 1444 AH"
   }
 ]
