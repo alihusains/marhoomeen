@@ -30,7 +30,7 @@
     "hijri_date": "17 Mahe Ramadhan, 1437 AH"
   },
   {
-    "id": 473,
+    "id": 471,
     "name": "મરહુમા સાયરાબાનુ બિન્તે‌ મોહમ્મદઅલી અમીરી",
     "died": "2017-06-22T00:00:00.000Z",
     "place": "ગુલબરગા કર્નાટકા",
@@ -43,5 +43,20 @@
     "updatedAt": "2024-10-22T18:35:40.469Z",
     "original_date": "22-06-2017",
     "hijri_date": "28 Mahe Ramadhan, 1438 AH"
+  },
+  {
+    "id": 664,
+    "name": " મરહુમા સુગરાબાનુ મોહમ્મદઅલી કાયાણી",
+    "died": "2023-06-22T00:00:00.000Z",
+    "place": "ભુજ કચ્છ ઇન્ડિયા ",
+    "email": "shabithussain.khwaja@gmail.com",
+    "phone": 894383142,
+    "initiatedBy": "Kabir khvaja",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-04-08T20:45:45.210Z",
+    "updatedAt": "2025-04-08T20:45:45.210Z",
+    "original_date": "22-06-2023",
+    "hijri_date": "4 Dhuʻl-Hijjah, 1444 AH"
   }
 ]
