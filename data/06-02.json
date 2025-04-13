@@ -12,7 +12,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:33:25.888Z",
     "original_date": "06-02-2022",
-    "hijri_date": "5 Mahe Rajab, 1443 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 86,
@@ -27,6 +27,6 @@
     "createdAt": "2024-03-06T07:10:08.836Z",
     "updatedAt": "2024-03-06T07:10:08.836Z",
     "original_date": "06-02-1979",
-    "hijri_date": "9 Rabi' al-Awwal, 1399 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

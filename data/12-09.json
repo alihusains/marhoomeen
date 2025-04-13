@@ -12,7 +12,7 @@
     "createdAt": "2024-08-11T20:27:57.436Z",
     "updatedAt": "2024-08-11T20:27:57.436Z",
     "original_date": "12-09-2019",
-    "hijri_date": "13 Mahe Muharram, 1441 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 452,
@@ -27,6 +27,6 @@
     "createdAt": "2024-09-25T12:42:00.144Z",
     "updatedAt": "2024-09-25T12:42:00.144Z",
     "original_date": "12-09-2006",
-    "hijri_date": "20 Shaʻban, 1427 AH"
+    "hijri_date": "#ERROR!"
   }
 ]
