@@ -9977,7 +9977,7 @@
   {
     "id": 666,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-    "died": "2025-04-13T00:00:00.000Z",
+    "died": "2025-04-14T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -9986,8 +9986,8 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
-    "original_date": "13-04-2025",
-    "hijri_date": "15 Shawwal, 1446 AH"
+    "original_date": "14-04-2025",
+    "hijri_date": "16 Shawwal, 1446 AH"
   },
   {
     "id": 667,
@@ -10016,6 +10016,21 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 669,
+    "name": "દેવજીયાણી અનાદીન ભાઈ  કરમાલી ભાઈ",
+    "died": "",
+    "place": "ભદ્વાવળ 1984-04-12 ",
+    "email": "devjaniakhtarali@gmail.com",
+    "phone": 7990685672,
+    "initiatedBy": "દેવજાણી અખતર અલી",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-04-12T19:25:02.771Z",
+    "updatedAt": "2025-04-12T19:25:02.772Z",
     "original_date": "",
     "hijri_date": ""
   }
