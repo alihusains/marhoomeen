@@ -9976,6 +9976,66 @@
   },
   {
     "id": 666,
+    "name": "મરહુમ હસનભાઈ વજીરભાઈ ચૌધરી (લહેરી)",
+    "died": "2025-03-12T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા",
+    "email": "alimahammadpogalva@yahoo.com",
+    "phone": 9898560412,
+    "initiatedBy": "અલીમોહંમદ ડોસનભાઈ પોગલવા",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-04-13T18:31:12.934Z",
+    "updatedAt": "2025-04-13T18:31:12.934Z",
+    "original_date": "12-03-2025",
+    "hijri_date": "12 Mahe Ramadhan, 1446 AH"
+  },
+  {
+    "id": 667,
+    "name": "મરહુમ વીલાયત હુસૈન ઇબ્ને અકબર મીયા",
+    "died": "1990-03-30T00:00:00.000Z",
+    "place": "pakistan",
+    "email": "Rehnuma@5454gmail.com",
+    "phone": 928200291189,
+    "initiatedBy": "Bukhari Rehnuma Zainab ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-04-13T16:31:26.138Z",
+    "updatedAt": "2025-04-13T16:31:26.138Z",
+    "original_date": "30-03-1990",
+    "hijri_date": "4 Mahe Ramadhan, 1410 AH"
+  },
+  {
+    "id": 668,
+    "name": "મરહુમ સમીમ હૈદર સાદીક હુસૈન રીઝવી",
+    "died": "2001-05-16T00:00:00.000Z",
+    "place": "જામનગર ગુજરાત ઈન્ડીયા ",
+    "email": "taslimhaider920@gmail.com",
+    "phone": 9825794983,
+    "initiatedBy": "Taslimhaider Rizvi ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-04-14T13:59:47.605Z",
+    "updatedAt": "2025-04-14T13:59:47.605Z",
+    "original_date": "16-05-2001",
+    "hijri_date": "23 Mahe Safar, 1422 AH"
+  },
+  {
+    "id": 669,
+    "name": "મરહુમા ઝહેરાબાઇ બિન્તે એહમદભાઇ માસ્ટર(કચ્છ મુન્દ્રાવાલા) વફાત તા.૧૫ માહે શવ્વાલ ૧૪૪૧",
+    "died": "2025-04-14T00:00:00.000Z",
+    "place": " મુન્દ્રા કચ્છ ઇન્ડિયા  9/06/2020",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "ali khaki",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "14-04-2025",
+    "hijri_date": "16 Shawwal, 1446 AH"
+  },
+  {
+    "id": 670,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
     "died": "2025-04-14T00:00:00.000Z",
     "place": "",
@@ -9990,7 +10050,7 @@
     "hijri_date": "16 Shawwal, 1446 AH"
   },
   {
-    "id": 667,
+    "id": 671,
     "name": "zehrabai binte gulamhusain",
     "died": "2011-04-07T00:00:00.000Z",
     "place": "mumbai",
@@ -10005,7 +10065,7 @@
     "hijri_date": "4 Jumada al-Awwal, 1432 AH"
   },
   {
-    "id": 668,
+    "id": 672,
     "name": "મરહુમ શેરઅલીભાઇ ફાઝલભાઇ વંકાણી વફાત : ૨૭ માહે રમઝાન ૧૪૨૦",
     "died": "",
     "place": "",
@@ -10020,7 +10080,7 @@
     "hijri_date": ""
   },
   {
-    "id": 669,
+    "id": 673,
     "name": "દેવજીયાણી અનાદીન ભાઈ  કરમાલી ભાઈ",
     "died": "",
     "place": "ભદ્વાવળ 1984-04-12 ",
@@ -10033,35 +10093,5 @@
     "updatedAt": "2025-04-12T19:25:02.772Z",
     "original_date": "",
     "hijri_date": ""
-  },
-  {
-    "id": 670,
-    "name": "હસનભાઈ વજીરભાઈ ચૌધરી (લહેરી)",
-    "died": "2025-03-12T00:00:00.000Z",
-    "place": "કાણોદર ",
-    "email": "alimahammadpogalva@yahoo.com",
-    "phone": 9898560412,
-    "initiatedBy": "અલીમોહંમદ ડોસનભાઈ પોગલવા",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-04-13T18:31:12.934Z",
-    "updatedAt": "2025-04-13T18:31:12.934Z",
-    "original_date": "12-03-2025",
-    "hijri_date": "12 Mahe Ramadhan, 1446 AH"
-  },
-  {
-    "id": 671,
-    "name": "Vilayat Husain Ibane Akbar Miya ",
-    "died": "1990-03-30T00:00:00.000Z",
-    "place": "pakistan",
-    "email": "Rehnuma@5454gmail.com",
-    "phone": 8200291189,
-    "initiatedBy": "Bukhari Rehnuma Zainab ",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-04-13T16:31:26.138Z",
-    "updatedAt": "2025-04-13T16:31:26.138Z",
-    "original_date": "30-03-1990",
-    "hijri_date": "4 Mahe Ramadhan, 1410 AH"
   }
 ]

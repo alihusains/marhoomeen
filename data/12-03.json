@@ -43,5 +43,20 @@
     "updatedAt": "2025-03-28T17:28:52.606Z",
     "original_date": "12-03-2010",
     "hijri_date": "26 Rabi' al-Awwal, 1431 AH"
+  },
+  {
+    "id": 666,
+    "name": "મરહુમ હસનભાઈ વજીરભાઈ ચૌધરી (લહેરી)",
+    "died": "2025-03-12T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા",
+    "email": "alimahammadpogalva@yahoo.com",
+    "phone": 9898560412,
+    "initiatedBy": "અલીમોહંમદ ડોસનભાઈ પોગલવા",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-04-13T18:31:12.934Z",
+    "updatedAt": "2025-04-13T18:31:12.934Z",
+    "original_date": "12-03-2025",
+    "hijri_date": "12 Mahe Ramadhan, 1446 AH"
   }
 ]
