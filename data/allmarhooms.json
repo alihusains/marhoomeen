@@ -10108,5 +10108,35 @@
     "updatedAt": "2025-04-15T03:30:13.682Z",
     "original_date": "14-04-2025",
     "hijri_date": "16 Shawwal, 1446 AH"
+  },
+  {
+    "id": 675,
+    "name": "alli khunawala ",
+    "died": "2024-10-13T00:00:00.000Z",
+    "place": "kahan",
+    "email": "faizankhunawala14@gmail.com",
+    "phone": 8733906817,
+    "initiatedBy": "faizan khunawala ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-04-16T20:12:08.037Z",
+    "updatedAt": "2025-04-16T20:12:08.037Z",
+    "original_date": "13-10-2024",
+    "hijri_date": "11 Rabi' al-Akhir, 1446 AH"
+  },
+  {
+    "id": 676,
+    "name": "મરહુમ હુસેન અલી કાસમ અલી",
+    "died": "2015-11-17T00:00:00.000Z",
+    "place": "મુન્દ્રા કચ્છ ગુજરાત ઈન્ડિયા ",
+    "email": "sajjad1028@gmail.com",
+    "phone": 9099118786,
+    "initiatedBy": "સજ્જાદ ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-04-16T21:35:22.441Z",
+    "updatedAt": "2025-04-16T21:35:22.441Z",
+    "original_date": "17-11-2015",
+    "hijri_date": "6 Mahe Safar, 1437 AH"
   }
 ]
