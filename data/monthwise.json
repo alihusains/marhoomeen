@@ -7338,7 +7338,7 @@
     },
     {
       "id": 659,
-      "name": " મરહુમ કાળુભાઇ ગનીભાઇ  સહેલીયા",
+      "name": " મરહુમ કાળુભાઇ ગનીભાઇ  સેલીયા",
       "died": "1983-04-06T00:00:00.000Z",
       "place": "વડોદરા ગુજરાત ઇન્ડિયા ",
       "email": "saheliyakhatija@gmail.com",
@@ -7353,7 +7353,7 @@
     },
     {
       "id": 660,
-      "name": "મરહુમ હુસેનભાઇ મકબુલભાઈ સહેલીયા ",
+      "name": "મરહુમ હુસેનભાઇ મકબુલભાઈ સેલીયા ",
       "died": "2004-04-19T00:00:00.000Z",
       "place": "વડોદરા ગુજરાત ઇન્ડિયા ",
       "email": "saheliyakhatija@gmail.com",
@@ -7380,21 +7380,6 @@
       "updatedAt": "2025-04-08T13:54:11.069Z",
       "original_date": "08-04-1972",
       "hijri_date": "24 Mahe Safar, 1392 AH"
-    },
-    {
-      "id": 670,
-      "name": "મરહુમા ઝહેરાબાઇ બિન્તે એહમદભાઇ માસ્ટર(કચ્છ મુન્દ્રાવાલા) વફાત તા.૧૫ માહે શવ્વાલ ૧૪૪૧",
-      "died": "2025-04-14T00:00:00.000Z",
-      "place": " મુન્દ્રા કચ્છ ઇન્ડિયા  9/06/2020",
-      "email": "",
-      "phone": "",
-      "initiatedBy": "ali khaki",
-      "status": true,
-      "gender": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "original_date": "14-04-2025",
-      "hijri_date": "16 Shawwal, 1446 AH"
     },
     {
       "id": 671,
@@ -8372,6 +8357,21 @@
       "updatedAt": "2025-04-17T19:30:02.239Z",
       "original_date": "01-06-2021",
       "hijri_date": "21 Shawwal, 1442 AH"
+    },
+    {
+      "id": 670,
+      "name": "મરહુમા ઝહેરાબાઇ બિન્તે એહમદભાઇ માસ્ટર(કચ્છ મુન્દ્રાવાલા)",
+      "died": "2020-06-08T00:00:00.000Z",
+      "place": " મુન્દ્રા કચ્છ ઇન્ડિયા  9/06/2020",
+      "email": "",
+      "phone": "",
+      "initiatedBy": "ali khaki",
+      "status": true,
+      "gender": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "original_date": "08-06-2020",
+      "hijri_date": "17 Shawwal, 1441 AH"
     }
   ],
   "05": [
