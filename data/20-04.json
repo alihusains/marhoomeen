@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "20-04-2021",
-    "hijri_date": "8 Mahe Ramadhan, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 672,
@@ -27,6 +27,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "20-04-2025",
-    "hijri_date": "22 Shawwal, 1446 AH"
+    "hijri_date": "#ERROR!"
   }
 ]
