@@ -12,7 +12,7 @@
     "createdAt": "2024-03-13T18:04:26.730Z",
     "updatedAt": "2024-03-13T18:04:26.730Z",
     "original_date": "21-04-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
   },
   {
     "id": 211,
@@ -27,7 +27,7 @@
     "createdAt": "2024-03-29T13:37:02.286Z",
     "updatedAt": "2024-03-29T13:37:02.287Z",
     "original_date": "21-04-1986",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "12 Shaʻban, 1406 AH"
   },
   {
     "id": 368,
@@ -42,7 +42,7 @@
     "createdAt": "2024-07-28T16:54:03.442Z",
     "updatedAt": "2024-07-28T16:54:03.442Z",
     "original_date": "21-04-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
   },
   {
     "id": 395,
@@ -57,21 +57,21 @@
     "createdAt": "2024-08-08T22:46:37.423Z",
     "updatedAt": "2024-08-08T22:46:37.423Z",
     "original_date": "21-04-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
   },
   {
-    "id": 617,
-    "name": "મરહુમ હાજી અહમદહુસૈન નુરભાઇ શેરશીયા",
-    "died": "2021-04-21T00:00:00.000Z",
-    "place": "કાણોદર ગુજરાત ઇન્ડીયા",
-    "email": "hussyalee89@gmail.com",
-    "phone": 9265163810,
-    "initiatedBy": "husain A Shershiya",
+    "id": 671,
+    "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
+    "died": "2025-04-21T00:00:00.000Z",
+    "place": "",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
     "status": true,
-    "gender": "male",
-    "createdAt": "2025-03-18T10:47:03.508Z",
-    "updatedAt": "2025-03-18T10:47:03.508Z",
-    "original_date": "21-04-2021",
-    "hijri_date": "#ERROR!"
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "21-04-2025",
+    "hijri_date": "23 Shawwal, 1446 AH"
   }
 ]

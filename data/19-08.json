@@ -12,7 +12,7 @@
     "createdAt": "2024-03-20T13:13:20.069Z",
     "updatedAt": "2024-03-20T13:13:20.069Z",
     "original_date": "19-08-2013",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "13 Shawwal, 1434 AH"
   },
   {
     "id": 357,
@@ -27,10 +27,10 @@
     "createdAt": "2024-07-12T21:16:00.495Z",
     "updatedAt": "2024-07-12T21:16:00.495Z",
     "original_date": "19-08-1989",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "18 Mahe Muharram, 1410 AH"
   },
   {
-    "id": 665,
+    "id": 664,
     "name": "મરહૂમા રોશનબેન મગનભાઈ વિરાણી ",
     "died": "2024-08-19T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઈન્ડીયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-04-09T12:27:00.195Z",
     "updatedAt": "2025-04-09T12:27:00.195Z",
     "original_date": "19-08-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "15 Mahe Safar, 1446 AH"
   }
 ]

@@ -12,7 +12,7 @@
     "createdAt": "2024-03-29T01:26:59.003Z",
     "updatedAt": "2024-03-29T01:26:59.003Z",
     "original_date": "30-09-1949",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "8 Dhuʻl-Hijjah, 1368 AH"
   },
   {
     "id": 278,
@@ -27,7 +27,7 @@
     "createdAt": "2024-04-07T12:57:19.501Z",
     "updatedAt": "2024-04-07T12:57:19.501Z",
     "original_date": "30-09-1982",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "13 Dhuʻl-Hijjah, 1402 AH"
   },
   {
     "id": 366,
@@ -42,7 +42,7 @@
     "createdAt": "2024-07-20T22:11:17.251Z",
     "updatedAt": "2024-07-20T22:11:17.251Z",
     "original_date": "30-09-2019",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "2 Mahe Safar, 1441 AH"
   },
   {
     "id": 405,
@@ -57,7 +57,7 @@
     "createdAt": "2024-08-11T20:44:42.426Z",
     "updatedAt": "2024-08-11T20:44:42.426Z",
     "original_date": "30-09-2020",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "13 Mahe Safar, 1442 AH"
   },
   {
     "id": 453,
@@ -72,10 +72,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "30-09-2020",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "13 Mahe Safar, 1442 AH"
   },
   {
-    "id": 633,
+    "id": 632,
     "name": "મરહુમ સૈયદ ઈરફાન હૈદર ઝાકીર હુસૈન ",
     "died": "2012-09-30T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -87,6 +87,6 @@
     "createdAt": "2025-03-19T08:05:47.540Z",
     "updatedAt": "2025-03-19T08:05:47.541Z",
     "original_date": "30-09-2012",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "14 Dhuʻl-Qiʻdah, 1433 AH"
   }
 ]
