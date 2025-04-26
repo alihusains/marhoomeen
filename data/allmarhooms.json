@@ -10153,5 +10153,20 @@
     "updatedAt": "2025-04-25T17:23:07.774Z",
     "original_date": "09-04-2025",
     "hijri_date": "11 Shawwal, 1446 AH"
+  },
+  {
+    "id": 678,
+    "name": "Aminaben binte Rajemad Umatiya",
+    "died": "2017-04-26T00:00:00.000Z",
+    "place": "Kanodar ",
+    "email": "yunus_umatiya@yahoo.com",
+    "phone": 9998557179,
+    "initiatedBy": "Yunusali Umatiya",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-04-26T06:21:33.712Z",
+    "updatedAt": "2025-04-26T06:21:33.712Z",
+    "original_date": "26-04-2017",
+    "hijri_date": "29 Mahe Rajab, 1438 AH"
   }
 ]
