@@ -12,10 +12,10 @@
     "createdAt": "2024-03-24T03:16:47.344Z",
     "updatedAt": "2024-03-24T03:16:47.344Z",
     "original_date": "03-04-2009",
-    "hijri_date": "8 Rabi' al-Akhir, 1430 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 538,
+    "id": 537,
     "name": "મરહુમ હાજી દાદાભાઇ નુરમોહંમ્મદભાઇ  રસભર્યા",
     "died": "1965-04-03T00:00:00.000Z",
     "place": "વીજપડી બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
@@ -27,6 +27,6 @@
     "createdAt": "2025-01-27T22:51:12.085Z",
     "updatedAt": "2025-01-27T22:51:12.085Z",
     "original_date": "03-04-1965",
-    "hijri_date": "1 Dhuʻl-Hijjah, 1384 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

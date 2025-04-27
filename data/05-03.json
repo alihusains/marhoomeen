@@ -12,7 +12,7 @@
     "createdAt": "2024-03-08T14:15:07.925Z",
     "updatedAt": "2024-03-08T14:15:07.925Z",
     "original_date": "05-03-2008",
-    "hijri_date": "27 Mahe Safar, 1429 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 288,
@@ -27,10 +27,10 @@
     "createdAt": "2024-04-18T22:55:04.425Z",
     "updatedAt": "2024-04-18T22:55:04.425Z",
     "original_date": "05-03-1970",
-    "hijri_date": "27 Dhuʻl-Hijjah, 1389 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 427,
+    "id": 426,
     "name": "મરહુમ ઝયનબબાનુ બિન્તે સીદીભાઇ ફરસતા",
     "died": "2013-03-05T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2024-08-26T18:15:38.281Z",
     "updatedAt": "2024-08-26T18:15:38.281Z",
     "original_date": "05-03-2013",
-    "hijri_date": "23 Rabi' al-Akhir, 1434 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

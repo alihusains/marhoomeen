@@ -12,10 +12,10 @@
     "createdAt": "2024-04-22T14:42:15.988Z",
     "updatedAt": "2024-04-22T14:42:15.988Z",
     "original_date": "25-01-2008",
-    "hijri_date": "17 Mahe Muharram, 1429 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 448,
+    "id": 447,
     "name": "મરહુમ શબ્બીરઅલી મોહંમ્મદઅલી અમીરી ",
     "died": "2011-01-25T00:00:00.000Z",
     "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "2024-09-19T22:10:15.487Z",
     "updatedAt": "2024-09-19T22:10:15.487Z",
     "original_date": "25-01-2011",
-    "hijri_date": "21 Mahe Safar, 1432 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 476,
+    "id": 475,
     "name": "મરહુમ હસનઅલી કરીમભાઈ રાજન લાખાણી",
     "died": "1963-01-25T00:00:00.000Z",
     "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "25-01-1963",
-    "hijri_date": "30 Shaʻban, 1382 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

@@ -12,7 +12,7 @@
     "createdAt": "2024-04-02T23:19:41.196Z",
     "updatedAt": "2024-04-02T23:19:41.196Z",
     "original_date": "23-06-2017",
-    "hijri_date": "29 Mahe Ramadhan, 1438 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 284,
@@ -27,10 +27,10 @@
     "createdAt": "2024-04-18T16:48:09.311Z",
     "updatedAt": "2024-04-18T16:48:09.311Z",
     "original_date": "23-06-2013",
-    "hijri_date": "15 Shaʻban, 1434 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 466,
+    "id": 465,
     "name": "મરહુમ શબ્બીરઅલી અકબરઅલી ભીમાણી(ટાણાવાળા) ",
     "died": "2017-06-23T00:00:00.000Z",
     "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2024-10-09T15:41:51.458Z",
     "updatedAt": "2024-10-09T15:41:51.458Z",
     "original_date": "23-06-2017",
-    "hijri_date": "29 Mahe Ramadhan, 1438 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

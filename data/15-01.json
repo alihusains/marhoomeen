@@ -12,10 +12,10 @@
     "createdAt": "2024-03-31T21:16:32.735Z",
     "updatedAt": "2024-03-31T21:16:32.735Z",
     "original_date": "15-01-1999",
-    "hijri_date": "28 Mahe Ramadhan, 1419 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 522,
+    "id": 521,
     "name": "મરહુમ અબ્દુલ રસુલ ફઝલ મર્ચંન્ટ",
     "died": "2004-01-15T00:00:00.000Z",
     "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "15-01-2004",
-    "hijri_date": "23 Dhuʻl-Qiʻdah, 1424 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 529,
+    "id": 528,
     "name": "મરહુમા કુલશુમબેન મોહંમ્મદઅલી ઇસ્માઇલ",
     "died": "2017-01-15T00:00:00.000Z",
     "place": "નાગલપર કચ્છ ઇન્ડિયા ",
@@ -42,10 +42,10 @@
     "createdAt": "2025-01-20T19:18:43.504Z",
     "updatedAt": "2025-01-20T19:18:43.504Z",
     "original_date": "15-01-2017",
-    "hijri_date": "17 Rabi' al-Akhir, 1438 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 539,
+    "id": 538,
     "name": "મરહુમા ફાતમાબેન નાનજીભાઇ દેવજાણી",
     "died": "1975-01-15T00:00:00.000Z",
     "place": "વીજપડી બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "2025-01-27T22:55:13.941Z",
     "updatedAt": "2025-01-27T22:55:13.941Z",
     "original_date": "15-01-1975",
-    "hijri_date": "3 Mahe Muharram, 1395 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

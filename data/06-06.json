@@ -12,7 +12,7 @@
     "createdAt": "2024-04-23T00:22:27.048Z",
     "updatedAt": "2024-04-23T00:22:27.048Z",
     "original_date": "06-06-1981",
-    "hijri_date": "4 Shaʻban, 1401 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 299,
@@ -27,7 +27,7 @@
     "createdAt": "2024-04-24T14:09:16.688Z",
     "updatedAt": "2024-04-24T14:09:16.688Z",
     "original_date": "06-06-2007",
-    "hijri_date": "21 Jumada al-Awwal, 1428 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 335,
@@ -42,7 +42,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "06-06-2011",
-    "hijri_date": "5 Mahe Rajab, 1432 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 336,
@@ -57,10 +57,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "06-06-2015",
-    "hijri_date": "19 Shaʻban, 1436 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 460,
+    "id": 459,
     "name": "મરહુમા રોશનબાનુ બિન્તે મોહમ્મદ અલી સાયાણી W/o મરહુમ અબ્દુલ હુસૈન પીરભાઈ લાખાણી ",
     "died": "2007-06-06T00:00:00.000Z",
     "place": "મહુવા ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -72,10 +72,10 @@
     "createdAt": "2024-10-02T20:54:34.249Z",
     "updatedAt": "2024-10-02T20:54:34.249Z",
     "original_date": "06-06-2007",
-    "hijri_date": "21 Jumada al-Awwal, 1428 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 463,
+    "id": 462,
     "name": "મરહુમા રોશનબાનુ બિન્તે મોહમ્મદ અલી સાયાણી ",
     "died": "2007-06-06T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -87,6 +87,6 @@
     "createdAt": "2024-10-06T10:45:17.642Z",
     "updatedAt": "2024-10-06T10:45:17.642Z",
     "original_date": "06-06-2007",
-    "hijri_date": "21 Jumada al-Awwal, 1428 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

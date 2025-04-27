@@ -12,10 +12,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "13-01-0951",
-    "hijri_date": "28 Mahe Rajab, 339 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 625,
+    "id": 624,
     "name": "મરહુમા ઝયનબબેન ખાનમોહંમ્મદભાઇ નંનદોલીયા ",
     "died": "2012-01-13T00:00:00.000Z",
     "place": "મેતા કાણોદર ગુજરાત ઇન્ડીયા",
@@ -27,6 +27,6 @@
     "createdAt": "2025-03-24T01:35:20.224Z",
     "updatedAt": "2025-03-24T01:35:20.224Z",
     "original_date": "13-01-2012",
-    "hijri_date": "20 Mahe Safar, 1433 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

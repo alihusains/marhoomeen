@@ -12,7 +12,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:35:17.511Z",
     "original_date": "19-02-1925",
-    "hijri_date": "26 Mahe Rajab, 1343 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:35:17.511Z",
     "original_date": "19-02-1925",
-    "hijri_date": "26 Mahe Rajab, 1343 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 12,
@@ -42,7 +42,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-16T12:04:50.625Z",
     "original_date": "19-02-2009",
-    "hijri_date": "24 Mahe Safar, 1430 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 41,
@@ -57,10 +57,10 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:34:41.098Z",
     "original_date": "19-02-2017",
-    "hijri_date": "22 Jumada al-Awwal, 1438 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 573,
+    "id": 572,
     "name": "મરહુમા રૂકૈયાબેન બિન્તે રજબઅલી ફરસતા  W/o  અકબરઅલી બચુભાઈ રાજાણી ",
     "died": "2025-02-19T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -72,10 +72,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "19-02-2025",
-    "hijri_date": "21 Shaʻban, 1446 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 582,
+    "id": 581,
     "name": "મરહુમ રમઝાનઅલી અલ્લારખ્ખાભાઇ ખુંટ ",
     "died": "2011-02-19T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -87,6 +87,6 @@
     "createdAt": "2025-03-04T13:03:53.697Z",
     "updatedAt": "2025-03-04T13:03:53.697Z",
     "original_date": "19-02-2011",
-    "hijri_date": "16 Rabi' al-Awwal, 1432 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

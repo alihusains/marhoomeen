@@ -12,10 +12,10 @@
     "createdAt": "2024-04-23T00:22:29.720Z",
     "updatedAt": "2024-04-23T00:22:29.720Z",
     "original_date": "14-03-1988",
-    "hijri_date": "26 Mahe Rajab, 1408 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 503,
+    "id": 502,
     "name": "મરહુમા નરગીશ ખાતુન બિન્તે મોહંમ્મદભાઈ મોમીન",
     "died": "2017-03-14T00:00:00.000Z",
     "place": "સુરત ગુજરાત ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "2024-12-09T10:47:05.046Z",
     "updatedAt": "2024-12-09T10:47:05.046Z",
     "original_date": "14-03-2017",
-    "hijri_date": "16 Jumada al-Akhir, 1438 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 604,
+    "id": 603,
     "name": "મરહુમ ઝહેરાખાતુન બિન્તે રહમતુલ્લાહ માવજી W/o મરહુમ તુરાબઅલી ભુજવાલા ",
     "died": "2025-03-14T00:00:00.000Z",
     "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "14-03-2025",
-    "hijri_date": "14 Mahe Ramadhan, 1446 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

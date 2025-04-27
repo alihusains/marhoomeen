@@ -12,7 +12,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:35:24.615Z",
     "original_date": "10-01-2024",
-    "hijri_date": "29 Jumada al-Akhir, 1445 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 191,
@@ -27,7 +27,7 @@
     "createdAt": "2024-03-24T03:16:55.522Z",
     "updatedAt": "2024-03-24T03:16:55.522Z",
     "original_date": "10-01-2010",
-    "hijri_date": "25 Mahe Muharram, 1431 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 390,
@@ -42,10 +42,10 @@
     "createdAt": "2024-08-08T13:21:35.654Z",
     "updatedAt": "2024-08-08T13:21:35.654Z",
     "original_date": "10-01-2013",
-    "hijri_date": "28 Mahe Safar, 1434 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 445,
+    "id": 444,
     "name": "મરહુમ શેરઅલીભાઇ જાનમોહંમ્મદભાઇ દેવજીયાણી",
     "died": "1997-01-10T00:00:00.000Z",
     "place": "સીહોર ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "2024-09-11T10:20:08.097Z",
     "updatedAt": "2024-09-11T10:20:08.097Z",
     "original_date": "10-01-1997",
-    "hijri_date": "1 Mahe Ramadhan, 1417 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

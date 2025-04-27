@@ -12,7 +12,7 @@
     "createdAt": "2024-03-08T20:05:50.738Z",
     "updatedAt": "2024-03-08T20:05:50.738Z",
     "original_date": "14-06-2023",
-    "hijri_date": "26 Dhuʻl-Qiʻdah, 1444 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 221,
@@ -27,7 +27,7 @@
     "createdAt": "2024-03-30T12:41:17.817Z",
     "updatedAt": "2024-03-30T12:41:17.817Z",
     "original_date": "14-06-2023",
-    "hijri_date": "26 Dhuʻl-Qiʻdah, 1444 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 222,
@@ -42,7 +42,7 @@
     "createdAt": "2024-03-30T12:41:21.807Z",
     "updatedAt": "2024-03-30T12:41:21.807Z",
     "original_date": "14-06-2023",
-    "hijri_date": "26 Dhuʻl-Qiʻdah, 1444 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 223,
@@ -57,7 +57,7 @@
     "createdAt": "2024-03-30T12:41:32.459Z",
     "updatedAt": "2024-03-30T12:41:32.459Z",
     "original_date": "14-06-2023",
-    "hijri_date": "26 Dhuʻl-Qiʻdah, 1444 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 409,
@@ -72,10 +72,10 @@
     "createdAt": "2024-08-12T20:04:34.660Z",
     "updatedAt": "2024-08-12T20:04:34.660Z",
     "original_date": "14-06-2019",
-    "hijri_date": "11 Shawwal, 1440 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 602,
+    "id": 601,
     "name": "મરહુમા ફતુમાબાનુ એહમદહુસૈન કેશવાણી",
     "died": "2023-06-14T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -87,10 +87,10 @@
     "createdAt": "2025-03-12T00:07:46.877Z",
     "updatedAt": "2025-03-12T00:07:46.877Z",
     "original_date": "14-06-2023",
-    "hijri_date": "26 Dhuʻl-Qiʻdah, 1444 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 620,
+    "id": 619,
     "name": "મરહુમ મુખતારઅલી વલીમોહંમ્મદ રવજાણી",
     "died": "2017-06-14T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -102,6 +102,6 @@
     "createdAt": "2025-03-19T05:55:12.378Z",
     "updatedAt": "2025-03-19T05:55:12.378Z",
     "original_date": "14-06-2017",
-    "hijri_date": "20 Mahe Ramadhan, 1438 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

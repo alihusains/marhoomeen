@@ -12,10 +12,10 @@
     "createdAt": "2024-08-08T07:16:41.194Z",
     "updatedAt": "2024-08-08T07:16:41.194Z",
     "original_date": "10-09-2020",
-    "hijri_date": "22 Mahe Muharram, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 488,
+    "id": 487,
     "name": "મરહુમા અમીનાબેન મોહંમદભાઈ ચૌધરી",
     "died": "1987-09-10T00:00:00.000Z",
     "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
@@ -27,6 +27,6 @@
     "createdAt": "2024-11-11T20:58:02.688Z",
     "updatedAt": "2024-11-11T20:58:02.689Z",
     "original_date": "10-09-1987",
-    "hijri_date": "17 Mahe Muharram, 1408 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

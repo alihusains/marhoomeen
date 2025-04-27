@@ -12,10 +12,10 @@
     "createdAt": "2024-02-02T03:32:33.573Z",
     "updatedAt": "2024-02-02T08:25:36.016Z",
     "original_date": "07-05-2012",
-    "hijri_date": "16 Jumada al-Akhir, 1433 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 524,
+    "id": 523,
     "name": "મરહુમા ખૈરૂન્નીસા નજરઅલી ગોવાણી ",
     "died": "2021-05-07T00:00:00.000Z",
     "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
@@ -27,6 +27,6 @@
     "createdAt": "2025-01-16T12:12:44.126Z",
     "updatedAt": "2025-01-16T12:12:44.126Z",
     "original_date": "07-05-2021",
-    "hijri_date": "25 Mahe Ramadhan, 1442 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

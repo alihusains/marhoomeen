@@ -12,10 +12,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "20-03-1979",
-    "hijri_date": "22 Rabi' al-Akhir, 1399 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 500,
+    "id": 499,
     "name": "મરહુમ અકબરઅલી જાફરઅલી મુની",
     "died": "2005-03-20T00:00:00.000Z",
     "place": "વીજપડી બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "2024-12-10T22:46:09.640Z",
     "updatedAt": "2024-12-10T22:46:09.640Z",
     "original_date": "20-03-2005",
-    "hijri_date": "10 Mahe Safar, 1426 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 598,
+    "id": 597,
     "name": "મરહુમ  હાજી ઇરફાન અલી હૈદર અલી મરચન્ટ",
     "died": "2024-03-20T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-03-10T21:45:48.010Z",
     "updatedAt": "2025-03-10T21:45:48.010Z",
     "original_date": "20-03-2024",
-    "hijri_date": "10 Mahe Ramadhan, 1445 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

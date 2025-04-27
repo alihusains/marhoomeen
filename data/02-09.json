@@ -12,10 +12,10 @@
     "createdAt": "2024-03-21T22:27:34.174Z",
     "updatedAt": "2024-03-21T22:27:34.174Z",
     "original_date": "02-09-2020",
-    "hijri_date": "14 Mahe Muharram, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 440,
+    "id": 439,
     "name": "મરહુમ મોહમ્મદહુસૈનભાઇ માસુમઅલી વકીલ ",
     "died": "2024-09-02T00:00:00.000Z",
     "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
@@ -27,6 +27,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "02-09-2024",
-    "hijri_date": "29 Mahe Safar, 1446 AH"
+    "hijri_date": "#ERROR!"
   }
 ]
