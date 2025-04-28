@@ -1077,7 +1077,7 @@
     "createdAt": "2024-02-27T20:42:34.172Z",
     "updatedAt": "2024-02-27T20:42:34.172Z",
     "original_date": "27-02-2010",
-    "hijri_date": "13 Rabi' al-Awwal, 1431 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 73,
@@ -1437,7 +1437,7 @@
     "createdAt": "2024-03-06T20:20:23.117Z",
     "updatedAt": "2024-03-06T20:20:23.117Z",
     "original_date": "08-11-2020",
-    "hijri_date": "23 Rabi' al-Awwal, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 97,
@@ -1557,7 +1557,7 @@
     "createdAt": "2024-03-08T20:05:50.738Z",
     "updatedAt": "2024-03-08T20:05:50.738Z",
     "original_date": "14-06-2023",
-    "hijri_date": "26 Dhuʻl-Qiʻdah, 1444 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 105,
@@ -7452,7 +7452,7 @@
     "createdAt": "2024-11-27T07:11:48.797Z",
     "updatedAt": "2024-11-27T07:11:48.797Z",
     "original_date": "27-07-2005",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "21 Jumada al-Akhir, 1426 AH"
   },
   {
     "id": 498,
@@ -8637,7 +8637,7 @@
     "createdAt": "2025-02-28T19:12:43.572Z",
     "updatedAt": "2025-02-28T19:12:43.572Z",
     "original_date": "02-02-2018",
-    "hijri_date": "16 Jumada al-Awwal, 1439 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 577,
@@ -10198,5 +10198,20 @@
     "updatedAt": "2025-04-27T20:10:40.437Z",
     "original_date": "04-04-1988",
     "hijri_date": "17 Shaʻban, 1408 AH"
+  },
+  {
+    "id": 681,
+    "name": "મ બરકતઅલી રમજાનઅલી પંજવાણી ",
+    "died": "2018-12-15T00:00:00.000Z",
+    "place": "પાલીતાણા ",
+    "email": "mohsinalibarkatali@gmail.com",
+    "phone": 9227343545,
+    "initiatedBy": "મોહસીનઅલી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-04-28T14:57:16.859Z",
+    "updatedAt": "2025-04-28T14:57:16.859Z",
+    "original_date": "15-12-2018",
+    "hijri_date": "8 Rabi' al-Akhir, 1440 AH"
   }
 ]
