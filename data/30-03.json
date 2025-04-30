@@ -27,7 +27,7 @@
     "createdAt": "2025-03-26T05:51:57.757Z",
     "updatedAt": "2025-03-26T05:51:57.757Z",
     "original_date": "30-03-2017",
-    "hijri_date": "2 Mahe Rajab, 1438 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 665,
@@ -42,6 +42,6 @@
     "createdAt": "2025-04-13T16:31:26.138Z",
     "updatedAt": "2025-04-13T16:31:26.138Z",
     "original_date": "30-03-1990",
-    "hijri_date": "4 Mahe Ramadhan, 1410 AH"
+    "hijri_date": "#ERROR!"
   }
 ]
