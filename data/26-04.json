@@ -73,5 +73,20 @@
     "updatedAt": "",
     "original_date": "26-04-2025",
     "hijri_date": "28 Shawwal, 1446 AH"
+  },
+  {
+    "id": 689,
+    "name": "મરહુમા અમીનાબેન રાજેમદ ઉમતીયા",
+    "died": "2017-04-26T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા",
+    "email": "yunus_umatiya@yahoo.com",
+    "phone": 9998557179,
+    "initiatedBy": "Yunusali Umatiya",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-04-26T06:21:33.712Z",
+    "updatedAt": "2025-04-26T06:21:33.712Z",
+    "original_date": "26-04-2017",
+    "hijri_date": "29 Mahe Rajab, 1438 AH"
   }
 ]
