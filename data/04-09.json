@@ -12,7 +12,7 @@
     "createdAt": "2024-05-31T17:06:59.531Z",
     "updatedAt": "2024-05-31T17:06:59.531Z",
     "original_date": "04-09-1999",
-    "hijri_date": "24 Jumada al-Awwal, 1420 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 361,
@@ -27,6 +27,6 @@
     "createdAt": "2024-07-14T19:13:04.440Z",
     "updatedAt": "2024-07-14T19:13:04.440Z",
     "original_date": "04-09-2016",
-    "hijri_date": "3 Dhuʻl-Hijjah, 1437 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

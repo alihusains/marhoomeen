@@ -12,10 +12,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "14-07-2024",
-    "hijri_date": "9 Mahe Muharram, 1446 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 695,
+    "id": 692,
     "name": "મરહુમ હસનભાઈ રાજેભાઈ ચૌધરી ",
     "died": "2021-07-14T00:00:00.000Z",
     "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -27,6 +27,6 @@
     "createdAt": "2025-05-01T21:20:35.558Z",
     "updatedAt": "2025-05-01T21:20:35.558Z",
     "original_date": "14-07-2021",
-    "hijri_date": "4 Dhuʻl-Hijjah, 1442 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

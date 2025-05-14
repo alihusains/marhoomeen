@@ -12,7 +12,7 @@
     "createdAt": "2024-02-25T12:49:23.197Z",
     "updatedAt": "2024-02-25T12:49:23.197Z",
     "original_date": "31-08-2006",
-    "hijri_date": "8 Shaʻban, 1427 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 154,
@@ -27,7 +27,7 @@
     "createdAt": "2024-03-15T07:27:04.045Z",
     "updatedAt": "2024-03-15T07:27:04.045Z",
     "original_date": "31-08-2011",
-    "hijri_date": "2 Shawwal, 1432 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 438,
@@ -42,6 +42,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "31-08-1937",
-    "hijri_date": "25 Jumada al-Akhir, 1356 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

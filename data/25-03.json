@@ -12,7 +12,7 @@
     "createdAt": "2024-03-15T05:45:59.958Z",
     "updatedAt": "2024-03-15T05:45:59.958Z",
     "original_date": "25-03-2020",
-    "hijri_date": "1 Shaʻban, 1441 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 335,
@@ -27,6 +27,6 @@
     "createdAt": "2024-05-31T17:07:07.570Z",
     "updatedAt": "2024-05-31T17:07:07.570Z",
     "original_date": "25-03-2004",
-    "hijri_date": "5 Mahe Safar, 1425 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

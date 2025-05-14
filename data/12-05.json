@@ -12,7 +12,7 @@
     "createdAt": "2024-02-02T03:32:33.573Z",
     "updatedAt": "2024-02-02T08:16:04.910Z",
     "original_date": "12-05-2014",
-    "hijri_date": "13 Mahe Rajab, 1435 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 311,
@@ -27,7 +27,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "12-05-2003",
-    "hijri_date": "11 Rabi' al-Awwal, 1424 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 575,
@@ -42,6 +42,21 @@
     "createdAt": "2025-02-22T13:03:12.069Z",
     "updatedAt": "2025-02-22T13:03:12.069Z",
     "original_date": "12-05-2014",
-    "hijri_date": "13 Mahe Rajab, 1435 AH"
+    "hijri_date": "#ERROR!"
+  },
+  {
+    "id": 707,
+    "name": " મરહુમા કુવરબેન નુરભાઈ પોલરા (પટેલ)",
+    "died": "2025-05-12T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+    "email": "alimahammadpogalva@yahoo.com",
+    "phone": 9898560412,
+    "initiatedBy": "અલીમોહંમદ ડોસનભાઈ પોગલવા ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-05-13T08:29:54.158Z",
+    "updatedAt": "2025-05-13T08:29:54.158Z",
+    "original_date": "12-05-2025",
+    "hijri_date": "#ERROR!"
   }
 ]

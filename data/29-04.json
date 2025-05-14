@@ -12,10 +12,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "29-04-2000",
-    "hijri_date": "25 Mahe Muharram, 1421 AH"
+    "hijri_date": "#ERROR!"
   },
   {
-    "id": 700,
+    "id": 702,
     "name": "મરહુમ સુલ્તાનઅલી મહંમદઅલી સુમરાણી",
     "died": "2025-04-29T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -27,6 +27,6 @@
     "createdAt": "2025-05-04T00:15:03.180Z",
     "updatedAt": "2025-05-04T00:15:03.180Z",
     "original_date": "29-04-2025",
-    "hijri_date": "2 Dhuʻl-Qiʻdah, 1446 AH"
+    "hijri_date": "#ERROR!"
   }
 ]
