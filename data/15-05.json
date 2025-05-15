@@ -30,22 +30,7 @@
     "hijri_date": "7 Dhuʻl-Qiʻdah, 1445 AH"
   },
   {
-    "id": 404,
-    "name": "મરહુમા બતુલબાનું શાબાનઅલી પંજવાણી",
-    "died": "2024-05-15T00:00:00.000Z",
-    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
-    "email": "siddika1272@gmail.com",
-    "phone": 9825665133,
-    "initiatedBy": "Nayani Siddika Fatema",
-    "status": true,
-    "gender": "female",
-    "createdAt": "2024-08-11T20:27:55.151Z",
-    "updatedAt": "2024-08-11T20:27:55.151Z",
-    "original_date": "15-05-2024",
-    "hijri_date": "7 Dhuʻl-Qiʻdah, 1445 AH"
-  },
-  {
-    "id": 589,
+    "id": 588,
     "name": "મરહુમા ઝેહરાબેન હસનભાઈ ઉમતીયા ",
     "died": "2021-05-15T00:00:00.000Z",
     "place": "કાણોદર ગુજરાત ઇન્ડીયા",
@@ -58,5 +43,20 @@
     "updatedAt": "2025-03-05T09:44:48.654Z",
     "original_date": "15-05-2021",
     "hijri_date": "4 Shawwal, 1442 AH"
+  },
+  {
+    "id": 708,
+    "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
+    "died": "2025-05-15T00:00:00.000Z",
+    "place": "",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "15-05-2025",
+    "hijri_date": "18 Dhuʻl-Qiʻdah, 1446 AH"
   }
 ]
