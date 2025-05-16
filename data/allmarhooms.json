@@ -10080,7 +10080,7 @@
     "hijri_date": "28 Shawwal, 1446 AH"
   },
   {
-    "id": 693,
+    "id": 694,
     "name": "મરહુમા સુગરાબેન વલીમોહંમ્મદભાઇ વીરાણી",
     "died": "2025-04-09T00:00:00.000Z",
     "place": "Talaja",
@@ -10095,7 +10095,7 @@
     "hijri_date": "11 Shawwal, 1446 AH"
   },
   {
-    "id": 694,
+    "id": 695,
     "name": "મરહુમા અમીનાબેન રાજેમદ ઉમતીયા",
     "died": "2017-04-26T00:00:00.000Z",
     "place": "કાણોદર ગુજરાત ઇન્ડિયા",
@@ -10350,9 +10350,24 @@
     "hijri_date": "14 Rabi' al-Akhir, 1439 AH"
   },
   {
+    "id": 711,
+    "name": "મરહુમા ફાતેમા બેન હસનભાઈ શાહુ ",
+    "died": "2024-07-31T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+    "email": "asifali527878@gmail.com",
+    "phone": 9825045278,
+    "initiatedBy": "asgar ali Hasan ali shahu",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-05-15T14:40:25.000Z",
+    "updatedAt": "2025-05-15T14:40:25.000Z",
+    "original_date": "31-07-2024",
+    "hijri_date": "26 Mahe Muharram, 1446 AH"
+  },
+  {
     "id": 708,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-    "died": "2025-05-15T00:00:00.000Z",
+    "died": "2025-05-16T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -10361,8 +10376,8 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
-    "original_date": "15-05-2025",
-    "hijri_date": "18 Dhuʻl-Qiʻdah, 1446 AH"
+    "original_date": "16-05-2025",
+    "hijri_date": "19 Dhuʻl-Qiʻdah, 1446 AH"
   },
   {
     "id": 709,
@@ -10393,35 +10408,5 @@
     "updatedAt": "",
     "original_date": "",
     "hijri_date": ""
-  },
-  {
-    "id": 711,
-    "name": "Fatema ben Hasan bhai shahu",
-    "died": "2024-07-31T00:00:00.000Z",
-    "place": "kanodar ",
-    "email": "asifali527878@gmail.com",
-    "phone": 9825045278,
-    "initiatedBy": "asgar ali Hasan ali shahu",
-    "status": false,
-    "gender": "female",
-    "createdAt": "2025-05-15T14:40:25.000Z",
-    "updatedAt": "2025-05-15T14:40:25.000Z",
-    "original_date": "31-07-2024",
-    "hijri_date": "26 Mahe Muharram, 1446 AH"
-  },
-  {
-    "id": 712,
-    "name": "Fatema ben Hasan ali shahu",
-    "died": "2024-07-31T00:00:00.000Z",
-    "place": "kanodar india ",
-    "email": "Asifali527878@gmail.com",
-    "phone": 9825045278,
-    "initiatedBy": "asgar ali hasan ali shahu",
-    "status": false,
-    "gender": "female",
-    "createdAt": "2025-05-15T14:47:19.448Z",
-    "updatedAt": "2025-05-15T14:47:19.448Z",
-    "original_date": "31-07-2024",
-    "hijri_date": "26 Mahe Muharram, 1446 AH"
   }
 ]
