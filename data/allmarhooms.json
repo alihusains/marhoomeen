@@ -10363,5 +10363,20 @@
     "updatedAt": "",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 710,
+    "name": "મર્હુમ હાજી હુસેન અલી હસન અલી ગોવાણી ",
+    "died": "1998-10-26T00:00:00.000Z",
+    "place": "પાલીતાણા ",
+    "email": "agovani786@gmail.com",
+    "phone": 9824514786,
+    "initiatedBy": "અબ્બાસ અલી હાજી હૂસેન અલી ગોવાણી",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-05-18T05:47:44.261Z",
+    "updatedAt": "2025-05-18T05:47:44.261Z",
+    "original_date": "26-10-1998",
+    "hijri_date": "6 Mahe Rajab, 1419 AH"
   }
 ]
