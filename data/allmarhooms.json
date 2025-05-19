@@ -9990,7 +9990,7 @@
     "hijri_date": "28 Shawwal, 1446 AH"
   },
   {
-    "id": 689,
+    "id": 690,
     "name": "મરહુમા સુગરાબેન વલીમોહંમ્મદભાઇ વીરાણી",
     "died": "2025-04-09T00:00:00.000Z",
     "place": "Talaja",
@@ -10005,7 +10005,7 @@
     "hijri_date": "11 Shawwal, 1446 AH"
   },
   {
-    "id": 690,
+    "id": 691,
     "name": "મરહુમા અમીનાબેન રાજેમદ ઉમતીયા",
     "died": "2017-04-26T00:00:00.000Z",
     "place": "કાણોદર ગુજરાત ઇન્ડિયા",
@@ -10095,7 +10095,7 @@
     "hijri_date": "4 Dhuʻl-Hijjah, 1442 AH"
   },
   {
-    "id": 692,
+    "id": "#REF!",
     "name": "મરહુમા માસુમાબાનુ અબ્દુલહુસૈન ગોન્ડલીયા",
     "died": "2017-08-05T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -10290,9 +10290,24 @@
     "hijri_date": "6 Dhuʻl-Qiʻdah, 1446 AH"
   },
   {
+    "id": 710,
+    "name": "મરહુમ હાજી હુસેન અલી હસન અલી ગોવાણી ",
+    "died": "1998-10-26T00:00:00.000Z",
+    "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
+    "email": "agovani786@gmail.com",
+    "phone": 9824514786,
+    "initiatedBy": "અબ્બાસ અલી હાજી હૂસેન અલી ગોવાણી",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-05-18T05:47:44.261Z",
+    "updatedAt": "2025-05-18T05:47:44.261Z",
+    "original_date": "26-10-1998",
+    "hijri_date": "6 Mahe Rajab, 1419 AH"
+  },
+  {
     "id": 705,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-    "died": "2025-05-16T00:00:00.000Z",
+    "died": "2025-05-20T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -10301,8 +10316,8 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
-    "original_date": "16-05-2025",
-    "hijri_date": "19 Dhuʻl-Qiʻdah, 1446 AH"
+    "original_date": "20-05-2025",
+    "hijri_date": "23 Dhuʻl-Qiʻdah, 1446 AH"
   },
   {
     "id": 706,
@@ -10335,18 +10350,18 @@
     "hijri_date": ""
   },
   {
-    "id": 710,
-    "name": "મર્હુમ હાજી હુસેન અલી હસન અલી ગોવાણી ",
-    "died": "1998-10-26T00:00:00.000Z",
-    "place": "પાલીતાણા ",
-    "email": "agovani786@gmail.com",
-    "phone": 9824514786,
-    "initiatedBy": "અબ્બાસ અલી હાજી હૂસેન અલી ગોવાણી",
+    "id": 708,
+    "name": "M.Sabera Banu Binte Barkat Ali",
+    "died": "2021-04-21T00:00:00.000Z",
+    "place": "Dediypada Gujrat ",
+    "email": "kausharhusenbhimani@gmail.com",
+    "phone": 8574592786,
+    "initiatedBy": "Bhimani kaushar.",
     "status": false,
-    "gender": "male",
-    "createdAt": "2025-05-18T05:47:44.261Z",
-    "updatedAt": "2025-05-18T05:47:44.261Z",
-    "original_date": "26-10-1998",
-    "hijri_date": "6 Mahe Rajab, 1419 AH"
+    "gender": "female",
+    "createdAt": "2025-05-19T13:59:40.126Z",
+    "updatedAt": "2025-05-19T13:59:40.126Z",
+    "original_date": "21-04-2021",
+    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
   }
 ]
