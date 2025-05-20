@@ -10363,5 +10363,35 @@
     "updatedAt": "2025-05-19T13:59:40.126Z",
     "original_date": "21-04-2021",
     "hijri_date": "9 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 709,
+    "name": "Hasan Mahendihusen Alimadbhai",
+    "died": "2025-05-07T00:00:00.000Z",
+    "place": "Kanodar, Gujarat ",
+    "email": "hsaloni92@gmail.com",
+    "phone": 6355947564,
+    "initiatedBy": "Hasan Saloni ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-05-19T21:19:50.076Z",
+    "updatedAt": "2025-05-19T21:19:50.076Z",
+    "original_date": "07-05-2025",
+    "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
+  },
+  {
+    "id": 710,
+    "name": "PATHAN VASIM KHAN AYUBKAHA",
+    "died": "2025-05-09T00:00:00.000Z",
+    "place": "GUJARAT HOUSING BORD KUMBHARVADA BHAVNAGAR ",
+    "email": "khanshahnavaz369@gmail.com",
+    "phone": 9054252439,
+    "initiatedBy": "Shahnavaz Khan",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-05-19T22:06:42.245Z",
+    "updatedAt": "2025-05-19T22:06:42.245Z",
+    "original_date": "09-05-2025",
+    "hijri_date": "12 Dhuʻl-Qiʻdah, 1446 AH"
   }
 ]
