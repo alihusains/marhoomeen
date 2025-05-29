@@ -12,7 +12,7 @@
     "createdAt": "2025-01-20T19:26:16.155Z",
     "updatedAt": "2025-01-20T19:26:16.155Z",
     "original_date": "19-04-2013",
-    "hijri_date": "#NAME?"
+    "hijri_date": "9 Jumada al-Akhir, 1434 AH"
   },
   {
     "id": 653,
@@ -27,7 +27,7 @@
     "createdAt": "2025-04-07T00:07:02.114Z",
     "updatedAt": "2025-04-07T00:07:02.114Z",
     "original_date": "19-04-2004",
-    "hijri_date": "#NAME?"
+    "hijri_date": "30 Mahe Safar, 1425 AH"
   },
   {
     "id": 663,
@@ -42,6 +42,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "19-04-2025",
-    "hijri_date": "#NAME?"
+    "hijri_date": "21 Shawwal, 1446 AH"
   }
 ]
