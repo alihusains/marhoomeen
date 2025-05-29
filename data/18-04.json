@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "18-04-1968",
-    "hijri_date": "21 Mahe Muharram, 1388 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 307,
@@ -27,6 +27,6 @@
     "createdAt": "2024-04-28T14:40:14.124Z",
     "updatedAt": "2024-04-28T14:40:14.124Z",
     "original_date": "18-04-2017",
-    "hijri_date": "21 Mahe Rajab, 1438 AH"
+    "hijri_date": "#NAME?"
   }
 ]

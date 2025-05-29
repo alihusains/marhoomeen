@@ -12,7 +12,7 @@
     "createdAt": "2024-12-10T13:03:25.900Z",
     "updatedAt": "2024-12-10T13:03:25.900Z",
     "original_date": "10-12-2018",
-    "hijri_date": "3 Rabi' al-Akhir, 1440 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 522,
@@ -27,6 +27,6 @@
     "createdAt": "2025-01-16T12:12:47.048Z",
     "updatedAt": "2025-01-16T12:12:47.048Z",
     "original_date": "10-12-1995",
-    "hijri_date": "18 Mahe Rajab, 1416 AH"
+    "hijri_date": "#NAME?"
   }
 ]

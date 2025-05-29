@@ -12,7 +12,7 @@
     "createdAt": "2024-03-30T20:28:58.429Z",
     "updatedAt": "2024-03-30T20:28:58.429Z",
     "original_date": "26-04-2021",
-    "hijri_date": "14 Mahe Ramadhan, 1442 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 301,
@@ -27,7 +27,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "26-04-2021",
-    "hijri_date": "14 Mahe Ramadhan, 1442 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 610,
@@ -42,7 +42,7 @@
     "createdAt": "2025-03-17T19:55:30.468Z",
     "updatedAt": "2025-03-17T19:55:30.468Z",
     "original_date": "26-04-2021",
-    "hijri_date": "14 Mahe Ramadhan, 1442 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 665,
@@ -57,7 +57,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "26-04-2025",
-    "hijri_date": "28 Shawwal, 1446 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 666,
@@ -72,7 +72,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "26-04-2025",
-    "hijri_date": "28 Shawwal, 1446 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 691,
@@ -87,6 +87,6 @@
     "createdAt": "2025-04-26T06:21:33.712Z",
     "updatedAt": "2025-04-26T06:21:33.712Z",
     "original_date": "26-04-2017",
-    "hijri_date": "29 Mahe Rajab, 1438 AH"
+    "hijri_date": "#NAME?"
   }
 ]
