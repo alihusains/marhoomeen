@@ -15,7 +15,7 @@
     "hijri_date": "10 Mahe Muharram, 1443 AH"
   },
   {
-    "id": 438,
+    "id": 437,
     "name": "મરહુમા ખાતુનબેન બિન્તે હસનઅલી  એન. હસન",
     "died": "2024-08-18T00:00:00.000Z",
     "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
@@ -28,5 +28,20 @@
     "updatedAt": "2024-08-31T20:36:57.192Z",
     "original_date": "18-08-2024",
     "hijri_date": "14 Mahe Safar, 1446 AH"
+  },
+  {
+    "id": 688,
+    "name": "મરહુમા મુમતાજબાનુ બિન્તે હૈદરઅલી ચારણીયા W/o  હાજી સાદીકઅલી હાજી રજબઅલી મુની ",
+    "died": "2018-08-18T00:00:00.000Z",
+    "place": " પુના મહારાષ્ટ્ર ઇન્ડિયા",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "18-08-2018",
+    "hijri_date": "7 Dhuʻl-Hijjah, 1439 AH"
   }
 ]
