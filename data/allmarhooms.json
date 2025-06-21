@@ -3207,7 +3207,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "29-03-2024",
-    "hijri_date": "19 Mahe Ramadhan, 1445 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 215,
@@ -10603,5 +10603,20 @@
     "updatedAt": "2025-06-16T21:34:30.299Z",
     "original_date": "11-08-2020",
     "hijri_date": "22 Dhuʻl-Hijjah, 1441 AH"
+  },
+  {
+    "id": 709,
+    "name": "dolat Banu masum ali bhayani",
+    "died": "2025-06-14T00:00:00.000Z",
+    "place": "rajula",
+    "email": "mamadhusain123@g.mail.com",
+    "phone": 9824203974,
+    "initiatedBy": "Mamad Hussain Muni ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-06-20T18:12:34.439Z",
+    "updatedAt": "2025-06-20T18:12:34.439Z",
+    "original_date": "14-06-2025",
+    "hijri_date": "18 Dhuʻl-Hijjah, 1446 AH"
   }
 ]
