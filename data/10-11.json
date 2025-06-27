@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "10-11-1998",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "21 Mahe Rajab, 1419 AH"
   },
   {
     "id": 126,
@@ -27,7 +27,7 @@
     "createdAt": "2024-03-13T21:29:21.480Z",
     "updatedAt": "2024-03-13T21:29:21.480Z",
     "original_date": "10-11-2020",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "25 Rabi' al-Awwal, 1442 AH"
   },
   {
     "id": 608,
@@ -42,7 +42,7 @@
     "createdAt": "2025-03-18T06:42:17.447Z",
     "updatedAt": "2025-03-18T06:42:17.447Z",
     "original_date": "10-11-2023",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "27 Rabi' al-Akhir, 1445 AH"
   },
   {
     "id": 621,
@@ -57,7 +57,7 @@
     "createdAt": "2025-03-24T22:40:44.678Z",
     "updatedAt": "2025-03-24T22:40:44.678Z",
     "original_date": "10-11-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "9 Jumada al-Awwal, 1446 AH"
   },
   {
     "id": 635,
@@ -72,6 +72,6 @@
     "createdAt": "2025-03-26T21:21:44.252Z",
     "updatedAt": "2025-03-26T21:21:44.252Z",
     "original_date": "10-11-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "9 Jumada al-Awwal, 1446 AH"
   }
 ]
