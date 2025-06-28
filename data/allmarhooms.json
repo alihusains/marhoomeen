@@ -10711,17 +10711,32 @@
   },
   {
     "id": 715,
-    "name": "ફીરોજહૈદર અબ્બાસ ભાઈ  માણશીયા",
-    "died": "2025-06-28T00:00:00.000Z",
-    "place": "કાણોદર તા.પાલનપુર જી.બનાશકોઠા ",
-    "email": "alimahammadpogalva@yahoo.com",
-    "phone": 9898560412,
-    "initiatedBy": "અલીમોહંમદ ડોસનભાઈ પોગલવા ",
+    "name": "sakinaben sakalabhai Momin",
+    "died": "1995-01-10T00:00:00.000Z",
+    "place": "Ahemedabad ",
+    "email": "swans786@gmail.com",
+    "phone": 4047862556,
+    "initiatedBy": "Nazima Momin",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-06-27T22:11:36.286Z",
+    "updatedAt": "2025-06-27T22:11:36.286Z",
+    "original_date": "10-01-1995",
+    "hijri_date": "9 Shaʻban, 1415 AH"
+  },
+  {
+    "id": 716,
+    "name": "Maherali karimbhai Momin",
+    "died": "2025-03-18T00:00:00.000Z",
+    "place": "Ahemedabad ",
+    "email": "swans786@gmail.com",
+    "phone": 4047862556,
+    "initiatedBy": "Nazima Momin",
     "status": false,
     "gender": "male",
-    "createdAt": "2025-06-28T06:54:37.472Z",
-    "updatedAt": "2025-06-28T06:54:37.472Z",
-    "original_date": "28-06-2025",
-    "hijri_date": "3 Mahe Muharram, 1447 AH"
+    "createdAt": "2025-06-27T22:11:38.808Z",
+    "updatedAt": "2025-06-27T22:11:38.808Z",
+    "original_date": "18-03-2025",
+    "hijri_date": "18 Mahe Ramadhan, 1446 AH"
   }
 ]
