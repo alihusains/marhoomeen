@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "13-12-1974",
-    "hijri_date": "29 Dhuʻl-Qiʻdah, 1394 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 526,
@@ -27,6 +27,6 @@
     "createdAt": "2025-01-20T19:26:11.738Z",
     "updatedAt": "2025-01-20T19:26:11.738Z",
     "original_date": "13-12-2011",
-    "hijri_date": "18 Mahe Muharram, 1433 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

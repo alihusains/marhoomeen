@@ -12,7 +12,7 @@
     "createdAt": "2024-03-06T11:51:17.423Z",
     "updatedAt": "2024-03-06T11:51:17.423Z",
     "original_date": "15-09-2015",
-    "hijri_date": "2 Dhuʻl-Hijjah, 1436 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 92,
@@ -42,7 +42,7 @@
     "createdAt": "2024-03-13T23:55:49.906Z",
     "updatedAt": "2024-03-13T23:55:49.906Z",
     "original_date": "15-09-2019",
-    "hijri_date": "16 Mahe Muharram, 1441 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 573,
@@ -57,6 +57,6 @@
     "createdAt": "2025-03-01T12:54:21.990Z",
     "updatedAt": "2025-03-01T12:54:21.990Z",
     "original_date": "15-09-2019",
-    "hijri_date": "16 Mahe Muharram, 1441 AH"
+    "hijri_date": "#ERROR!"
   }
 ]
