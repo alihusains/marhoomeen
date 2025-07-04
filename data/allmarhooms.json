@@ -10783,5 +10783,35 @@
     "updatedAt": "2025-07-03T15:34:59.636Z",
     "original_date": "22-02-2025",
     "hijri_date": "24 Shaʻban, 1446 AH"
+  },
+  {
+    "id": 719,
+    "name": "haji mehboob ali haji rajab ali bhurani",
+    "died": "2021-04-24T00:00:00.000Z",
+    "place": "talaja",
+    "email": "ravjani.rida@gmail.com",
+    "phone": 9825204006,
+    "initiatedBy": "Rizwan ali",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-04T10:32:48.046Z",
+    "updatedAt": "2025-07-04T10:32:48.046Z",
+    "original_date": "24-04-2021",
+    "hijri_date": "12 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 720,
+    "name": "haji ameer ali bahdur ali ravjani",
+    "died": "2003-10-10T00:00:00.000Z",
+    "place": "bhavnagar ",
+    "email": "ravjani.rida@gmail.com",
+    "phone": 9825204006,
+    "initiatedBy": "rizwan ali ravjani",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-04T10:37:54.174Z",
+    "updatedAt": "2025-07-04T10:37:54.174Z",
+    "original_date": "10-10-2003",
+    "hijri_date": "14 Shaʻban, 1424 AH"
   }
 ]
