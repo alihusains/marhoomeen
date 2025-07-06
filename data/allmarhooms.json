@@ -5067,7 +5067,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "20-03-1979",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "22 Rabi' al-Akhir, 1399 AH"
   },
   {
     "id": 339,
@@ -10798,5 +10798,35 @@
     "updatedAt": "2025-06-13T08:23:30.800Z",
     "original_date": "08-07-2023",
     "hijri_date": "20 Dhuʻl-Hijjah, 1444 AH"
+  },
+  {
+    "id": 721,
+    "name": "હાજીયાણી શાબેરાબાનુ બીનતે‍ બંદે અલી જમાણી",
+    "died": "2013-11-13T00:00:00.000Z",
+    "place": "રાજુલા ",
+    "email": "rajabalimuni@gmail.com",
+    "phone": 9824288863,
+    "initiatedBy": "sultan Ali muni ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-07-06T00:29:05.312Z",
+    "updatedAt": "2025-07-06T00:29:05.312Z",
+    "original_date": "13-11-2013",
+    "hijri_date": "10 Mahe Muharram, 1435 AH"
+  },
+  {
+    "id": 722,
+    "name": "હાજી હસનરઝા હાજી હૈદર અલી ચારણીયા",
+    "died": "2020-02-28T00:00:00.000Z",
+    "place": "રાજુલા ",
+    "email": "rajabalimuni@gmail.com",
+    "phone": 9824288863,
+    "initiatedBy": "sultanali Muni ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-06T00:32:45.018Z",
+    "updatedAt": "2025-07-06T00:32:45.018Z",
+    "original_date": "28-02-2020",
+    "hijri_date": "5 Mahe Rajab, 1441 AH"
   }
 ]
