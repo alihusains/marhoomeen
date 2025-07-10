@@ -10592,7 +10592,7 @@
   {
     "id": 707,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-    "died": "2025-07-05T00:00:00.000Z",
+    "died": "2025-07-10T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -10601,8 +10601,8 @@
     "gender": "male",
     "createdAt": "2025-06-08T14:43:42.201Z",
     "updatedAt": "2025-06-08T14:43:42.203Z",
-    "original_date": "05-07-2025",
-    "hijri_date": "10 Mahe Muharram, 1447 AH"
+    "original_date": "10-07-2025",
+    "hijri_date": "15 Mahe Muharram, 1447 AH"
   },
   {
     "id": 708,
@@ -10828,5 +10828,35 @@
     "updatedAt": "2025-07-06T00:32:45.018Z",
     "original_date": "28-02-2020",
     "hijri_date": "5 Mahe Rajab, 1441 AH"
+  },
+  {
+    "id": 723,
+    "name": "Syed Husen Raza ibne Haji Hasan Ali Naqvi ",
+    "died": "2019-09-15T00:00:00.000Z",
+    "place": "Kodinar",
+    "email": "mukhtarnaqvi41@gmail.com",
+    "phone": 9426492114,
+    "initiatedBy": "Syed Mukhtar Naqvi ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-10T13:54:33.217Z",
+    "updatedAt": "2025-07-10T13:54:33.217Z",
+    "original_date": "15-09-2019",
+    "hijri_date": "16 Mahe Muharram, 1441 AH"
+  },
+  {
+    "id": 724,
+    "name": "સૈયદ હુસૈન રઝા ઇબ્ને હાજી હસન અલી નકવી ",
+    "died": "2019-09-15T00:00:00.000Z",
+    "place": "કોડીનાર ",
+    "email": "mukhtarnaqvi41@gmail.com",
+    "phone": 9426492114,
+    "initiatedBy": "Syed Mukhtar Naqvi ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-10T13:59:55.981Z",
+    "updatedAt": "2025-07-10T13:59:55.981Z",
+    "original_date": "15-09-2019",
+    "hijri_date": "16 Mahe Muharram, 1441 AH"
   }
 ]
