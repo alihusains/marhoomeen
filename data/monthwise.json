@@ -1441,6 +1441,21 @@
       "updatedAt": "2025-06-27T20:35:02.676Z",
       "original_date": "13-11-1992",
       "hijri_date": "19 Jumada al-Awwal, 1413 AH"
+    },
+    {
+      "id": 721,
+      "name": "મરહુમા હાજીયાણી શાબેરાબાનુ બિન્તે‍ બંદેઅલી જમાણી",
+      "died": "2013-11-13T00:00:00.000Z",
+      "place": "રાજુલા ",
+      "email": "rajabalimuni@gmail.com",
+      "phone": 9824288863,
+      "initiatedBy": "sultan Ali muni ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-07-06T00:29:05.312Z",
+      "updatedAt": "2025-07-06T00:29:05.312Z",
+      "original_date": "13-11-2013",
+      "hijri_date": "10 Mahe Muharram, 1435 AH"
     }
   ],
   "12": [
@@ -3215,6 +3230,21 @@
       "updatedAt": "2025-03-16T12:18:58.017Z",
       "original_date": "01-02-2025",
       "hijri_date": "3 Shaʻban, 1446 AH"
+    },
+    {
+      "id": 722,
+      "name": "મરહુમ હાજી હસનરઝા હાજી હૈદર અલી ચારણીયા",
+      "died": "2020-02-28T00:00:00.000Z",
+      "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+      "email": "rajabalimuni@gmail.com",
+      "phone": 9824288863,
+      "initiatedBy": "sultanali Muni ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-06T00:32:45.018Z",
+      "updatedAt": "2025-07-06T00:32:45.018Z",
+      "original_date": "28-02-2020",
+      "hijri_date": "5 Mahe Rajab, 1441 AH"
     }
   ],
   "09": [
@@ -4132,6 +4162,21 @@
       "updatedAt": "2025-04-01T11:47:06.101Z",
       "original_date": "25-09-2017",
       "hijri_date": "5 Mahe Muharram, 1439 AH"
+    },
+    {
+      "id": 724,
+      "name": "મરહુમ સૈયદ હુસૈનરઝા ઇબ્ને હાજી હસનઅલી નકવી ",
+      "died": "2019-09-15T00:00:00.000Z",
+      "place": "કોડીનાર  ગુજરાત ઇન્ડિયા ",
+      "email": "mukhtarnaqvi41@gmail.com",
+      "phone": 9426492114,
+      "initiatedBy": "Syed Mukhtar Naqvi ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-10T13:59:55.981Z",
+      "updatedAt": "2025-07-10T13:59:55.981Z",
+      "original_date": "15-09-2019",
+      "hijri_date": "16 Mahe Muharram, 1441 AH"
     }
   ],
   "07": [
@@ -8839,7 +8884,7 @@
       "hijri_date": "18 Dhuʻl-Hijjah, 1446 AH"
     },
     {
-      "id": 708,
+      "id": 711,
       "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
       "died": "2025-06-25T00:00:00.000Z",
       "place": "",

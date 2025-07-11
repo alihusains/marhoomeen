@@ -10590,6 +10590,51 @@
     "hijri_date": "18 Dhuʻl-Hijjah, 1446 AH"
   },
   {
+    "id": 721,
+    "name": "મરહુમા હાજીયાણી શાબેરાબાનુ બિન્તે‍ બંદેઅલી જમાણી",
+    "died": "2013-11-13T00:00:00.000Z",
+    "place": "રાજુલા ",
+    "email": "rajabalimuni@gmail.com",
+    "phone": 9824288863,
+    "initiatedBy": "sultan Ali muni ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-07-06T00:29:05.312Z",
+    "updatedAt": "2025-07-06T00:29:05.312Z",
+    "original_date": "13-11-2013",
+    "hijri_date": "10 Mahe Muharram, 1435 AH"
+  },
+  {
+    "id": 722,
+    "name": "મરહુમ હાજી હસનરઝા હાજી હૈદર અલી ચારણીયા",
+    "died": "2020-02-28T00:00:00.000Z",
+    "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+    "email": "rajabalimuni@gmail.com",
+    "phone": 9824288863,
+    "initiatedBy": "sultanali Muni ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-07-06T00:32:45.018Z",
+    "updatedAt": "2025-07-06T00:32:45.018Z",
+    "original_date": "28-02-2020",
+    "hijri_date": "5 Mahe Rajab, 1441 AH"
+  },
+  {
+    "id": 724,
+    "name": "મરહુમ સૈયદ હુસૈનરઝા ઇબ્ને હાજી હસનઅલી નકવી ",
+    "died": "2019-09-15T00:00:00.000Z",
+    "place": "કોડીનાર  ગુજરાત ઇન્ડિયા ",
+    "email": "mukhtarnaqvi41@gmail.com",
+    "phone": 9426492114,
+    "initiatedBy": "Syed Mukhtar Naqvi ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-07-10T13:59:55.981Z",
+    "updatedAt": "2025-07-10T13:59:55.981Z",
+    "original_date": "15-09-2019",
+    "hijri_date": "16 Mahe Muharram, 1441 AH"
+  },
+  {
     "id": 707,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
     "died": "2025-07-10T00:00:00.000Z",
@@ -10605,7 +10650,7 @@
     "hijri_date": "15 Mahe Muharram, 1447 AH"
   },
   {
-    "id": 708,
+    "id": 711,
     "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
     "died": "2025-06-25T00:00:00.000Z",
     "place": "",
@@ -10620,7 +10665,7 @@
     "hijri_date": "29 Dhuʻl-Hijjah, 1446 AH"
   },
   {
-    "id": 709,
+    "id": 712,
     "name": "મરહુમ શેરઅલીભાઇ ફાઝલભાઇ વંકાણી વફાત : ૨૭ માહે રમઝાન ૧૪૨૦",
     "died": "2000-01-04T00:00:00.000Z",
     "place": "ઇન્ડીઆ",
@@ -10635,8 +10680,8 @@
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
   },
   {
-    "id": 710,
-    "name": "saiyeda nazira khatun  binte. mumtaz ali ",
+    "id": 713,
+    "name": "મરહુમા સૈયદા નઝીરા ખાતુન બિન્તે મુમતાઝ અલી",
     "died": "2014-05-12T00:00:00.000Z",
     "place": "ahemdabad. gujrat",
     "email": "saiyedMubbsi@gmail.com",
@@ -10650,8 +10695,8 @@
     "hijri_date": "13 Mahe Rajab, 1435 AH"
   },
   {
-    "id": 711,
-    "name": "mahammad Hussain Abbrar Hussain Naqvi ",
+    "id": 714,
+    "name": "મરહુમ મોહંમ્મદહુસૈન અબરારહુસૈન નકવી",
     "died": "2025-06-24T00:00:00.000Z",
     "place": "Shera khamosa Kodinar",
     "email": "shekhsakhavat@gmail.com",
@@ -10665,7 +10710,7 @@
     "hijri_date": "28 Dhuʻl-Hijjah, 1446 AH"
   },
   {
-    "id": 712,
+    "id": 715,
     "name": "haji istyakahmed ibni vali Mohammed ",
     "died": "1999-04-16T00:00:00.000Z",
     "place": "jannat ul Balqi ",
@@ -10680,7 +10725,7 @@
     "hijri_date": "30 Dhuʻl-Hijjah, 1419 AH"
   },
   {
-    "id": 713,
+    "id": 716,
     "name": "sakinaben sakalabhai Momin",
     "died": "1995-01-10T00:00:00.000Z",
     "place": "Ahemedabad ",
@@ -10695,7 +10740,7 @@
     "hijri_date": "9 Shaʻban, 1415 AH"
   },
   {
-    "id": 714,
+    "id": 717,
     "name": "Maherali karimbhai Momin",
     "died": "2025-03-18T00:00:00.000Z",
     "place": "Ahemedabad ",
@@ -10710,7 +10755,7 @@
     "hijri_date": "18 Mahe Ramadhan, 1446 AH"
   },
   {
-    "id": 715,
+    "id": 718,
     "name": "haji mehboob ali haji rajab ali bhurani",
     "died": "2021-04-24T00:00:00.000Z",
     "place": "talaja",
@@ -10725,7 +10770,7 @@
     "hijri_date": "12 Mahe Ramadhan, 1442 AH"
   },
   {
-    "id": 716,
+    "id": 719,
     "name": "haji ameer ali bahdur ali ravjani",
     "died": "2003-10-10T00:00:00.000Z",
     "place": "bhavnagar ",
@@ -10740,7 +10785,7 @@
     "hijri_date": "14 Shaʻban, 1424 AH"
   },
   {
-    "id": 717,
+    "id": 720,
     "name": "mehdihasan Ahemadali bhoraniya ",
     "died": "2010-10-21T00:00:00.000Z",
     "place": "Village kesimpa.ta vadnagar Dist mahesana",
@@ -10755,7 +10800,7 @@
     "hijri_date": "14 Dhuʻl-Qiʻdah, 1431 AH"
   },
   {
-    "id": 718,
+    "id": 721,
     "name": "riyaz doctor ",
     "died": "2025-02-22T00:00:00.000Z",
     "place": "ahemdabad bad",
@@ -10770,7 +10815,7 @@
     "hijri_date": "24 Shaʻban, 1446 AH"
   },
   {
-    "id": 719,
+    "id": 722,
     "name": "Saiyad Pirmiyabapu Molabaksh bapu BUKHARI ",
     "died": "2003-01-13T00:00:00.000Z",
     "place": "Rajkot ",
@@ -10785,7 +10830,7 @@
     "hijri_date": "11 Dhuʻl-Qiʻdah, 1423 AH"
   },
   {
-    "id": 720,
+    "id": 723,
     "name": "મર્હુમ હાજી જુમ્મા ઊઢેજા (જીજુડા)",
     "died": "2023-07-08T00:00:00.000Z",
     "place": "જીજુડા મોરબી ગુજરાત ",
@@ -10798,65 +10843,5 @@
     "updatedAt": "2025-06-13T08:23:30.800Z",
     "original_date": "08-07-2023",
     "hijri_date": "20 Dhuʻl-Hijjah, 1444 AH"
-  },
-  {
-    "id": 721,
-    "name": "હાજીયાણી શાબેરાબાનુ બીનતે‍ બંદે અલી જમાણી",
-    "died": "2013-11-13T00:00:00.000Z",
-    "place": "રાજુલા ",
-    "email": "rajabalimuni@gmail.com",
-    "phone": 9824288863,
-    "initiatedBy": "sultan Ali muni ",
-    "status": false,
-    "gender": "female",
-    "createdAt": "2025-07-06T00:29:05.312Z",
-    "updatedAt": "2025-07-06T00:29:05.312Z",
-    "original_date": "13-11-2013",
-    "hijri_date": "10 Mahe Muharram, 1435 AH"
-  },
-  {
-    "id": 722,
-    "name": "હાજી હસનરઝા હાજી હૈદર અલી ચારણીયા",
-    "died": "2020-02-28T00:00:00.000Z",
-    "place": "રાજુલા ",
-    "email": "rajabalimuni@gmail.com",
-    "phone": 9824288863,
-    "initiatedBy": "sultanali Muni ",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-07-06T00:32:45.018Z",
-    "updatedAt": "2025-07-06T00:32:45.018Z",
-    "original_date": "28-02-2020",
-    "hijri_date": "5 Mahe Rajab, 1441 AH"
-  },
-  {
-    "id": 723,
-    "name": "Syed Husen Raza ibne Haji Hasan Ali Naqvi ",
-    "died": "2019-09-15T00:00:00.000Z",
-    "place": "Kodinar",
-    "email": "mukhtarnaqvi41@gmail.com",
-    "phone": 9426492114,
-    "initiatedBy": "Syed Mukhtar Naqvi ",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-07-10T13:54:33.217Z",
-    "updatedAt": "2025-07-10T13:54:33.217Z",
-    "original_date": "15-09-2019",
-    "hijri_date": "16 Mahe Muharram, 1441 AH"
-  },
-  {
-    "id": 724,
-    "name": "સૈયદ હુસૈન રઝા ઇબ્ને હાજી હસન અલી નકવી ",
-    "died": "2019-09-15T00:00:00.000Z",
-    "place": "કોડીનાર ",
-    "email": "mukhtarnaqvi41@gmail.com",
-    "phone": 9426492114,
-    "initiatedBy": "Syed Mukhtar Naqvi ",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-07-10T13:59:55.981Z",
-    "updatedAt": "2025-07-10T13:59:55.981Z",
-    "original_date": "15-09-2019",
-    "hijri_date": "16 Mahe Muharram, 1441 AH"
   }
 ]
