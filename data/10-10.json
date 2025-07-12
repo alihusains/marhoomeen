@@ -43,5 +43,20 @@
     "updatedAt": "2025-03-18T22:01:18.052Z",
     "original_date": "10-10-2017",
     "hijri_date": "20 Mahe Muharram, 1439 AH"
+  },
+  {
+    "id": 716,
+    "name": "મરહુમ હાજી અમીરઅલી બહાદુરઅલી રવજાણી",
+    "died": "2003-10-10T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "ravjani.rida@gmail.com",
+    "phone": 9825204006,
+    "initiatedBy": "rizwan ali ravjani",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-07-04T10:37:54.174Z",
+    "updatedAt": "2025-07-04T10:37:54.174Z",
+    "original_date": "10-10-2003",
+    "hijri_date": "14 Shaʻban, 1424 AH"
   }
 ]

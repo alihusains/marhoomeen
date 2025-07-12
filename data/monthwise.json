@@ -794,6 +794,36 @@
       "updatedAt": "2025-06-14T10:53:59.932Z",
       "original_date": "28-10-2019",
       "hijri_date": "30 Mahe Safar, 1441 AH"
+    },
+    {
+      "id": 716,
+      "name": "મરહુમ હાજી અમીરઅલી બહાદુરઅલી રવજાણી",
+      "died": "2003-10-10T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "ravjani.rida@gmail.com",
+      "phone": 9825204006,
+      "initiatedBy": "rizwan ali ravjani",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-04T10:37:54.174Z",
+      "updatedAt": "2025-07-04T10:37:54.174Z",
+      "original_date": "10-10-2003",
+      "hijri_date": "14 Shaʻban, 1424 AH"
+    },
+    {
+      "id": 717,
+      "name": "મરહુમ મેંહદીહસન અહમદઅલી ભોરણીયા",
+      "died": "2010-10-21T00:00:00.000Z",
+      "place": "કેસીમ્પા - વડનગર મહેસાણા ગુજરાત ઇન્ડિયા ",
+      "email": "arbhorani151214@gmail.com",
+      "phone": 9825370440,
+      "initiatedBy": "Ahemadali rasulbhai bhoraniya",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-04T20:34:35.031Z",
+      "updatedAt": "2025-07-04T20:34:35.031Z",
+      "original_date": "21-10-2010",
+      "hijri_date": "14 Dhuʻl-Qiʻdah, 1431 AH"
     }
   ],
   "11": [
@@ -4826,9 +4856,24 @@
       "hijri_date": "24 Mahe Ramadhan, 1436 AH"
     },
     {
-      "id": 720,
+      "id": 723,
+      "name": " મરહુમા ઝરીનાબાનુ કમરઅલી ભુરા",
+      "died": "2021-07-12T00:00:00.000Z",
+      "place": "ધોળકા ગુજરાત ઇન્ડિયા ",
+      "email": "hinamomin@gmail.com",
+      "phone": 7802047212,
+      "initiatedBy": "hina momin ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-07-12T05:36:43.776Z",
+      "updatedAt": "2025-07-12T05:36:43.776Z",
+      "original_date": "12-07-2021",
+      "hijri_date": "2 Dhuʻl-Hijjah, 1442 AH"
+    },
+    {
+      "id": 721,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-      "died": "2025-07-11T00:00:00.000Z",
+      "died": "2025-07-12T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -4837,8 +4882,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "11-07-2025",
-      "hijri_date": "16 Mahe Muharram, 1447 AH"
+      "original_date": "12-07-2025",
+      "hijri_date": "17 Mahe Muharram, 1447 AH"
     }
   ],
   "03": [
@@ -6041,6 +6086,21 @@
       "updatedAt": "2025-05-01T21:53:12.406Z",
       "original_date": "18-03-2024",
       "hijri_date": "8 Mahe Ramadhan, 1445 AH"
+    },
+    {
+      "id": 714,
+      "name": "મરહુમ મહેરઅલી કરીમભાઇ મોમીન",
+      "died": "2025-03-18T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "swans786@gmail.com",
+      "phone": 4047862556,
+      "initiatedBy": "Nazima Momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-06-27T22:11:38.808Z",
+      "updatedAt": "2025-06-27T22:11:38.808Z",
+      "original_date": "18-03-2025",
+      "hijri_date": "18 Mahe Ramadhan, 1446 AH"
     }
   ],
   "08": [
@@ -7890,6 +7950,36 @@
       "updatedAt": "2025-06-14T10:50:43.904Z",
       "original_date": "07-04-2011",
       "hijri_date": "4 Jumada al-Awwal, 1432 AH"
+    },
+    {
+      "id": 712,
+      "name": "મરહુમ હાજી ઇસ્તયાક એહમદ ઇબ્ને વલી મોહંમ્મદ",
+      "died": "1999-04-16T00:00:00.000Z",
+      "place": "જન્નતુલ બકી મદીના સઉદી અરબીયા",
+      "email": "ymomin8@gmail.com",
+      "phone": 17069158585,
+      "initiatedBy": "yasir momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-06-27T09:43:20.260Z",
+      "updatedAt": "2025-06-27T09:43:20.261Z",
+      "original_date": "16-04-1999",
+      "hijri_date": "30 Dhuʻl-Hijjah, 1419 AH"
+    },
+    {
+      "id": 715,
+      "name": "મરહુમ હાજી મહેબુબઅલી હ‍ાજી રજબઅલી ભુરાણી",
+      "died": "2021-04-24T00:00:00.000Z",
+      "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+      "email": "ravjani.rida@gmail.com",
+      "phone": 9825204006,
+      "initiatedBy": "Rizwan ali",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-04T10:32:48.046Z",
+      "updatedAt": "2025-07-04T10:32:48.046Z",
+      "original_date": "24-04-2021",
+      "hijri_date": "12 Mahe Ramadhan, 1442 AH"
     }
   ],
   "06": [
@@ -8884,7 +8974,22 @@
       "hijri_date": "18 Dhuʻl-Hijjah, 1446 AH"
     },
     {
-      "id": 721,
+      "id": 711,
+      "name": "મરહુમ મોહંમ્મદહુસૈન અબરારહુસૈન નકવી",
+      "died": "2025-06-24T00:00:00.000Z",
+      "place": "કોડીનાર ગુજરાત ઇન્ડિયા ",
+      "email": "shekhsakhavat@gmail.com",
+      "phone": 9277603305,
+      "initiatedBy": "Sakhavat hussain n shekh ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-06-25T12:39:48.801Z",
+      "updatedAt": "2025-06-25T12:39:48.801Z",
+      "original_date": "24-06-2025",
+      "hijri_date": "28 Dhuʻl-Hijjah, 1446 AH"
+    },
+    {
+      "id": 722,
       "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
       "died": "2025-06-25T00:00:00.000Z",
       "place": "",
@@ -9754,6 +9859,21 @@
       "updatedAt": "2025-06-06T21:18:14.849Z",
       "original_date": "09-05-1999",
       "hijri_date": "23 Mahe Muharram, 1420 AH"
+    },
+    {
+      "id": 710,
+      "name": "મરહુમા સૈયદા નઝીરા ખાતુન બિન્તે મુમતાઝ અલી",
+      "died": "2014-05-12T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "saiyedMubbsi@gmail.com",
+      "phone": 9316337672,
+      "initiatedBy": "saiyed Mubbsir husen",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-06-24T12:40:34.824Z",
+      "updatedAt": "2025-06-24T12:40:34.824Z",
+      "original_date": "12-05-2014",
+      "hijri_date": "13 Mahe Rajab, 1435 AH"
     }
   ],
   "01": [
@@ -10656,6 +10776,36 @@
       "updatedAt": "2025-05-02T07:02:31.569Z",
       "original_date": "22-01-2019",
       "hijri_date": "16 Jumada al-Awwal, 1440 AH"
+    },
+    {
+      "id": 713,
+      "name": "મરહુમા શકીનાબેન સકલભાઇ મોમીન",
+      "died": "1995-01-10T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "swans786@gmail.com",
+      "phone": 4047862556,
+      "initiatedBy": "Nazima Momin",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-06-27T22:11:36.286Z",
+      "updatedAt": "2025-06-27T22:11:36.286Z",
+      "original_date": "10-01-1995",
+      "hijri_date": "9 Shaʻban, 1415 AH"
+    },
+    {
+      "id": 718,
+      "name": "મરહુમ સૈયદ પીર મીંયા બાપુ મૌલાબક્ષબાપુ બુખારી",
+      "died": "2003-01-13T00:00:00.000Z",
+      "place": "રાજકોટ ગુજરાત ઇન્ડિયા ",
+      "email": "saiyadhashim1@gmail.com",
+      "phone": 8866565614,
+      "initiatedBy": "Hashim Saiyad ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-06-08T19:04:51.751Z",
+      "updatedAt": "2025-06-08T19:04:51.751Z",
+      "original_date": "13-01-2003",
+      "hijri_date": "11 Dhuʻl-Qiʻdah, 1423 AH"
     }
   ]
 }
