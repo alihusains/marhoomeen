@@ -10828,5 +10828,20 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 723,
+    "name": "zarinabanu kamarali bhura",
+    "died": "2021-07-12T00:00:00.000Z",
+    "place": "dholka ",
+    "email": "hinamomin@gmail.com",
+    "phone": 7802047212,
+    "initiatedBy": "hina momin ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-07-12T05:36:43.776Z",
+    "updatedAt": "2025-07-12T05:36:43.776Z",
+    "original_date": "12-07-2021",
+    "hijri_date": "2 Dhuʻl-Hijjah, 1442 AH"
   }
 ]
