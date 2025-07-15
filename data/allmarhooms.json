@@ -4212,7 +4212,7 @@
     "createdAt": "2024-04-15T07:07:27.622Z",
     "updatedAt": "2024-04-15T07:07:27.622Z",
     "original_date": "01-07-2016",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Mahe Ramadhan, 1437 AH"
   },
   {
     "id": 282,
@@ -10963,5 +10963,50 @@
     "updatedAt": "",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 726,
+    "name": "liyakat ali baakar ali saiyed",
+    "died": "2017-11-27T00:00:00.000Z",
+    "place": "Rustampura Gujarat India ",
+    "email": "shahidsaiyed1472@gmail.com",
+    "phone": 7270929292,
+    "initiatedBy": "saiyed liyakat ali baakar ali",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-14T19:26:31.529Z",
+    "updatedAt": "2025-07-14T19:26:31.530Z",
+    "original_date": "27-11-2017",
+    "hijri_date": "9 Rabi' al-Awwal, 1439 AH"
+  },
+  {
+    "id": 727,
+    "name": "safura bibi Liyakat ali",
+    "died": "2025-03-10T00:00:00.000Z",
+    "place": "Rustampura Gujarat India ",
+    "email": "shahidsaiyed1472@gmail.com",
+    "phone": 7270929292,
+    "initiatedBy": "Umme farwa shahid ali ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-07-14T19:29:26.960Z",
+    "updatedAt": "2025-07-14T19:29:26.960Z",
+    "original_date": "10-03-2025",
+    "hijri_date": "10 Mahe Ramadhan, 1446 AH"
+  },
+  {
+    "id": 728,
+    "name": "મ.દાઉદઅલી રમજાનઅલી ગોવાણી ",
+    "died": "2014-01-12T00:00:00.000Z",
+    "place": "પાલીતાણા,ભાવનગર",
+    "email": "govanigaziabbas4512@gmail.com",
+    "phone": 9429876512,
+    "initiatedBy": "Govani Mohsin Ali ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-14T23:11:27.189Z",
+    "updatedAt": "2025-07-14T23:11:27.189Z",
+    "original_date": "12-01-2014",
+    "hijri_date": "11 Rabi' al-Awwal, 1435 AH"
   }
 ]
