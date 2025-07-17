@@ -4916,7 +4916,7 @@
       "hijri_date": "18 Mahe Muharram, 1447 AH"
     },
     {
-      "id": 727,
+      "id": 723,
       "name": "મરહુમા નસીમબાનુ એહમદઅલી ભોજાણી ",
       "died": "2016-07-12T00:00:00.000Z",
       "place": "સીહોર ગુજરાત ઇન્ડિયા ",
@@ -4932,8 +4932,23 @@
     },
     {
       "id": 730,
+      "name": "મરહુમ હૈદરઅલી હસનઅલી (બચુદાદા) ભીમાણી (ટાણાવાળા)",
+      "died": "2025-07-17T00:00:00.000Z",
+      "place": "ટાણા ગુજરાત ઇન્ડિયા 2004-03-13",
+      "email": "mimalif110@gmail.com",
+      "phone": 9969557682,
+      "initiatedBy": "mas",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2024-02-20T01:11:05.150Z",
+      "updatedAt": "2024-02-20T01:11:05.150Z",
+      "original_date": "17-07-2025",
+      "hijri_date": "22 Mahe Muharram, 1447 AH"
+    },
+    {
+      "id": 733,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-      "died": "2025-07-16T00:00:00.000Z",
+      "died": "2025-07-17T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -4942,8 +4957,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "16-07-2025",
-      "hijri_date": "21 Mahe Muharram, 1447 AH"
+      "original_date": "17-07-2025",
+      "hijri_date": "22 Mahe Muharram, 1447 AH"
     }
   ],
   "03": [
@@ -9079,7 +9094,7 @@
       "hijri_date": "28 Dhuʻl-Hijjah, 1446 AH"
     },
     {
-      "id": 723,
+      "id": 730,
       "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
       "died": "2025-06-25T00:00:00.000Z",
       "place": "",
@@ -9966,7 +9981,7 @@
       "hijri_date": "13 Mahe Rajab, 1435 AH"
     },
     {
-      "id": 728,
+      "id": 724,
       "name": "મરહુમ મહેદીહુસૈન અલીમદભાઇ હસન ",
       "died": "2025-05-07T00:00:00.000Z",
       "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -10913,7 +10928,7 @@
       "hijri_date": "11 Dhuʻl-Qiʻdah, 1423 AH"
     },
     {
-      "id": 728,
+      "id": 725,
       "name": "મરહુમ દાઉદઅલી રમજાનઅલી ગોવાણી ",
       "died": "2014-01-12T00:00:00.000Z",
       "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
@@ -10926,6 +10941,36 @@
       "updatedAt": "2025-07-14T23:11:27.189Z",
       "original_date": "12-01-2014",
       "hijri_date": "11 Rabi' al-Awwal, 1435 AH"
+    },
+    {
+      "id": 728,
+      "name": "મરહુમ રમઝાનઅલી ઇસ્માઇલભાઇ અમીરી",
+      "died": "2008-01-30T00:00:00.000Z",
+      "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+      "email": "shaukatamiri@gmail.com",
+      "phone": 8652014786,
+      "initiatedBy": "shaukatali Ramjan Ali Amiri",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-17T06:44:35.948Z",
+      "updatedAt": "2025-07-17T06:44:35.948Z",
+      "original_date": "30-01-2008",
+      "hijri_date": "22 Mahe Muharram, 1429 AH"
+    },
+    {
+      "id": 729,
+      "name": "મરહુમા રહેમતબાઇ બિન્તે ઇસ્માઇલભાઇ અમીરી",
+      "died": "1982-01-25T00:00:00.000Z",
+      "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+      "email": "shaukatamiri@gmail.com",
+      "phone": 8652014786,
+      "initiatedBy": "shaukatali Ramjan Ali Amiri",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-07-17T06:44:40.004Z",
+      "updatedAt": "2025-07-17T06:44:40.004Z",
+      "original_date": "25-01-1982",
+      "hijri_date": "30 Rabi' al-Awwal, 1402 AH"
     }
   ]
 }
