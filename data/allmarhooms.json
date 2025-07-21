@@ -9627,7 +9627,7 @@
     "createdAt": "2025-03-27T06:55:05.097Z",
     "updatedAt": "2025-03-27T06:55:05.097Z",
     "original_date": "29-06-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "19 Dhuʻl-Qiʻdah, 1442 AH"
   },
   {
     "id": 643,
@@ -10982,7 +10982,7 @@
   {
     "id": 733,
     "name": "મરહુમ હાજી અકબરઅલી કાસમઅલી સોરઠીયા (રાજા)  વફાત : 24th માહે મોહરમ 1442",
-    "died": "2025-07-20T00:00:00.000Z",
+    "died": "2025-07-21T00:00:00.000Z",
     "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા",
     "email": "mimalif110@gmail.com",
     "phone": 9969557682,
@@ -10991,23 +10991,8 @@
     "gender": "male",
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:35:17.511Z",
-    "original_date": "20-07-2025",
-    "hijri_date": "25 Mahe Muharram, 1447 AH"
-  },
-  {
-    "id": 734,
-    "name": "મરહુમ હાજી અકબરઅલી કાસમઅલી સોરઠીયા (રાજા)  વફાત : 24th માહે મોહરમ 1442",
-    "died": "2025-07-19T00:00:00.000Z",
-    "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા",
-    "email": "mimalif110@gmail.com",
-    "phone": 9969557682,
-    "initiatedBy": "MAS",
-    "status": true,
-    "gender": "male",
-    "createdAt": "2024-02-04T06:28:54.291Z",
-    "updatedAt": "2024-02-04T09:35:17.511Z",
-    "original_date": "19-07-2025",
-    "hijri_date": "24 Mahe Muharram, 1447 AH"
+    "original_date": "21-07-2025",
+    "hijri_date": "26 Mahe Muharram, 1447 AH"
   },
   {
     "id": 733,
@@ -11025,7 +11010,7 @@
     "hijri_date": "29 Dhuʻl-Hijjah, 1446 AH"
   },
   {
-    "id": 736,
+    "id": 735,
     "name": "મર્હુમ હાજી જુમ્મા ઊઢેજા (જીજુડા)",
     "died": "2023-07-08T00:00:00.000Z",
     "place": "જીજુડા મોરબી ગુજરાત ",
@@ -11040,7 +11025,7 @@
     "hijri_date": "20 Dhuʻl-Hijjah, 1444 AH"
   },
   {
-    "id": 737,
+    "id": 736,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
     "died": "2025-07-18T00:00:00.000Z",
     "place": "",
@@ -11055,7 +11040,7 @@
     "hijri_date": "23 Mahe Muharram, 1447 AH"
   },
   {
-    "id": 738,
+    "id": 737,
     "name": "મરહુમ શેરઅલીભાઇ ફાઝલભાઇ વંકાણી વફાત : ૨૭ માહે રમઝાન ૧૪૨૦",
     "died": "2000-01-04T00:00:00.000Z",
     "place": "ઇન્ડીઆ",
@@ -11071,7 +11056,7 @@
   },
   {
     "id": 736,
-    "name": "અમીરભાઈ હસનભાઈ ઉમતીયા ",
+    "name": "મરહુમ અમીરભાઈ હસનભાઈ ઉમતીયા  ",
     "died": "2025-07-17T00:00:00.000Z",
     "place": "કાણોદર ",
     "email": "parvinumatiya@gmail.com",
@@ -11086,7 +11071,7 @@
   },
   {
     "id": 737,
-    "name": "મ. ગુલામઅલી મોહંમદઅલી જામાણી",
+    "name": "મરહુમ ગુલામઅલી મોહંમદઅલી જામાણી",
     "died": "2011-09-12T00:00:00.000Z",
     "place": "પાલીતાણા",
     "email": "royalsales27@gmail.com",
@@ -11101,7 +11086,7 @@
   },
   {
     "id": 738,
-    "name": "શબ્બીરઅલી ગુલામઅલી જામાણી",
+    "name": "મરહુમ શબ્બીરઅલી ગુલામઅલી જામાણી",
     "died": "2017-05-24T00:00:00.000Z",
     "place": "પાલીતાણા",
     "email": "royalsales27@gmail.com",
@@ -11113,5 +11098,110 @@
     "updatedAt": "2025-07-20T17:03:31.096Z",
     "original_date": "24-05-2017",
     "hijri_date": "28 Shaʻban, 1438 AH"
+  },
+  {
+    "id": 740,
+    "name": "મરહુમ શેર અલીભાઇ અલાદીનભાઈ લાખાણી ",
+    "died": "2015-12-05T00:00:00.000Z",
+    "place": "Rajula, Gujarat ",
+    "email": "wadiabashira@gmail.com",
+    "phone": 9723942762,
+    "initiatedBy": "Bashira Wadia ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-20T20:53:13.069Z",
+    "updatedAt": "2025-07-20T20:53:13.070Z",
+    "original_date": "05-12-2015",
+    "hijri_date": "24 Mahe Safar, 1437 AH"
+  },
+  {
+    "id": 741,
+    "name": "M. Abdul Hussain Masumali Wadia",
+    "died": "2014-02-13T00:00:00.000Z",
+    "place": "Mahuva, Gujarat ",
+    "email": "wadiabashira@gmail.com",
+    "phone": 9723942762,
+    "initiatedBy": "Bashira Wadia ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-20T20:53:16.237Z",
+    "updatedAt": "2025-07-20T20:53:16.237Z",
+    "original_date": "13-02-2014",
+    "hijri_date": "14 Rabi' al-Akhir, 1435 AH"
+  },
+  {
+    "id": 742,
+    "name": "M. Bashiraben Razahussain Merchant",
+    "died": "2015-07-01T00:00:00.000Z",
+    "place": "Mahuva, Gujarat ",
+    "email": "wadiabashira@gmail.com",
+    "phone": 9723942762,
+    "initiatedBy": "Bashira Wadia ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-07-20T20:53:20.941Z",
+    "updatedAt": "2025-07-20T20:53:20.941Z",
+    "original_date": "01-07-2015",
+    "hijri_date": "15 Mahe Ramadhan, 1436 AH"
+  },
+  {
+    "id": 743,
+    "name": "M. Ashrafben Asgarali Charaniya ",
+    "died": "2019-12-16T00:00:00.000Z",
+    "place": "Mahuva, Gujarat ",
+    "email": "wadiabashira@gmail.com",
+    "phone": 9723942762,
+    "initiatedBy": "Bashira Wadia ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-07-20T20:53:25.242Z",
+    "updatedAt": "2025-07-20T20:53:25.242Z",
+    "original_date": "16-12-2019",
+    "hijri_date": "20 Rabi' al-Akhir, 1441 AH"
+  },
+  {
+    "id": 744,
+    "name": "Altafhussain Masumali Wadia",
+    "died": "2022-02-13T00:00:00.000Z",
+    "place": "Mahuva, Gujarat ",
+    "email": "wadiabashira@gmail.com",
+    "phone": 9723942762,
+    "initiatedBy": "Bashira Wadia ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-20T20:53:29.240Z",
+    "updatedAt": "2025-07-20T20:53:29.240Z",
+    "original_date": "13-02-2022",
+    "hijri_date": "12 Mahe Rajab, 1443 AH"
+  },
+  {
+    "id": 746,
+    "name": "masumali ramzanali hariyani ",
+    "died": "2021-04-23T00:00:00.000Z",
+    "place": "bhavnagar ",
+    "email": "alihariyani5@gmail.com",
+    "phone": 817160160,
+    "initiatedBy": "aliabbas masumali hariyani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-20T20:34:03.464Z",
+    "updatedAt": "2025-07-20T20:34:03.464Z",
+    "original_date": "23-04-2021",
+    "hijri_date": "11 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 747,
+    "name": "najmabanu binte masumali khunt ",
+    "died": "2021-04-20T00:00:00.000Z",
+    "place": "bhavnagar ",
+    "email": "alihariyani5@gmail.com",
+    "phone": 817160160,
+    "initiatedBy": "aliabbas masumali hariyani ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-07-20T20:34:09.971Z",
+    "updatedAt": "2025-07-20T20:34:09.971Z",
+    "original_date": "20-04-2021",
+    "hijri_date": "8 Mahe Ramadhan, 1442 AH"
   }
 ]
