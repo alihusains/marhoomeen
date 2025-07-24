@@ -1,6 +1,6 @@
 [
   {
-    "id": 518,
+    "id": 516,
     "name": "મરહુમ હાજી દીલાવર હુસૈન રજબઅલી મેધાણી (હરસોલવાળા)",
     "died": "1992-01-05T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -13,5 +13,20 @@
     "updatedAt": "",
     "original_date": "05-01-1992",
     "hijri_date": "1 Mahe Rajab, 1412 AH"
+  },
+  {
+    "id": 742,
+    "name": "મરહુમ મહેબૂબ અલી રમજાન અલી જીવાણી ",
+    "died": "2022-01-05T00:00:00.000Z",
+    "place": "સિહોર ગુજરાત ઇન્ડિયા ",
+    "email": "breezecontrolsystems@gmail.com",
+    "phone": 9428344144,
+    "initiatedBy": "Ali",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-07-22T11:22:38.619Z",
+    "updatedAt": "2025-07-22T11:22:38.619Z",
+    "original_date": "05-01-2022",
+    "hijri_date": "3 Jumada al-Akhir, 1443 AH"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": 354,
+    "id": 352,
     "name": "મરહુમ કાઝીમઅલી અલીમોહંમ્મદભાઇ રવજાણી",
     "died": "1994-07-23T00:00:00.000Z",
     "place": "વરતેજ ગુજરાત ઇન્ડિયા ",
@@ -13,5 +13,20 @@
     "updatedAt": "2024-07-09T03:15:12.280Z",
     "original_date": "23-07-1994",
     "hijri_date": "15 Mahe Safar, 1415 AH"
+  },
+  {
+    "id": 740,
+    "name": "મરહુમા મહેરૂન્નિશા બિન્તે હુસૈનઅલી નજરઅલી રાજાણી W/o મરહુમ અમીરઅલી ફીદાહુસૈન મરચન્ટ ",
+    "died": "2025-07-23T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "Sadiqbhai muni",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "23-07-2025",
+    "hijri_date": "28 Mahe Muharram, 1447 AH"
   }
 ]
