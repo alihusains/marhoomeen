@@ -11218,5 +11218,35 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 749,
+    "name": "Hasan Mahendihusen Alimadbhai ",
+    "died": "2025-05-07T00:00:00.000Z",
+    "place": "Kanodar, Gujarat ",
+    "email": "hsaloni92@gmail.com",
+    "phone": 6355947564,
+    "initiatedBy": "Hasan Saloni Mahendihusen ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-24T08:51:05.833Z",
+    "updatedAt": "2025-07-24T08:51:05.833Z",
+    "original_date": "07-05-2025",
+    "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
+  },
+  {
+    "id": 750,
+    "name": "Hasan Mahendihusen Alimadbhai ",
+    "died": "2025-05-07T00:00:00.000Z",
+    "place": "Kanodar, Banaskantha",
+    "email": "hsaloni92@gmail.com",
+    "phone": 6355947564,
+    "initiatedBy": "Hasan Saloni Mahendihusen ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-24T09:00:44.168Z",
+    "updatedAt": "2025-07-24T09:00:44.168Z",
+    "original_date": "07-05-2025",
+    "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
   }
 ]
