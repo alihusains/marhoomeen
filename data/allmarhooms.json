@@ -11263,5 +11263,50 @@
     "updatedAt": "2025-07-24T19:30:02.682Z",
     "original_date": "02-07-1996",
     "hijri_date": "16 Mahe Safar, 1417 AH"
+  },
+  {
+    "id": 752,
+    "name": "મરહુમ અહેમદહુસેન ગુલામ હુસેન",
+    "died": "2016-01-16T00:00:00.000Z",
+    "place": "   લીલાપુર, ધોળકા",
+    "email": "nmmomin23@gmail.com",
+    "phone": 9173007110,
+    "initiatedBy": "નસીમબાનુ અહેમદહુસેન મોમીન",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-25T21:06:28.399Z",
+    "updatedAt": "2025-07-25T21:06:28.399Z",
+    "original_date": "16-01-2016",
+    "hijri_date": "6 Rabi' al-Akhir, 1437 AH"
+  },
+  {
+    "id": 753,
+    "name": "મરહૂમ રાબીયા બેન",
+    "died": "2011-08-05T00:00:00.000Z",
+    "place": "ધધૂકા",
+    "email": "mehboobvora96@email.com",
+    "phone": 9106034210,
+    "initiatedBy": "મહેબૂબ બાબુભાઈ વોરા",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-07-25T21:59:27.146Z",
+    "updatedAt": "2025-07-25T21:59:27.146Z",
+    "original_date": "05-08-2011",
+    "hijri_date": "6 Mahe Ramadhan, 1432 AH"
+  },
+  {
+    "id": 754,
+    "name": "દેસાઈ  કરીમભાઈ",
+    "died": "2015-04-24T00:00:00.000Z",
+    "place": "ધધૂકા",
+    "email": "mehboobvora96@email.com",
+    "phone": 9106034210,
+    "initiatedBy": "મહેબૂબ બાબુભાઈ વોરા",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-25T21:59:29.579Z",
+    "updatedAt": "2025-07-25T21:59:29.579Z",
+    "original_date": "24-04-2015",
+    "hijri_date": "6 Mahe Rajab, 1436 AH"
   }
 ]
