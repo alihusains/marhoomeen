@@ -11212,7 +11212,7 @@
     "email": "hsaloni92@gmail.com",
     "phone": 6355947564,
     "initiatedBy": "Hasan Saloni Mahendihusen ",
-    "status": false,
+    "status": true,
     "gender": "male",
     "createdAt": "2025-07-24T09:00:44.168Z",
     "updatedAt": "2025-07-24T09:00:44.168Z",
@@ -11221,6 +11221,36 @@
   },
   {
     "id": 749,
+    "name": "મરહુમ સજ્જાદઅલી મોહંમ્મદહુસૈન વકીલ ",
+    "died": "2021-04-21T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "hasnainvakil1989@gmail.com",
+    "phone": 9426951176,
+    "initiatedBy": "Mohamad Hasnain sajjadali Vakil",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-07-28T23:58:09.675Z",
+    "updatedAt": "2025-07-28T23:58:09.675Z",
+    "original_date": "21-04-2021",
+    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 750,
+    "name": "મરહુમ અખતરઅલી બાકરઅલી સમાની : તદફીન આજે મીરારોડ મહારાષ્ટ્ર ",
+    "died": "2025-07-29T00:00:00.000Z",
+    "place": "મીરારોડ થાણે મહારાષ્ટ્ર ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "29-07-2025",
+    "hijri_date": "5 Mahe Safar, 1447 AH"
+  },
+  {
+    "id": 751,
     "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
     "died": "2025-06-25T00:00:00.000Z",
     "place": "",
@@ -11235,7 +11265,7 @@
     "hijri_date": "29 Dhuʻl-Hijjah, 1446 AH"
   },
   {
-    "id": 750,
+    "id": 752,
     "name": "મર્હુમ હાજી જુમ્મા ઊઢેજા (જીજુડા)",
     "died": "2023-07-08T00:00:00.000Z",
     "place": "જીજુડા મોરબી ગુજરાત ",
@@ -11250,9 +11280,9 @@
     "hijri_date": "20 Dhuʻl-Hijjah, 1444 AH"
   },
   {
-    "id": 751,
+    "id": 753,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-    "died": "2025-07-27T00:00:00.000Z",
+    "died": "2025-07-29T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -11261,11 +11291,11 @@
     "gender": "male",
     "createdAt": "2025-06-08T14:43:42.201Z",
     "updatedAt": "2025-06-08T14:43:42.203Z",
-    "original_date": "27-07-2025",
-    "hijri_date": "3 Mahe Safar, 1447 AH"
+    "original_date": "29-07-2025",
+    "hijri_date": "5 Mahe Safar, 1447 AH"
   },
   {
-    "id": 752,
+    "id": 754,
     "name": "મરહુમ શેરઅલીભાઇ ફાઝલભાઇ વંકાણી વફાત : ૨૭ માહે રમઝાન ૧૪૨૦",
     "died": "2000-01-04T00:00:00.000Z",
     "place": "ઇન્ડીઆ",
@@ -11278,20 +11308,5 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
-  },
-  {
-    "id": 753,
-    "name": "sajjadali Mahammad Hussien Vakil",
-    "died": "2021-04-21T00:00:00.000Z",
-    "place": "Mahuva",
-    "email": "hasnainvakil1989@gmail.com",
-    "phone": 9426951176,
-    "initiatedBy": "Mohamad Hasnain sajjadali Vakil",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-07-28T23:58:09.675Z",
-    "updatedAt": "2025-07-28T23:58:09.675Z",
-    "original_date": "21-04-2021",
-    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
   }
 ]

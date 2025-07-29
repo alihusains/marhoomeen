@@ -5081,9 +5081,24 @@
       "hijri_date": "16 Mahe Safar, 1417 AH"
     },
     {
-      "id": 751,
+      "id": 750,
+      "name": "મરહુમ અખતરઅલી બાકરઅલી સમાની : તદફીન આજે મીરારોડ મહારાષ્ટ્ર ",
+      "died": "2025-07-29T00:00:00.000Z",
+      "place": "મીરારોડ થાણે મહારાષ્ટ્ર ઇન્ડિયા ",
+      "email": "",
+      "phone": "",
+      "initiatedBy": "",
+      "status": true,
+      "gender": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "original_date": "29-07-2025",
+      "hijri_date": "5 Mahe Safar, 1447 AH"
+    },
+    {
+      "id": 753,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-      "died": "2025-07-27T00:00:00.000Z",
+      "died": "2025-07-29T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -5092,8 +5107,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "27-07-2025",
-      "hijri_date": "3 Mahe Safar, 1447 AH"
+      "original_date": "29-07-2025",
+      "hijri_date": "5 Mahe Safar, 1447 AH"
     }
   ],
   "03": [
@@ -8250,6 +8265,21 @@
       "updatedAt": "2025-07-20T20:34:09.971Z",
       "original_date": "20-04-2021",
       "hijri_date": "8 Mahe Ramadhan, 1442 AH"
+    },
+    {
+      "id": 749,
+      "name": "મરહુમ સજ્જાદઅલી મોહંમ્મદહુસૈન વકીલ ",
+      "died": "2021-04-21T00:00:00.000Z",
+      "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+      "email": "hasnainvakil1989@gmail.com",
+      "phone": 9426951176,
+      "initiatedBy": "Mohamad Hasnain sajjadali Vakil",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-28T23:58:09.675Z",
+      "updatedAt": "2025-07-28T23:58:09.675Z",
+      "original_date": "21-04-2021",
+      "hijri_date": "9 Mahe Ramadhan, 1442 AH"
     }
   ],
   "06": [
@@ -9274,7 +9304,7 @@
       "hijri_date": "26 Rabi' al-Akhir, 1426 AH"
     },
     {
-      "id": 749,
+      "id": 751,
       "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
       "died": "2025-06-25T00:00:00.000Z",
       "place": "",
@@ -10219,6 +10249,21 @@
       "updatedAt": "2025-07-22T11:43:21.296Z",
       "original_date": "31-05-2021",
       "hijri_date": "20 Shawwal, 1442 AH"
+    },
+    {
+      "id": 748,
+      "name": "મરહુમ હસન મહેદીહુસૈન અલીમદભાઇ ",
+      "died": "2025-05-07T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "hsaloni92@gmail.com",
+      "phone": 6355947564,
+      "initiatedBy": "Hasan Saloni Mahendihusen ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-07-24T09:00:44.168Z",
+      "updatedAt": "2025-07-24T09:00:44.168Z",
+      "original_date": "07-05-2025",
+      "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
     }
   ],
   "01": [
