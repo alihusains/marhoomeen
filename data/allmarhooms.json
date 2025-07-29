@@ -10842,7 +10842,7 @@
     "createdAt": "2025-07-14T09:44:10.313Z",
     "updatedAt": "2025-07-14T09:44:10.313Z",
     "original_date": "07-05-2025",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
   },
   {
     "id": 724,
@@ -11278,5 +11278,20 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 753,
+    "name": "sajjadali Mahammad Hussien Vakil",
+    "died": "2021-04-21T00:00:00.000Z",
+    "place": "Mahuva",
+    "email": "hasnainvakil1989@gmail.com",
+    "phone": 9426951176,
+    "initiatedBy": "Mohamad Hasnain sajjadali Vakil",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-07-28T23:58:09.675Z",
+    "updatedAt": "2025-07-28T23:58:09.675Z",
+    "original_date": "21-04-2021",
+    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
   }
 ]
