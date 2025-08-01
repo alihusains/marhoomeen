@@ -11308,5 +11308,20 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 755,
+    "name": "HASINABANU HASANALI MAMDANI",
+    "died": "2022-08-21T00:00:00.000Z",
+    "place": "BHAVNAGAR",
+    "email": "abidbadami5@gmai.com",
+    "phone": 9428794764,
+    "initiatedBy": "ABIDALI G BADAMI",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-08-01T08:41:05.588Z",
+    "updatedAt": "2025-08-01T08:41:05.588Z",
+    "original_date": "21-08-2022",
+    "hijri_date": "24 Mahe Muharram, 1444 AH"
   }
 ]
