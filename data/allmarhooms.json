@@ -11297,7 +11297,7 @@
   {
     "id": 754,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-    "died": "2025-08-07T00:00:00.000Z",
+    "died": "2025-08-08T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -11306,8 +11306,8 @@
     "gender": "male",
     "createdAt": "2025-06-08T14:43:42.201Z",
     "updatedAt": "2025-06-08T14:43:42.203Z",
-    "original_date": "07-08-2025",
-    "hijri_date": "14 Mahe Safar, 1447 AH"
+    "original_date": "08-08-2025",
+    "hijri_date": "15 Mahe Safar, 1447 AH"
   },
   {
     "id": 755,
@@ -11398,5 +11398,35 @@
     "updatedAt": "2025-08-07T01:12:49.303Z",
     "original_date": "27-12-1987",
     "hijri_date": "7 Jumada al-Awwal, 1408 AH"
+  },
+  {
+    "id": 761,
+    "name": "ABUL HASAN NOOR BHAI SUNASARA ",
+    "died": "null",
+    "place": "kanodar ",
+    "email": "yavarsunasara@gmail.com",
+    "phone": 8660575407,
+    "initiatedBy": "yavarabbas ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-08T11:03:27.093Z",
+    "updatedAt": "2025-08-08T11:03:27.093Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
+  },
+  {
+    "id": 762,
+    "name": "zaynab ben abul hasan sunasara ",
+    "died": "null",
+    "place": "kanodar ",
+    "email": "yavarsunasara@gmail.com",
+    "phone": 8660575407,
+    "initiatedBy": "yavarabbas ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-08-08T11:03:34.626Z",
+    "updatedAt": "2025-08-08T11:03:34.626Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
   }
 ]
