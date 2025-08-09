@@ -11265,6 +11265,21 @@
     "hijri_date": "20 Mahe Rajab, 1442 AH"
   },
   {
+    "id": 761,
+    "name": " ઇન્નાલિલ્લાહે......: હાજી યાસીનભાઈ બદામી (એડવોકેટ ) મુબઇ : તદફીન.....",
+    "died": "2025-08-09T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "09-08-2025",
+    "hijri_date": "16 Mahe Safar, 1447 AH"
+  },
+  {
     "id": 751,
     "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
     "died": "2025-06-25T00:00:00.000Z",
@@ -11280,7 +11295,7 @@
     "hijri_date": "29 Dhuʻl-Hijjah, 1446 AH"
   },
   {
-    "id": 753,
+    "id": 754,
     "name": "મર્હુમ હાજી જુમ્મા ઊઢેજા (જીજુડા)",
     "died": "2023-07-08T00:00:00.000Z",
     "place": "જીજુડા મોરબી ગુજરાત ",
@@ -11295,7 +11310,7 @@
     "hijri_date": "20 Dhuʻl-Hijjah, 1444 AH"
   },
   {
-    "id": 754,
+    "id": 755,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
     "died": "2025-08-08T00:00:00.000Z",
     "place": "",
@@ -11310,7 +11325,7 @@
     "hijri_date": "15 Mahe Safar, 1447 AH"
   },
   {
-    "id": 755,
+    "id": 756,
     "name": "મરહુમ શેરઅલીભાઇ ફાઝલભાઇ વંકાણી વફાત : ૨૭ માહે રમઝાન ૧૪૨૦",
     "died": "2000-01-04T00:00:00.000Z",
     "place": "ઇન્ડીઆ",
@@ -11443,5 +11458,35 @@
     "updatedAt": "2025-08-09T05:34:09.661Z",
     "original_date": "27-05-2024",
     "hijri_date": "19 Dhuʻl-Qiʻdah, 1445 AH"
+  },
+  {
+    "id": 764,
+    "name": "haji sabbir ali gulam ali bhimani",
+    "died": "2010-01-21T00:00:00.000Z",
+    "place": "iran",
+    "email": "karishmakk1212@gmail.com",
+    "phone": 9687366150,
+    "initiatedBy": "karishma ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-09T10:50:34.937Z",
+    "updatedAt": "2025-08-09T10:50:34.937Z",
+    "original_date": "21-01-2010",
+    "hijri_date": "6 Mahe Safar, 1431 AH"
+  },
+  {
+    "id": 765,
+    "name": "Amina bai mohammed ali morani",
+    "died": "2011-05-06T00:00:00.000Z",
+    "place": "Nagalpar kutch ",
+    "email": "karishmakk1212@gmail.com",
+    "phone": 9687366150,
+    "initiatedBy": "karishma ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-08-09T10:54:26.302Z",
+    "updatedAt": "2025-08-09T10:54:26.302Z",
+    "original_date": "06-05-2011",
+    "hijri_date": "3 Jumada al-Akhir, 1432 AH"
   }
 ]
