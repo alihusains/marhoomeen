@@ -27,7 +27,7 @@
     "createdAt": "2024-04-18T18:47:06.118Z",
     "updatedAt": "2024-04-18T18:47:06.118Z",
     "original_date": "07-02-2015",
-    "hijri_date": "18 Rabi' al-Akhir, 1436 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 415,
@@ -42,7 +42,7 @@
     "createdAt": "2024-08-15T22:02:54.975Z",
     "updatedAt": "2024-08-15T22:02:54.975Z",
     "original_date": "07-02-1997",
-    "hijri_date": "29 Mahe Ramadhan, 1417 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 431,
