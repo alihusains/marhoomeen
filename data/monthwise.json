@@ -3094,7 +3094,7 @@
       "createdAt": "2025-01-31T01:35:35.091Z",
       "updatedAt": "2025-01-31T01:35:35.091Z",
       "original_date": "18-02-2018",
-      "hijri_date": "3 Jumada al-Akhir, 1439 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 540,
@@ -6552,7 +6552,7 @@
       "createdAt": "2024-03-15T07:35:35.914Z",
       "updatedAt": "2024-03-15T07:35:35.914Z",
       "original_date": "09-08-2000",
-      "hijri_date": "9 Jumada al-Awwal, 1421 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 173,
