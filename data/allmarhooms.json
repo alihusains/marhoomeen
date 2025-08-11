@@ -11488,5 +11488,20 @@
     "updatedAt": "2025-08-09T10:54:26.302Z",
     "original_date": "06-05-2011",
     "hijri_date": "3 Jumada al-Akhir, 1432 AH"
+  },
+  {
+    "id": 766,
+    "name": "BakarAli Kurban Bhai Vakaliya",
+    "died": "2018-11-09T00:00:00.000Z",
+    "place": "Kanodar, Gujarat",
+    "email": "Sadabvakaliya72@gmail.com",
+    "phone": 555613203,
+    "initiatedBy": "SadabAli Vakaliya",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-10T20:23:19.552Z",
+    "updatedAt": "2025-08-10T20:23:19.552Z",
+    "original_date": "09-11-2018",
+    "hijri_date": "2 Rabi' al-Awwal, 1440 AH"
   }
 ]
