@@ -1501,6 +1501,21 @@
       "updatedAt": "2025-07-14T19:26:31.530Z",
       "original_date": "27-11-2017",
       "hijri_date": "9 Rabi' al-Awwal, 1439 AH"
+    },
+    {
+      "id": 766,
+      "name": "મરહુમ બાકરઅલી કુરબાનભાઇ વકાલીયા",
+      "died": "2018-11-09T00:00:00.000Z",
+      "place": "કોડીનાર ગુજરાત ઇન્ડિયા ",
+      "email": "Sadabvakaliya72@gmail.com",
+      "phone": 555613203,
+      "initiatedBy": "SadabAli Vakaliya",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-10T20:23:19.552Z",
+      "updatedAt": "2025-08-10T20:23:19.552Z",
+      "original_date": "09-11-2018",
+      "hijri_date": "2 Rabi' al-Awwal, 1440 AH"
     }
   ],
   "12": [
@@ -2448,6 +2463,21 @@
       "updatedAt": "2025-07-20T20:53:25.242Z",
       "original_date": "16-12-2019",
       "hijri_date": "20 Rabi' al-Akhir, 1441 AH"
+    },
+    {
+      "id": 760,
+      "name": "મરહુમ ફકીરમોહંમ્મદ વલીભાઇ લાઇટવાલા",
+      "died": "1987-12-27T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "rspn1214@gmail.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez Momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-07T01:12:49.303Z",
+      "updatedAt": "2025-08-07T01:12:49.303Z",
+      "original_date": "27-12-1987",
+      "hijri_date": "7 Jumada al-Awwal, 1408 AH"
     }
   ],
   "02": [
@@ -5094,6 +5124,36 @@
       "updatedAt": "",
       "original_date": "29-07-2025",
       "hijri_date": "5 Mahe Safar, 1447 AH"
+    },
+    {
+      "id": 757,
+      "name": "મરહુમ રઝાકઅલી ફકીરમોહંમ્મદ લાઇટવાલા",
+      "died": "2021-07-05T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "rspn1214@gmail.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez Momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-07T01:12:41.005Z",
+      "updatedAt": "2025-08-07T01:12:41.005Z",
+      "original_date": "05-07-2021",
+      "hijri_date": "25 Dhuʻl-Qiʻdah, 1442 AH"
+    },
+    {
+      "id": 758,
+      "name": "મરહુમ આબીદઅલી ફકીરમોહંમ્મદ લાઇટવાલા",
+      "died": "2011-07-05T00:00:00.000Z",
+      "place": "Atlanta USA",
+      "email": "rspn1214@gmail.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez Momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-07T01:12:43.548Z",
+      "updatedAt": "2025-08-07T01:12:43.548Z",
+      "original_date": "05-07-2011",
+      "hijri_date": "4 Shaʻban, 1432 AH"
     }
   ],
   "03": [
@@ -6344,7 +6404,7 @@
     },
     {
       "id": 761,
-      "name": "મરહુમ હાજી જવ્વારહુસૈન હસનઅલી જામાણી",
+      "name": "મરહુમ હાજી જવ્વારહુસૈન હસનઅલી જમાણી",
       "died": "2021-03-03T00:00:00.000Z",
       "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
       "email": "royalsales27@gmail.com",
@@ -7261,7 +7321,7 @@
     },
     {
       "id": 761,
-      "name": "મરહુમ હાજી યાસીનઅલી ગુલામ અબ્બાસભાઇ બદામી { તદફીન 9/08/2025 ટાઈમ 8:30pm મઝગાવ મુમ્બઇ }",
+      "name": "મરહુમ હાજી યાસીનઅલી ગુલામઅબ્બાસભાઇ બદામી ",
       "died": "2025-08-09T00:00:00.000Z",
       "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
       "email": "",
@@ -7275,9 +7335,9 @@
       "hijri_date": "16 Mahe Safar, 1447 AH"
     },
     {
-      "id": 755,
+      "id": 762,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-      "died": "2025-08-08T00:00:00.000Z",
+      "died": "2025-08-13T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -7286,8 +7346,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "08-08-2025",
-      "hijri_date": "15 Mahe Safar, 1447 AH"
+      "original_date": "13-08-2025",
+      "hijri_date": "20 Mahe Safar, 1447 AH"
     }
   ],
   "04": [
@@ -9335,9 +9395,9 @@
     },
     {
       "id": 751,
-      "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી { વફાત : 28th Mahe Zilhaz 1445 }",
+      "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી",
       "died": "2025-06-25T00:00:00.000Z",
-      "place": "",
+      "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
       "email": "",
       "phone": "",
       "initiatedBy": "",
@@ -9982,7 +10042,7 @@
     },
     {
       "id": 614,
-      "name": "મરહુમ આબીદ અલી ગુલામ અબ્બાસભાઇ ઢેબર ",
+      "name": "મરહુમ આબીદઅલી ગુલામ અબ્બાસભાઇ ઢેબર ",
       "died": "2024-05-27T00:00:00.000Z",
       "place": "congo kinshasha",
       "email": "khoja1272@gmail.com",
@@ -10294,6 +10354,21 @@
       "updatedAt": "2025-07-24T09:00:44.168Z",
       "original_date": "07-05-2025",
       "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
+    },
+    {
+      "id": 765,
+      "name": "મરહુમા અમીનાબાઇ મોહંમ્મદઅલી મોરાણી",
+      "died": "2011-05-06T00:00:00.000Z",
+      "place": "નાગલપર અંજાર કચ્છ ઈન્ડિયા ",
+      "email": "karishmakk1212@gmail.com",
+      "phone": 9687366150,
+      "initiatedBy": "karishma ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-08-09T10:54:26.302Z",
+      "updatedAt": "2025-08-09T10:54:26.302Z",
+      "original_date": "06-05-2011",
+      "hijri_date": "3 Jumada al-Akhir, 1432 AH"
     }
   ],
   "01": [
@@ -11301,6 +11376,36 @@
       "updatedAt": "2025-07-25T21:06:28.399Z",
       "original_date": "16-01-2016",
       "hijri_date": "6 Rabi' al-Akhir, 1437 AH"
+    },
+    {
+      "id": 759,
+      "name": "મરહુમા હુસેનાબાનુ જમાલભાઇ પથ્થરવાલા",
+      "died": "1995-01-14T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "rspn1214@gmail.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez Momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-07T01:12:46.423Z",
+      "updatedAt": "2025-08-07T01:12:46.423Z",
+      "original_date": "14-01-1995",
+      "hijri_date": "13 Shaʻban, 1415 AH"
+    },
+    {
+      "id": 764,
+      "name": "મરહુમ હાજી શબ્બીરઅલી ગુલામઅલી ભીમાણી ",
+      "died": "2010-01-21T00:00:00.000Z",
+      "place": "ઇરાન",
+      "email": "karishmakk1212@gmail.com",
+      "phone": 9687366150,
+      "initiatedBy": "karishma ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-09T10:50:34.937Z",
+      "updatedAt": "2025-08-09T10:50:34.937Z",
+      "original_date": "21-01-2010",
+      "hijri_date": "6 Mahe Safar, 1431 AH"
     }
   ]
 }
