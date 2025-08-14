@@ -11443,5 +11443,20 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 764,
+    "name": "BAKARALI KURBANBHAI VAKALIYA",
+    "died": "2018-11-07T00:00:00.000Z",
+    "place": "Kanodar, Gujarat",
+    "email": "nadealigc@gmail.com",
+    "phone": 555613203,
+    "initiatedBy": "Sadab Ali Bakar Bhai Vakaliya",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-13T20:27:13.212Z",
+    "updatedAt": "2025-08-13T20:27:13.212Z",
+    "original_date": "07-11-2018",
+    "hijri_date": "29 Mahe Safar, 1440 AH"
   }
 ]
