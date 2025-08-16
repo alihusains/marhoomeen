@@ -11443,5 +11443,20 @@
     "updatedAt": "2025-08-13T20:27:13.212Z",
     "original_date": "07-11-2018",
     "hijri_date": "29 Mahe Safar, 1440 AH"
+  },
+  {
+    "id": 765,
+    "name": "haji hussain ali alimohhad bhai keshwani",
+    "died": "2014-05-02T00:00:00.000Z",
+    "place": "Bhavngar india",
+    "email": "zehramuni@gmile.com",
+    "phone": 6351010863,
+    "initiatedBy": "zehara muni",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-16T01:49:34.399Z",
+    "updatedAt": "2025-08-16T01:49:34.399Z",
+    "original_date": "02-05-2014",
+    "hijri_date": "3 Mahe Rajab, 1435 AH"
   }
 ]
