@@ -11473,5 +11473,35 @@
     "updatedAt": "2025-08-16T12:34:46.101Z",
     "original_date": "25-03-2019",
     "hijri_date": "19 Mahe Rajab, 1440 AH"
+  },
+  {
+    "id": 767,
+    "name": "Lakhani Sheralibhai Aladinbhai ",
+    "died": "2020-08-16T00:00:00.000Z",
+    "place": "Rajula",
+    "email": "metrocomputer80000@gmail.com",
+    "phone": 9824504100,
+    "initiatedBy": "Sarfaraz Wadia ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-17T10:01:53.915Z",
+    "updatedAt": "2025-08-17T10:01:53.915Z",
+    "original_date": "16-08-2020",
+    "hijri_date": "27 Dhuʻl-Hijjah, 1441 AH"
+  },
+  {
+    "id": 768,
+    "name": "Haji Rafikali Rajabali Bhurani ",
+    "died": "2020-10-04T00:00:00.000Z",
+    "place": "Talaja",
+    "email": "nadeembhurani92@gmail.com",
+    "phone": 9824909192,
+    "initiatedBy": "Nadeem Bhurani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-17T12:12:22.569Z",
+    "updatedAt": "2025-08-17T12:12:22.569Z",
+    "original_date": "04-10-2020",
+    "hijri_date": "17 Mahe Safar, 1442 AH"
   }
 ]
