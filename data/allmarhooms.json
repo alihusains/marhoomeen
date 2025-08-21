@@ -11563,5 +11563,35 @@
     "updatedAt": "2025-08-18T22:45:38.548Z",
     "original_date": "05-04-2020",
     "hijri_date": "12 Shaʻban, 1441 AH"
+  },
+  {
+    "id": 773,
+    "name": "Valimohmmed Lalubhai",
+    "died": "null",
+    "place": "USA  Atlanta",
+    "email": "nasirmomin@att.net",
+    "phone": 4049323264,
+    "initiatedBy": "Nasir Husen Momin",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-20T13:58:14.495Z",
+    "updatedAt": "2025-08-20T13:58:14.495Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
+  },
+  {
+    "id": 774,
+    "name": "Aminabhen Kmalbhai",
+    "died": "null",
+    "place": "USA Atlanta",
+    "email": "nasirmomin@att.net",
+    "phone": 4049323264,
+    "initiatedBy": "Nasir Husen Momin",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-08-20T13:58:18.201Z",
+    "updatedAt": "2025-08-20T13:58:18.201Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
   }
 ]
