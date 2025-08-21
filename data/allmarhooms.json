@@ -912,7 +912,7 @@
     "createdAt": "2024-02-20T01:11:05.150Z",
     "updatedAt": "2024-02-20T01:11:05.150Z",
     "original_date": "27-09-2020",
-    "hijri_date": "10 Mahe Safar, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 62,
@@ -5907,7 +5907,7 @@
     "createdAt": "2024-08-08T22:46:37.423Z",
     "updatedAt": "2024-08-08T22:46:37.423Z",
     "original_date": "21-04-2021",
-    "hijri_date": "9 Mahe Ramadhan, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 395,
