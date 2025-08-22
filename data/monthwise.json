@@ -824,6 +824,21 @@
       "updatedAt": "2025-07-04T20:34:35.031Z",
       "original_date": "21-10-2010",
       "hijri_date": "14 Dhuʻl-Qiʻdah, 1431 AH"
+    },
+    {
+      "id": 767,
+      "name": "મરહુમ હાજી રફીકઅલી રજબઅલી ભુરાણી",
+      "died": "2020-10-04T00:00:00.000Z",
+      "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+      "email": "nadeembhurani92@gmail.com",
+      "phone": 9824909192,
+      "initiatedBy": "Nadeem Bhurani ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-17T12:12:22.569Z",
+      "updatedAt": "2025-08-17T12:12:22.569Z",
+      "original_date": "04-10-2020",
+      "hijri_date": "17 Mahe Safar, 1442 AH"
     }
   ],
   "11": [
@@ -1503,7 +1518,7 @@
       "hijri_date": "9 Rabi' al-Awwal, 1439 AH"
     },
     {
-      "id": 766,
+      "id": 758,
       "name": "મરહુમ બાકરઅલી કુરબાનભાઇ વકાલીયા",
       "died": "2018-11-09T00:00:00.000Z",
       "place": "કોડીનાર ગુજરાત ઇન્ડિયા ",
@@ -1516,6 +1531,21 @@
       "updatedAt": "2025-08-10T20:23:19.552Z",
       "original_date": "09-11-2018",
       "hijri_date": "2 Rabi' al-Awwal, 1440 AH"
+    },
+    {
+      "id": 764,
+      "name": "મરહુમ બાકરઅલી કુરબાનભાઈ વકાલીયા",
+      "died": "2018-11-07T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "nadealigc@gmail.com",
+      "phone": 555613203,
+      "initiatedBy": "Sadab Ali Bakar Bhai Vakaliya",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-13T20:27:13.212Z",
+      "updatedAt": "2025-08-13T20:27:13.212Z",
+      "original_date": "07-11-2018",
+      "hijri_date": "29 Mahe Safar, 1440 AH"
     }
   ],
   "12": [
@@ -2465,7 +2495,7 @@
       "hijri_date": "20 Rabi' al-Akhir, 1441 AH"
     },
     {
-      "id": 760,
+      "id": 754,
       "name": "મરહુમ ફકીરમોહંમ્મદ વલીભાઇ લાઇટવાલા",
       "died": "1987-12-27T00:00:00.000Z",
       "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -2478,6 +2508,21 @@
       "updatedAt": "2025-08-07T01:12:49.303Z",
       "original_date": "27-12-1987",
       "hijri_date": "7 Jumada al-Awwal, 1408 AH"
+    },
+    {
+      "id": 768,
+      "name": "મરહુમા ઉમ્મેફરવા અકબરઅલી જલાલી",
+      "died": "2023-12-27T00:00:00.000Z",
+      "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+      "email": "sarfrazalijalali@gmail.com",
+      "phone": 7622896063,
+      "initiatedBy": "sarfrazali mahebubali jalali ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-08-17T18:58:14.184Z",
+      "updatedAt": "2025-08-17T18:58:14.184Z",
+      "original_date": "27-12-2023",
+      "hijri_date": "15 Jumada al-Akhir, 1445 AH"
     }
   ],
   "02": [
@@ -3516,7 +3561,7 @@
       "createdAt": "2024-02-20T01:11:05.150Z",
       "updatedAt": "2024-02-20T01:11:05.150Z",
       "original_date": "27-09-2020",
-      "hijri_date": "#ERROR!"
+      "hijri_date": "10 Mahe Safar, 1442 AH"
     },
     {
       "id": 66,
@@ -5126,7 +5171,7 @@
       "hijri_date": "5 Mahe Safar, 1447 AH"
     },
     {
-      "id": 757,
+      "id": 752,
       "name": "મરહુમ રઝાકઅલી ફકીરમોહંમ્મદ લાઇટવાલા",
       "died": "2021-07-05T00:00:00.000Z",
       "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -5141,7 +5186,7 @@
       "hijri_date": "25 Dhuʻl-Qiʻdah, 1442 AH"
     },
     {
-      "id": 758,
+      "id": 753,
       "name": "મરહુમ આબીદઅલી ફકીરમોહંમ્મદ લાઇટવાલા",
       "died": "2011-07-05T00:00:00.000Z",
       "place": "Atlanta USA",
@@ -5154,6 +5199,21 @@
       "updatedAt": "2025-08-07T01:12:43.548Z",
       "original_date": "05-07-2011",
       "hijri_date": "4 Shaʻban, 1432 AH"
+    },
+    {
+      "id": 770,
+      "name": "મરહુમ અમીરઅલી હસનભાઈ ઉમતીયા",
+      "died": "2025-07-17T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "musarratsuleman@gmail.com",
+      "phone": 8511849856,
+      "initiatedBy": "musarrat umatiya",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-21T22:24:19.095Z",
+      "updatedAt": "2025-08-21T22:24:19.095Z",
+      "original_date": "17-07-2025",
+      "hijri_date": "22 Mahe Muharram, 1447 AH"
     }
   ],
   "03": [
@@ -6403,7 +6463,7 @@
       "hijri_date": "10 Mahe Ramadhan, 1446 AH"
     },
     {
-      "id": 761,
+      "id": 750,
       "name": "મરહુમ હાજી જવ્વારહુસૈન હસનઅલી જમાણી",
       "died": "2021-03-03T00:00:00.000Z",
       "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -6416,6 +6476,36 @@
       "updatedAt": "2025-08-06T17:41:28.845Z",
       "original_date": "03-03-2021",
       "hijri_date": "20 Mahe Rajab, 1442 AH"
+    },
+    {
+      "id": 760,
+      "name": "મરહુમ હસનઅલી મોહમ્મદઅલી પ્રમાણી",
+      "died": "2019-03-25T00:00:00.000Z",
+      "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
+      "email": "royalsales27@gmail.com",
+      "phone": 8780812662,
+      "initiatedBy": "જામાણી ઝુલ્ફીકારઅલી ગુલામઅલી",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-16T12:34:46.100Z",
+      "updatedAt": "2025-08-16T12:34:46.101Z",
+      "original_date": "25-03-2019",
+      "hijri_date": "19 Mahe Rajab, 1440 AH"
+    },
+    {
+      "id": 769,
+      "name": "મરહુમા મુમતાઝબેન બિન્તે ઝાફરભાઈ નુરાની",
+      "died": "2025-03-02T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "sabirdilavarbhai@gmail.com",
+      "phone": 8485947214,
+      "initiatedBy": "Dr sabir d devjani ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-08-18T04:01:34.067Z",
+      "updatedAt": "2025-08-18T04:01:34.067Z",
+      "original_date": "02-03-2025",
+      "hijri_date": "2 Mahe Ramadhan, 1446 AH"
     }
   ],
   "08": [
@@ -7305,7 +7395,7 @@
       "hijri_date": "22 Dhuʻl-Hijjah, 1441 AH"
     },
     {
-      "id": 761,
+      "id": 751,
       "name": "મરહુમ હાજી યાસીનઅલી ગુલામઅબ્બાસભાઇ બદામી ",
       "died": "2025-08-09T00:00:00.000Z",
       "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
@@ -7321,6 +7411,51 @@
     },
     {
       "id": 761,
+      "name": "મરહુમા કુલસુમબેન અબ્બાસભાઇ અઘારિયા ",
+      "died": "2025-08-18T00:00:00.000Z",
+      "place": "શેરપુરા બનાસકાંઠા ગુજરાત ઇન્ડિયા",
+      "email": "alimusa530@gmail.com",
+      "phone": 9723922530,
+      "initiatedBy": "Ahesanali A Musa ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-08-18T06:39:02.473Z",
+      "updatedAt": "2025-08-18T06:39:02.473Z",
+      "original_date": "18-08-2025",
+      "hijri_date": "25 Mahe Safar, 1447 AH"
+    },
+    {
+      "id": 763,
+      "name": "મરહુમ મોહંમ્મદતકીભાઇ રજબ અલી અલીભાઈ પેથા {તદફીન : 22nd Aug 2025  બેહીસ્તે ઝહેરા તહેરાન} ",
+      "died": "2025-08-22T00:00:00.000Z",
+      "place": "બેહીસ્તે ઝહેરા તહેરાન ઇરાન",
+      "email": "",
+      "phone": "",
+      "initiatedBy": "",
+      "status": true,
+      "gender": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "original_date": "22-08-2025",
+      "hijri_date": "29 Mahe Safar, 1447 AH"
+    },
+    {
+      "id": 766,
+      "name": "મરહુમ શેરઅલીભાઈ અલાદીનભાઈ લાખાણી",
+      "died": "2020-08-16T00:00:00.000Z",
+      "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+      "email": "metrocomputer80000@gmail.com",
+      "phone": 9824504100,
+      "initiatedBy": "Sarfaraz Wadia ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-17T10:01:53.915Z",
+      "updatedAt": "2025-08-17T10:01:53.915Z",
+      "original_date": "16-08-2020",
+      "hijri_date": "27 Dhuʻl-Hijjah, 1441 AH"
+    },
+    {
+      "id": 772,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
       "died": "2025-08-14T00:00:00.000Z",
       "place": "",
@@ -7904,7 +8039,7 @@
       "createdAt": "2024-08-08T22:46:37.423Z",
       "updatedAt": "2024-08-08T22:46:37.423Z",
       "original_date": "21-04-2021",
-      "hijri_date": "#ERROR!"
+      "hijri_date": "9 Mahe Ramadhan, 1442 AH"
     },
     {
       "id": 409,
@@ -8355,6 +8490,21 @@
       "updatedAt": "2025-07-28T23:58:09.675Z",
       "original_date": "21-04-2021",
       "hijri_date": "9 Mahe Ramadhan, 1442 AH"
+    },
+    {
+      "id": 762,
+      "name": "મરહુમા કુલસુમ બેન સુલતાન અલી ભટ્ટા",
+      "died": "2020-04-05T00:00:00.000Z",
+      "place": "ઇલોલ - પહાડિયા ગુજરાત ઇન્ડિયા ",
+      "email": "gurukrupa440@gmail.com",
+      "phone": 9408593834,
+      "initiatedBy": "મર્હુમા કુલસુમ બેન સુલતાન અલી ભટ્ટા",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-08-18T22:45:38.548Z",
+      "updatedAt": "2025-08-18T22:45:38.548Z",
+      "original_date": "05-04-2020",
+      "hijri_date": "12 Shaʻban, 1441 AH"
     }
   ],
   "06": [
@@ -9379,7 +9529,7 @@
       "hijri_date": "26 Rabi' al-Akhir, 1426 AH"
     },
     {
-      "id": 750,
+      "id": 759,
       "name": "મરહુમા ઝરીનાબાનુ બિન્તે હસનઅલી હેમાણી W/o મરહુમ હૈદર અલી વજીરઅલી રૂપાણી",
       "died": "2025-06-25T00:00:00.000Z",
       "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
@@ -10341,7 +10491,7 @@
       "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
     },
     {
-      "id": 765,
+      "id": 757,
       "name": "મરહુમા અમીનાબાઇ મોહંમ્મદઅલી મોરાણી",
       "died": "2011-05-06T00:00:00.000Z",
       "place": "નાગલપર અંજાર કચ્છ ઈન્ડિયા ",
@@ -10354,6 +10504,21 @@
       "updatedAt": "2025-08-09T10:54:26.302Z",
       "original_date": "06-05-2011",
       "hijri_date": "3 Jumada al-Akhir, 1432 AH"
+    },
+    {
+      "id": 765,
+      "name": "મરહુમ હાજી હુસેનઅલી અલીમોહંમ્મદભાઈ કેશવાણી",
+      "died": "2014-05-02T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "zehramuni@gmile.com",
+      "phone": 6351010863,
+      "initiatedBy": "zehara muni",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-08-16T01:49:34.399Z",
+      "updatedAt": "2025-08-16T01:49:34.399Z",
+      "original_date": "02-05-2014",
+      "hijri_date": "3 Mahe Rajab, 1435 AH"
     }
   ],
   "01": [
@@ -11363,7 +11528,7 @@
       "hijri_date": "6 Rabi' al-Akhir, 1437 AH"
     },
     {
-      "id": 759,
+      "id": 755,
       "name": "મરહુમા હુસેનાબાનુ જમાલભાઇ પથ્થરવાલા",
       "died": "1995-01-14T00:00:00.000Z",
       "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -11378,7 +11543,7 @@
       "hijri_date": "13 Shaʻban, 1415 AH"
     },
     {
-      "id": 764,
+      "id": 756,
       "name": "મરહુમ હાજી શબ્બીરઅલી ગુલામઅલી ભીમાણી ",
       "died": "2010-01-21T00:00:00.000Z",
       "place": "ઇરાન",

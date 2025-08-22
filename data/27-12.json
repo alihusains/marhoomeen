@@ -30,7 +30,7 @@
     "hijri_date": "5 Rabi' al-Awwal, 1436 AH"
   },
   {
-    "id": 760,
+    "id": 754,
     "name": "મરહુમ ફકીરમોહંમ્મદ વલીભાઇ લાઇટવાલા",
     "died": "1987-12-27T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -43,5 +43,20 @@
     "updatedAt": "2025-08-07T01:12:49.303Z",
     "original_date": "27-12-1987",
     "hijri_date": "7 Jumada al-Awwal, 1408 AH"
+  },
+  {
+    "id": 768,
+    "name": "મરહુમા ઉમ્મેફરવા અકબરઅલી જલાલી",
+    "died": "2023-12-27T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "sarfrazalijalali@gmail.com",
+    "phone": 7622896063,
+    "initiatedBy": "sarfrazali mahebubali jalali ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-08-17T18:58:14.184Z",
+    "updatedAt": "2025-08-17T18:58:14.184Z",
+    "original_date": "27-12-2023",
+    "hijri_date": "15 Jumada al-Akhir, 1445 AH"
   }
 ]
