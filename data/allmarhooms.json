@@ -10842,7 +10842,7 @@
     "createdAt": "2025-07-14T23:11:27.189Z",
     "updatedAt": "2025-07-14T23:11:27.189Z",
     "original_date": "12-01-2014",
-    "hijri_date": "11 Rabi' al-Awwal, 1435 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 724,
@@ -11593,5 +11593,50 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 774,
+    "name": "mashukali gulamali",
+    "died": "1994-11-01T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "pmomin2004@yahoo.com",
+    "phone": 4045426855,
+    "initiatedBy": "parvez momin",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-22T02:48:56.524Z",
+    "updatedAt": "2025-08-22T02:48:56.524Z",
+    "original_date": "01-11-1994",
+    "hijri_date": "27 Jumada al-Awwal, 1415 AH"
+  },
+  {
+    "id": 775,
+    "name": "Raza Ali fakirmohamed lightwala ",
+    "died": "2021-07-05T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "pmomin2004@yahoo.com",
+    "phone": 4045426855,
+    "initiatedBy": "Parvez momin ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-08-22T02:56:40.054Z",
+    "updatedAt": "2025-08-22T02:56:40.055Z",
+    "original_date": "05-07-2021",
+    "hijri_date": "25 Dhuʻl-Qiʻdah, 1442 AH"
+  },
+  {
+    "id": 776,
+    "name": "Husenabanu Jamalbhai Pathrawala",
+    "died": "1995-01-14T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "pmomin2004@yahoo.com",
+    "phone": 4045426855,
+    "initiatedBy": "Parvez momin ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-08-22T02:59:03.588Z",
+    "updatedAt": "2025-08-22T02:59:03.588Z",
+    "original_date": "14-01-1995",
+    "hijri_date": "13 Shaʻban, 1415 AH"
   }
 ]
