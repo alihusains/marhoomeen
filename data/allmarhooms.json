@@ -11653,5 +11653,35 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 778,
+    "name": "marhum vahedali fida Husain jalali",
+    "died": "null",
+    "place": "mahuva gujrat ",
+    "email": "sarfrazalijalali@gmail.com",
+    "phone": 7622896063,
+    "initiatedBy": "sarfrazali ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-09-03T06:31:16.289Z",
+    "updatedAt": "2025-09-03T06:31:16.289Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
+  },
+  {
+    "id": 779,
+    "name": "marhuma badrunisa binte ali husein jalali",
+    "died": "null",
+    "place": "mahuva gujrat ",
+    "email": "sarfrazalijalali@gmail.com",
+    "phone": 7622896063,
+    "initiatedBy": "sarfrazali ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-09-03T06:34:17.106Z",
+    "updatedAt": "2025-09-03T06:34:17.106Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
   }
 ]
