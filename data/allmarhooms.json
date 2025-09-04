@@ -11683,5 +11683,35 @@
     "updatedAt": "2025-09-03T06:34:17.106Z",
     "original_date": "null",
     "hijri_date": "Invalid Date"
+  },
+  {
+    "id": 780,
+    "name": "શબ્બીર અલી નૂર મોહમ્મદ ભાઈ ભૂરાની ",
+    "died": "2021-04-20T00:00:00.000Z",
+    "place": "તળાજા",
+    "email": "arifbadami2020@gmail.com",
+    "phone": 9428992020,
+    "initiatedBy": "મહંમદ આરીફ અકબર અલી બદામી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-09-03T21:24:05.185Z",
+    "updatedAt": "2025-09-03T21:24:05.185Z",
+    "original_date": "20-04-2021",
+    "hijri_date": "8 Mahe Ramadhan, 1442 AH"
+  },
+  {
+    "id": 781,
+    "name": "કરાર હુસૈન શબ્બીર અલી ભૂરાની ",
+    "died": "2024-09-23T00:00:00.000Z",
+    "place": "તળાજા",
+    "email": "arifbadami2020@gmail.com",
+    "phone": 9428992020,
+    "initiatedBy": "મહંમદ આરીફ અકબર અલી બદામી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-09-03T21:28:32.649Z",
+    "updatedAt": "2025-09-03T21:28:32.649Z",
+    "original_date": "23-09-2024",
+    "hijri_date": "20 Rabi' al-Awwal, 1446 AH"
   }
 ]
