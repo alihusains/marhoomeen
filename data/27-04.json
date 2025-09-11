@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "27-04-2024",
-    "hijri_date": "19 Shawwal, 1445 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 408,
@@ -27,10 +27,10 @@
     "createdAt": "2024-08-14T09:51:45.189Z",
     "updatedAt": "2024-08-14T09:51:45.189Z",
     "original_date": "27-04-1989",
-    "hijri_date": "21 Mahe Ramadhan, 1409 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 769,
+    "id": "",
     "name": "મરહુમા ગુલશનબેન બિન્તે મહમદરઝા રવજાની W/O  શોકતઅલી રમઝાનઅલી હરિયાણી",
     "died": "2021-04-27T00:00:00.000Z",
     "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-08-23T16:45:30.314Z",
     "updatedAt": "2025-08-23T16:45:30.314Z",
     "original_date": "27-04-2021",
-    "hijri_date": "15 Mahe Ramadhan, 1442 AH"
+    "hijri_date": "#NAME?"
   }
 ]

@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "31-07-2024",
-    "hijri_date": "26 Mahe Muharram, 1446 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 679,
@@ -27,10 +27,10 @@
     "createdAt": "2025-05-15T14:40:25.000Z",
     "updatedAt": "2025-05-15T14:40:25.000Z",
     "original_date": "31-07-2024",
-    "hijri_date": "26 Mahe Muharram, 1446 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 777,
+    "id": "",
     "name": "મરહુમ બાકરઅલી અબ્બાસઅલી સૈયદ ",
     "died": "2015-07-31T00:00:00.000Z",
     "place": "Shahe alam roza ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-09-04T20:32:34.398Z",
     "updatedAt": "2025-09-04T20:32:34.398Z",
     "original_date": "31-07-2015",
-    "hijri_date": "15 Shawwal, 1436 AH"
+    "hijri_date": "#NAME?"
   }
 ]

@@ -12,7 +12,7 @@
     "createdAt": "2024-04-02T17:29:48.024Z",
     "updatedAt": "2024-04-02T17:29:48.025Z",
     "original_date": "25-11-1993",
-    "hijri_date": "12 Jumada al-Akhir, 1414 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 341,
@@ -27,6 +27,6 @@
     "createdAt": "2024-06-12T19:22:30.907Z",
     "updatedAt": "2024-06-12T19:22:30.907Z",
     "original_date": "25-11-1997",
-    "hijri_date": "25 Mahe Rajab, 1418 AH"
+    "hijri_date": "#NAME?"
   }
 ]

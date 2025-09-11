@@ -12,7 +12,7 @@
     "createdAt": "2024-04-07T06:08:42.307Z",
     "updatedAt": "2024-04-07T06:08:42.307Z",
     "original_date": "22-08-2015",
-    "hijri_date": "8 Dhuʻl-Qiʻdah, 1436 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 313,
@@ -27,10 +27,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "22-08-2015",
-    "hijri_date": "8 Dhuʻl-Qiʻdah, 1436 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 761,
+    "id": "",
     "name": "મરહુમ મોહંમ્મદતકીભાઇ રજબ અલી અલીભાઈ પેથા {તદફીન : 22nd Aug 2025  બેહીસ્તે ઝહેરા તહેરાન} ",
     "died": "2025-08-22T00:00:00.000Z",
     "place": "બેહીસ્તે ઝહેરા તહેરાન ઇરાન",
@@ -42,6 +42,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "22-08-2025",
-    "hijri_date": "29 Mahe Safar, 1447 AH"
+    "hijri_date": "#NAME?"
   }
 ]

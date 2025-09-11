@@ -12,7 +12,7 @@
     "createdAt": "2024-04-15T07:07:27.622Z",
     "updatedAt": "2024-04-15T07:07:27.622Z",
     "original_date": "01-07-2016",
-    "hijri_date": "26 Mahe Ramadhan, 1437 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 683,
@@ -27,10 +27,10 @@
     "createdAt": "2025-06-05T23:49:36.226Z",
     "updatedAt": "2025-06-05T23:49:36.226Z",
     "original_date": "01-07-1981",
-    "hijri_date": "29 Shaʻban, 1401 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 732,
+    "id": 733,
     "name": "મરહુમા બસીરાબેન રઝાહુસૈન મરચન્ટ",
     "died": "2015-07-01T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-07-20T20:53:20.941Z",
     "updatedAt": "2025-07-20T20:53:20.941Z",
     "original_date": "01-07-2015",
-    "hijri_date": "15 Mahe Ramadhan, 1436 AH"
+    "hijri_date": "#NAME?"
   }
 ]

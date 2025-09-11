@@ -12,7 +12,7 @@
     "createdAt": "2024-03-17T06:55:54.076Z",
     "updatedAt": "2024-03-17T06:55:54.076Z",
     "original_date": "27-12-2014",
-    "hijri_date": "5 Rabi' al-Awwal, 1436 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 451,
@@ -27,10 +27,10 @@
     "createdAt": "2024-09-29T00:56:11.480Z",
     "updatedAt": "2024-09-29T00:56:11.480Z",
     "original_date": "27-12-2014",
-    "hijri_date": "5 Rabi' al-Awwal, 1436 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 752,
+    "id": "",
     "name": "મરહુમ ફકીરમોહંમ્મદ વલીભાઇ લાઇટવાલા",
     "died": "1987-12-27T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -42,10 +42,10 @@
     "createdAt": "2025-08-07T01:12:49.303Z",
     "updatedAt": "2025-08-07T01:12:49.303Z",
     "original_date": "27-12-1987",
-    "hijri_date": "7 Jumada al-Awwal, 1408 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 766,
+    "id": "",
     "name": "મરહુમા ઉમ્મેફરવા અકબરઅલી જલાલી",
     "died": "2023-12-27T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "2025-08-17T18:58:14.184Z",
     "updatedAt": "2025-08-17T18:58:14.184Z",
     "original_date": "27-12-2023",
-    "hijri_date": "15 Jumada al-Akhir, 1445 AH"
+    "hijri_date": "#NAME?"
   }
 ]

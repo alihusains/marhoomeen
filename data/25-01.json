@@ -12,7 +12,7 @@
     "createdAt": "2024-04-22T14:42:15.988Z",
     "updatedAt": "2024-04-22T14:42:15.988Z",
     "original_date": "25-01-2008",
-    "hijri_date": "17 Mahe Muharram, 1429 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 443,
@@ -27,7 +27,7 @@
     "createdAt": "2024-09-19T22:10:15.487Z",
     "updatedAt": "2024-09-19T22:10:15.487Z",
     "original_date": "25-01-2011",
-    "hijri_date": "21 Mahe Safar, 1432 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 470,
@@ -42,10 +42,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "25-01-1963",
-    "hijri_date": "30 Shaʻban, 1382 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 725,
+    "id": 733,
     "name": "મરહુમા રહેમતબાઇ બિન્તે ઇસ્માઇલભાઇ અમીરી",
     "died": "1982-01-25T00:00:00.000Z",
     "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "2025-07-17T06:44:40.004Z",
     "updatedAt": "2025-07-17T06:44:40.004Z",
     "original_date": "25-01-1982",
-    "hijri_date": "30 Rabi' al-Awwal, 1402 AH"
+    "hijri_date": "#NAME?"
   }
 ]

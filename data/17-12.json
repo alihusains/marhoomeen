@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "17-12-1990",
-    "hijri_date": "30 Jumada al-Awwal, 1411 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 505,
@@ -27,7 +27,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "17-12-2024",
-    "hijri_date": "16 Jumada al-Akhir, 1446 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 619,
@@ -42,10 +42,10 @@
     "createdAt": "2025-03-25T05:50:07.766Z",
     "updatedAt": "2025-03-25T05:50:07.766Z",
     "original_date": "17-12-2022",
-    "hijri_date": "24 Jumada al-Awwal, 1444 AH"
+    "hijri_date": "#NAME?"
   },
   {
-    "id": 781,
+    "id": "",
     "name": "મરહુમ હાજી રમઝાનઅલી હસનઅલી બદામી",
     "died": "2006-12-17T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "2025-09-08T18:26:45.189Z",
     "updatedAt": "2025-09-08T18:26:45.189Z",
     "original_date": "17-12-2006",
-    "hijri_date": "27 Dhuʻl-Qiʻdah, 1427 AH"
+    "hijri_date": "#NAME?"
   }
 ]
