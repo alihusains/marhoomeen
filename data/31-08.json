@@ -58,5 +58,20 @@
     "updatedAt": "",
     "original_date": "31-08-2025",
     "hijri_date": "8 Rabi' al-Awwal, 1447 AH"
+  },
+  {
+    "id": 1,
+    "name": " મરહુમ વહાબઅલી વલીભાઈ જીવાણી ",
+    "died": "2025-08-31T00:00:00.000Z",
+    "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+    "email": "rehanpipavav@gmail.com",
+    "phone": 9974439229,
+    "initiatedBy": "શબ્બીરઅલી વહાબઅલી જીવાણી ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-09-13T21:40:47.138Z",
+    "updatedAt": "2025-09-13T21:40:47.138Z",
+    "original_date": "31-08-2025",
+    "hijri_date": "8 Rabi' al-Awwal, 1447 AH"
   }
 ]
