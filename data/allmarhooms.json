@@ -11848,5 +11848,50 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 1,
+    "name": "વહાબઅલી વલીભાઈ જીવાણી ",
+    "died": "2025-08-31T00:00:00.000Z",
+    "place": "રાજુલા ",
+    "email": "rehanpipavav@gmail.com",
+    "phone": 9974439229,
+    "initiatedBy": "શબ્બીરઅલી વહાબઅલી જીવાણી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-09-13T21:40:47.138Z",
+    "updatedAt": "2025-09-13T21:40:47.138Z",
+    "original_date": "31-08-2025",
+    "hijri_date": "8 Rabi' al-Awwal, 1447 AH"
+  },
+  {
+    "id": 2,
+    "name": "ઝરીનાબાનું અલાદ્દીનભાઈ મીથવાણી ",
+    "died": "2012-10-21T00:00:00.000Z",
+    "place": "રાજુલા ",
+    "email": "rehanpipavav@gmail.com",
+    "phone": 9974439229,
+    "initiatedBy": "શબ્બીરઅલી વહાબઅલી જીવાણી ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-09-13T21:40:50.424Z",
+    "updatedAt": "2025-09-13T21:40:50.424Z",
+    "original_date": "21-10-2012",
+    "hijri_date": "6 Dhuʻl-Hijjah, 1433 AH"
+  },
+  {
+    "id": 3,
+    "name": "મોહમ્મદ આકિબ શબ્બીરઅલી જીવાણી ",
+    "died": "2018-02-14T00:00:00.000Z",
+    "place": "રાજુલા",
+    "email": "rehanpipavav@gmail.com",
+    "phone": 9974439229,
+    "initiatedBy": "શબ્બીરઅલી વહાબઅલી જીવાણી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-09-13T21:40:53.862Z",
+    "updatedAt": "2025-09-13T21:40:53.862Z",
+    "original_date": "14-02-2018",
+    "hijri_date": "28 Jumada al-Awwal, 1439 AH"
   }
 ]
