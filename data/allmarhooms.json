@@ -5067,7 +5067,7 @@
     "createdAt": "2024-06-09T22:17:22.462Z",
     "updatedAt": "2024-06-09T22:17:22.462Z",
     "original_date": "23-11-2015",
-    "hijri_date": "12 Mahe Safar, 1437 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 339,
@@ -11893,5 +11893,20 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 1,
+    "name": "ઝહેરાબાનું વલીભાઈ જીવાણી ",
+    "died": "2017-06-17T00:00:00.000Z",
+    "place": "રાજુલા",
+    "email": "rehanpipavav@gmail.com",
+    "phone": 9974439229,
+    "initiatedBy": "SHABBIRALI VAHABALI JIVANI",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-09-14T18:00:33.598Z",
+    "updatedAt": "2025-09-14T18:00:33.598Z",
+    "original_date": "17-06-2017",
+    "hijri_date": "23 Mahe Ramadhan, 1438 AH"
   }
 ]
