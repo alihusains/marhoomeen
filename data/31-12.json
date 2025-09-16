@@ -28,5 +28,20 @@
     "updatedAt": "2025-01-20T19:26:23.631Z",
     "original_date": "31-12-2019",
     "hijri_date": "5 Jumada al-Awwal, 1441 AH"
+  },
+  {
+    "id": 2,
+    "name": "મરહુમ હાજી શૌકતઅલી હસનઅલી રાજાણી",
+    "died": "2020-12-31T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "zoyakhoja94@gmail.com",
+    "phone": 8884282786,
+    "initiatedBy": "Zoya Khoja ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-09-16T11:42:09.687Z",
+    "updatedAt": "2025-09-16T11:42:09.688Z",
+    "original_date": "31-12-2020",
+    "hijri_date": "17 Jumada al-Awwal, 1442 AH"
   }
 ]
