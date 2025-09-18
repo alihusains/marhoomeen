@@ -12043,5 +12043,35 @@
     "updatedAt": "2025-09-17T06:41:30.582Z",
     "original_date": "21-10-2012",
     "hijri_date": "6 Dhuʻl-Hijjah, 1433 AH"
+  },
+  {
+    "id": 7,
+    "name": "fatumabanu Shefali Merchant ",
+    "died": "null",
+    "place": "Mahuva ",
+    "email": "Sakinakapasi9072@gmail.com",
+    "phone": 7229069072,
+    "initiatedBy": "Sakina Kapasi ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-09-18T00:28:57.360Z",
+    "updatedAt": "2025-09-18T00:28:57.360Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
+  },
+  {
+    "id": 8,
+    "name": "aashikali gulamhussain Lakhani ",
+    "died": "null",
+    "place": "Mahuva ",
+    "email": "Sakinakapasi9072@gmail.com",
+    "phone": 7229069072,
+    "initiatedBy": "Sakina Kapasi ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-09-18T00:29:03.714Z",
+    "updatedAt": "2025-09-18T00:29:03.714Z",
+    "original_date": "null",
+    "hijri_date": "Invalid Date"
   }
 ]
