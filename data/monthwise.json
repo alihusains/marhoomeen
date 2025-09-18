@@ -3816,7 +3816,7 @@
       "createdAt": "2024-03-06T11:51:19.723Z",
       "updatedAt": "2024-03-06T11:51:19.723Z",
       "original_date": "15-09-2015",
-      "hijri_date": "2 Dhuʻl-Hijjah, 1436 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 117,
@@ -4086,7 +4086,7 @@
       "createdAt": "2024-04-07T12:57:19.501Z",
       "updatedAt": "2024-04-07T12:57:19.501Z",
       "original_date": "30-09-1982",
-      "hijri_date": "13 Dhuʻl-Hijjah, 1402 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 297,
