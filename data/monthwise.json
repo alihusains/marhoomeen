@@ -1561,6 +1561,36 @@
       "updatedAt": "2025-09-08T18:26:48.609Z",
       "original_date": "21-11-2022",
       "hijri_date": "27 Rabi' al-Akhir, 1444 AH"
+    },
+    {
+      "id": 3,
+      "name": "મરહુમા લખુબેન જમાલભાઇ મોમીન ",
+      "died": "1958-11-02T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "rspn1214@gmail.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez momin ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-09-16T06:20:00.492Z",
+      "updatedAt": "2025-09-16T06:20:00.492Z",
+      "original_date": "02-11-1958",
+      "hijri_date": "21 Rabi' al-Akhir, 1378 AH"
+    },
+    {
+      "id": 5,
+      "name": "મરહુમ માસુકઅલી ગુલામઅલી મોમીન ",
+      "died": "1994-11-01T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "rspn1214@gmail.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-16T06:30:19.231Z",
+      "updatedAt": "2025-09-16T06:30:19.231Z",
+      "original_date": "01-11-1994",
+      "hijri_date": "27 Jumada al-Awwal, 1415 AH"
     }
   ],
   "12": [
@@ -2222,7 +2252,7 @@
       "createdAt": "",
       "updatedAt": "",
       "original_date": "11-12-2024",
-      "hijri_date": "10 Jumada al-Akhir, 1446 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 495,
@@ -2553,6 +2583,21 @@
       "updatedAt": "2025-09-16T11:42:09.688Z",
       "original_date": "31-12-2020",
       "hijri_date": "17 Jumada al-Awwal, 1442 AH"
+    },
+    {
+      "id": 4,
+      "name": "મરહુમ ગુલામઅલી શકલાભાઇ મોમીન ",
+      "died": "1976-12-14T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "rspn1214@gmail.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-16T06:21:43.052Z",
+      "updatedAt": "2025-09-16T06:21:43.052Z",
+      "original_date": "14-12-1976",
+      "hijri_date": "23 Dhuʻl-Hijjah, 1396 AH"
     }
   ],
   "02": [
@@ -4495,7 +4540,7 @@
     },
     {
       "id": "",
-      "name": "મરહુમા અશરફબાનુ રઝાહુસૈન કપાસી W/o મરહુમ અકબરઅલી અલાદીનભાઇ હરીયાણી{તદફીન  આજે ૧૯/૦૯/૨૦૨૫ સમય સાંજે ૫:૩૦ વાગ્યે  મહુવા}",
+      "name": "મરહુમા અશરફબાનુ રઝાહુસૈન કપાસી W/o મરહુમ અકબરઅલી અલાદીનભાઇ હરીયાણી",
       "died": "2025-09-19T00:00:00.000Z",
       "place": "મહુવા ગુજરાત ઇન્ડિયા ",
       "email": "",
@@ -4509,9 +4554,24 @@
       "hijri_date": "27 Rabi' al-Awwal, 1447 AH"
     },
     {
+      "id": 9,
+      "name": "મરહુમ નુરભાઇ ડોસનભાઇ મુસબજી",
+      "died": "1989-09-04T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "nafisatajwala@yahoo.com",
+      "phone": 414211231,
+      "initiatedBy": "Nafisa ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-19T17:31:15.151Z",
+      "updatedAt": "2025-09-19T17:31:15.152Z",
+      "original_date": "04-09-1989",
+      "hijri_date": "4 Mahe Safar, 1410 AH"
+    },
+    {
       "id": "",
-      "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનુ નામ - અટક - તદફીન ની ઇગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" મા મરહુમના નામ નુ સ્ક્રોલિંગ થશે",
-      "died": "2025-09-19T00:00:00.000Z",
+      "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
+      "died": "2025-09-20T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -4520,8 +4580,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "19-09-2025",
-      "hijri_date": "27 Rabi' al-Awwal, 1447 AH"
+      "original_date": "20-09-2025",
+      "hijri_date": "28 Rabi' al-Awwal, 1447 AH"
     }
   ],
   "07": [
@@ -6671,6 +6731,21 @@
       "updatedAt": "2025-09-16T11:42:17.623Z",
       "original_date": "24-03-1994",
       "hijri_date": "12 Shawwal, 1414 AH"
+    },
+    {
+      "id": 6,
+      "name": "મરહુમ અમીન એહમદભાઇ મુસબજી",
+      "died": "2006-03-12T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "nafisatajwala@yahoo.com",
+      "phone": 414211231,
+      "initiatedBy": "Nafisa ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-19T17:30:44.082Z",
+      "updatedAt": "2025-09-19T17:30:44.082Z",
+      "original_date": "12-03-2006",
+      "hijri_date": "12 Mahe Safar, 1427 AH"
     }
   ],
   "08": [
@@ -7633,6 +7708,21 @@
       "updatedAt": "2025-09-13T21:40:47.138Z",
       "original_date": "31-08-2025",
       "hijri_date": "8 Rabi' al-Awwal, 1447 AH"
+    },
+    {
+      "id": 7,
+      "name": "મરહુમા મૌસમીન કરીમભાઇ મુસા ",
+      "died": "2006-08-18T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "nafisatajwala@yahoo.com",
+      "phone": 414211231,
+      "initiatedBy": "Nafisa ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-09-19T17:30:47.651Z",
+      "updatedAt": "2025-09-19T17:30:47.651Z",
+      "original_date": "18-08-2006",
+      "hijri_date": "24 Mahe Rajab, 1427 AH"
     }
   ],
   "04": [
@@ -10639,6 +10729,21 @@
       "updatedAt": "2025-08-16T01:49:34.399Z",
       "original_date": "02-05-2014",
       "hijri_date": "3 Mahe Rajab, 1435 AH"
+    },
+    {
+      "id": 8,
+      "name": "મરહુમા નુરીબેન નુરભાઇ ડોસનભાઇ મુસબજી",
+      "died": "1993-05-29T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "nafisatajwala@yahoo.com",
+      "phone": 414211231,
+      "initiatedBy": "Nafisa ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-09-19T17:31:03.125Z",
+      "updatedAt": "2025-09-19T17:31:03.125Z",
+      "original_date": "29-05-1993",
+      "hijri_date": "8 Dhuʻl-Hijjah, 1413 AH"
     }
   ],
   "01": [

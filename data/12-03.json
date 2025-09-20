@@ -58,5 +58,20 @@
     "updatedAt": "2025-04-13T18:31:12.934Z",
     "original_date": "12-03-2025",
     "hijri_date": "12 Mahe Ramadhan, 1446 AH"
+  },
+  {
+    "id": 6,
+    "name": "મરહુમ અમીન એહમદભાઇ મુસબજી",
+    "died": "2006-03-12T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+    "email": "nafisatajwala@yahoo.com",
+    "phone": 414211231,
+    "initiatedBy": "Nafisa ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-09-19T17:30:44.082Z",
+    "updatedAt": "2025-09-19T17:30:44.082Z",
+    "original_date": "12-03-2006",
+    "hijri_date": "12 Mahe Safar, 1427 AH"
   }
 ]

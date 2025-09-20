@@ -58,5 +58,20 @@
     "updatedAt": "2025-08-18T06:39:02.473Z",
     "original_date": "18-08-2025",
     "hijri_date": "25 Mahe Safar, 1447 AH"
+  },
+  {
+    "id": 7,
+    "name": "મરહુમા મૌસમીન કરીમભાઇ મુસા ",
+    "died": "2006-08-18T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+    "email": "nafisatajwala@yahoo.com",
+    "phone": 414211231,
+    "initiatedBy": "Nafisa ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-09-19T17:30:47.651Z",
+    "updatedAt": "2025-09-19T17:30:47.651Z",
+    "original_date": "18-08-2006",
+    "hijri_date": "24 Mahe Rajab, 1427 AH"
   }
 ]
