@@ -12133,5 +12133,35 @@
     "updatedAt": "2025-09-21T15:39:36.373Z",
     "original_date": "27-03-2009",
     "hijri_date": "1 Rabi' al-Akhir, 1430 AH"
+  },
+  {
+    "id": 2,
+    "name": " મર્હુમા બિલકિશ બેન  બિન્તે લધા ",
+    "died": "2025-09-21T00:00:00.000Z",
+    "place": "કેરા કચ્છ ",
+    "email": "aarifalikhoja@gmail.com",
+    "phone": 7096472276,
+    "initiatedBy": "aarif",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-09-22T00:14:09.634Z",
+    "updatedAt": "2025-09-22T00:14:09.634Z",
+    "original_date": "21-09-2025",
+    "hijri_date": "29 Rabi' al-Awwal, 1447 AH"
+  },
+  {
+    "id": 3,
+    "name": "ઇન્ના લિલ્લાહે વ ઈન્ના ઈલેહે રાજેઉન મર્હુમા બિલકિશ બેન  બિન્તે લધા તે મ.હુસૈન અલી ગુલામ હુસૈન ની મોહરદાર  નું ઇન્તેકાલ તારીખ 21/09/2025 ના થયેલ છે.મય્યત રવાનગી  નો સમય તારીખ 22/09/2025 સોમવાર સવારે 9:00 વાગેસ્થળ : ખોજા શિયા ઈશના અશરી  મસ્જિદ કેરામર્હુમા ની મગફેરત માટે ફાતેહા પડી દુઆ માંગવા ગુજારીશ છે",
+    "died": "2025-09-21T00:00:00.000Z",
+    "place": "કેરા કચ્છ ",
+    "email": "aarifalikhoja@gmail.com",
+    "phone": 7096472276,
+    "initiatedBy": "Aarifali",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-09-22T00:31:20.739Z",
+    "updatedAt": "2025-09-22T00:31:20.739Z",
+    "original_date": "21-09-2025",
+    "hijri_date": "29 Rabi' al-Awwal, 1447 AH"
   }
 ]
