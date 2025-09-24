@@ -12133,5 +12133,20 @@
     "updatedAt": "2025-06-08T14:43:42.203Z",
     "original_date": "04-01-2000",
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
+  },
+  {
+    "id": 1,
+    "name": "wahidali GulamAli",
+    "died": "1967-05-05T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "pmomin2004@yahoo.com",
+    "phone": 4045426855,
+    "initiatedBy": "Parvez Momin ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-09-23T20:37:55.788Z",
+    "updatedAt": "2025-09-23T20:37:55.788Z",
+    "original_date": "05-05-1967",
+    "hijri_date": "26 Mahe Muharram, 1387 AH"
   }
 ]
