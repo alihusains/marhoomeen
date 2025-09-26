@@ -4569,9 +4569,39 @@
       "hijri_date": "4 Mahe Safar, 1410 AH"
     },
     {
+      "id": 797,
+      "name": "મરહુમ અકબરભાઈ  રાજાભાઈ ચૌધરી ( ભંગુર )",
+      "died": "2025-09-24T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "alimahammadpogalva@yahoo.com",
+      "phone": 9898560412,
+      "initiatedBy": "અલીમોહંમદ ડોસનભાઈ પોગલવા",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-25T05:13:46.346Z",
+      "updatedAt": "2025-09-25T05:13:46.346Z",
+      "original_date": "24-09-2025",
+      "hijri_date": "3 Rabi' al-Akhir, 1447 AH"
+    },
+    {
       "id": 798,
+      "name": "મરહુમ મહેબુબઅલી હુસૈનઅલી ભાયાણી ",
+      "died": "2025-09-26T00:00:00.000Z",
+      "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+      "email": "",
+      "phone": "",
+      "initiatedBy": "",
+      "status": true,
+      "gender": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "original_date": "26-09-2025",
+      "hijri_date": "5 Rabi' al-Akhir, 1447 AH"
+    },
+    {
+      "id": 800,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
-      "died": "2025-09-25T00:00:00.000Z",
+      "died": "2025-09-26T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -4580,8 +4610,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "25-09-2025",
-      "hijri_date": "4 Rabi' al-Akhir, 1447 AH"
+      "original_date": "26-09-2025",
+      "hijri_date": "5 Rabi' al-Akhir, 1447 AH"
     }
   ],
   "07": [
