@@ -11972,7 +11972,7 @@
   {
     "id": 799,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
-    "died": "2025-09-26T00:00:00.000Z",
+    "died": "2025-10-02T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -11981,8 +11981,8 @@
     "gender": "male",
     "createdAt": "2025-06-08T14:43:42.201Z",
     "updatedAt": "2025-06-08T14:43:42.203Z",
-    "original_date": "26-09-2025",
-    "hijri_date": "5 Rabi' al-Akhir, 1447 AH"
+    "original_date": "02-10-2025",
+    "hijri_date": "11 Rabi' al-Akhir, 1447 AH"
   },
   {
     "id": 800,
@@ -12073,20 +12073,5 @@
     "updatedAt": "2025-09-29T14:20:29.875Z",
     "original_date": "29-09-2025",
     "hijri_date": "8 Rabi' al-Akhir, 1447 AH"
-  },
-  {
-    "id": 806,
-    "name": "gulbanuben binte bakarbhai motarwala",
-    "died": "null",
-    "place": "Bhavnagar ",
-    "email": "Khushbuihabibani@gmail.com",
-    "phone": 7359681414,
-    "initiatedBy": "Khushbu Imran habibani ",
-    "status": false,
-    "gender": "female",
-    "createdAt": "2025-10-01T11:34:42.960Z",
-    "updatedAt": "2025-10-01T11:34:42.960Z",
-    "original_date": "null",
-    "hijri_date": "Invalid Date"
   }
 ]
