@@ -871,7 +871,7 @@
       "hijri_date": "6 Dhuʻl-Hijjah, 1433 AH"
     },
     {
-      "id": 799,
+      "id": 807,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
       "died": "2025-10-06T00:00:00.000Z",
       "place": "",
@@ -1606,6 +1606,21 @@
       "updatedAt": "2025-09-16T06:30:19.231Z",
       "original_date": "01-11-1994",
       "hijri_date": "27 Jumada al-Awwal, 1415 AH"
+    },
+    {
+      "id": 799,
+      "name": "મરહુમ સૈયદ સજ્જાદહુસૈન માહીરહુસૈન",
+      "died": "2023-11-17T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "sjkhanpathan454@gmail.com",
+      "phone": 8401939274,
+      "initiatedBy": "seema ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-29T19:58:34.497Z",
+      "updatedAt": "2025-09-29T19:58:34.497Z",
+      "original_date": "17-11-2023",
+      "hijri_date": "4 Jumada al-Awwal, 1445 AH"
     }
   ],
   "12": [
@@ -2613,6 +2628,21 @@
       "updatedAt": "2025-09-16T06:21:43.052Z",
       "original_date": "14-12-1976",
       "hijri_date": "23 Dhuʻl-Hijjah, 1396 AH"
+    },
+    {
+      "id": 800,
+      "name": "મરહુમા શહેનાઝબાનું માહીરહુસૈન સૈયદ",
+      "died": "2023-12-09T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "sjkhanpathan454@gmail.com",
+      "phone": 8401939274,
+      "initiatedBy": "seema ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-09-29T19:58:38.978Z",
+      "updatedAt": "2025-09-29T19:58:38.978Z",
+      "original_date": "09-12-2023",
+      "hijri_date": "26 Jumada al-Awwal, 1445 AH"
     }
   ],
   "02": [
@@ -4597,6 +4627,51 @@
       "updatedAt": "",
       "original_date": "26-09-2025",
       "hijri_date": "5 Rabi' al-Akhir, 1447 AH"
+    },
+    {
+      "id": 801,
+      "name": "મરહુમ અનવરહુસૈન ગુલામઅલી મોમીન",
+      "died": "1993-09-14T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "pmomin2004@yahoo.com",
+      "phone": 4045426855,
+      "initiatedBy": "parvez momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-29T13:58:47.127Z",
+      "updatedAt": "2025-09-29T13:58:47.127Z",
+      "original_date": "14-09-1993",
+      "hijri_date": "28 Rabi' al-Awwal, 1414 AH"
+    },
+    {
+      "id": 802,
+      "name": "મરહુમા ઝહેરાબાનું હસનાભાઇ મોમીન",
+      "died": "2025-09-29T00:00:00.000Z",
+      "place": "USA",
+      "email": "pmomin2004@yahoo.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez Momin",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-09-29T14:20:29.875Z",
+      "updatedAt": "2025-09-29T14:20:29.875Z",
+      "original_date": "29-09-2025",
+      "hijri_date": "8 Rabi' al-Akhir, 1447 AH"
+    },
+    {
+      "id": 803,
+      "name": "મરહુમ મોહંમ્મદઆરીફ અકબરઅલી અજાની",
+      "died": "2015-09-15T00:00:00.000Z",
+      "place": "નાગપુર મહારાષ્ટ્ર ઇન્ડિયા ",
+      "email": "kaunainajani72@gmail.com",
+      "phone": 9372121492,
+      "initiatedBy": "Mohammad Kaunain Ajani",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-10-02T19:02:36.868Z",
+      "updatedAt": "2025-10-02T19:02:36.868Z",
+      "original_date": "15-09-2015",
+      "hijri_date": "2 Dhuʻl-Hijjah, 1436 AH"
     }
   ],
   "07": [
@@ -6837,7 +6912,7 @@
       "createdAt": "2024-02-25T12:03:51.535Z",
       "updatedAt": "2024-02-25T12:03:51.535Z",
       "original_date": "03-08-1982",
-      "hijri_date": "#ERROR!"
+      "hijri_date": "14 Shawwal, 1402 AH"
     },
     {
       "id": 71,
@@ -11706,6 +11781,51 @@
       "updatedAt": "2025-07-14T23:11:27.189Z",
       "original_date": "12-01-2014",
       "hijri_date": "11 Rabi' al-Awwal, 1435 AH"
+    },
+    {
+      "id": 798,
+      "name": "મરહુમ સૈયદ તાહીરહુસૈન માહીરહુસૈન",
+      "died": "2024-01-19T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "sjkhanpathan454@gmail.com",
+      "phone": 8401939274,
+      "initiatedBy": "seema ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-09-29T19:47:45.609Z",
+      "updatedAt": "2025-09-29T19:47:45.610Z",
+      "original_date": "19-01-2024",
+      "hijri_date": "8 Mahe Rajab, 1445 AH"
+    },
+    {
+      "id": 804,
+      "name": "મરહુમા રૂકશાનાબેન ગુલામહુસૈન જમાની",
+      "died": "2011-01-31T00:00:00.000Z",
+      "place": "પાલીતાણા ગુજરાત ઇન્ડિયા ",
+      "email": "Rehanarajani@gmail.com",
+      "phone": 7434962139,
+      "initiatedBy": "Rehana_rajani ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-10-02T19:18:35.739Z",
+      "updatedAt": "2025-10-02T19:18:35.739Z",
+      "original_date": "31-01-2011",
+      "hijri_date": "27 Mahe Safar, 1432 AH"
+    },
+    {
+      "id": 805,
+      "name": "મરહુમા શેરબાનું ફઝલહુસૈન ચોધરી",
+      "died": "2025-01-16T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "hasnainchaudhari111@gmail.com",
+      "phone": 7487961843,
+      "initiatedBy": "hasnain",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-10-05T19:02:43.294Z",
+      "updatedAt": "2025-10-05T19:02:43.294Z",
+      "original_date": "16-01-2025",
+      "hijri_date": "17 Mahe Rajab, 1446 AH"
     }
   ]
 }
