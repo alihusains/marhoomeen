@@ -12,7 +12,7 @@
     "createdAt": "2025-01-28T07:17:41.606Z",
     "updatedAt": "2025-01-28T07:17:41.606Z",
     "original_date": "19-09-2024",
-    "hijri_date": "16 Rabi' al-Awwal, 1446 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 786,
@@ -27,6 +27,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "19-09-2025",
-    "hijri_date": "27 Rabi' al-Awwal, 1447 AH"
+    "hijri_date": "#ERROR!"
   }
 ]

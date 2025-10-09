@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "31-12-2000",
-    "hijri_date": "6 Shawwal, 1421 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 527,
@@ -27,7 +27,7 @@
     "createdAt": "2025-01-20T19:26:23.631Z",
     "updatedAt": "2025-01-20T19:26:23.631Z",
     "original_date": "31-12-2019",
-    "hijri_date": "5 Jumada al-Awwal, 1441 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 783,
@@ -42,6 +42,6 @@
     "createdAt": "2025-09-16T11:42:09.687Z",
     "updatedAt": "2025-09-16T11:42:09.688Z",
     "original_date": "31-12-2020",
-    "hijri_date": "17 Jumada al-Awwal, 1442 AH"
+    "hijri_date": "#ERROR!"
   }
 ]
