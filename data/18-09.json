@@ -12,10 +12,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "18-09-2003",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "22 Mahe Rajab, 1424 AH"
   },
   {
-    "id": 234,
+    "id": 233,
     "name": "મરહુમ યુસુફઅલી અબ્દુલહુસૈન રાજાણી ",
     "died": "2014-09-18T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા",
@@ -27,10 +27,10 @@
     "createdAt": "2024-04-01T22:09:50.493Z",
     "updatedAt": "2024-04-01T22:09:50.493Z",
     "original_date": "18-09-2014",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "24 Dhuʻl-Qiʻdah, 1435 AH"
   },
   {
-    "id": 423,
+    "id": 422,
     "name": "મરહુમ સીરાજહુસૈન નાશીરહુસૈન નરસીહ",
     "died": "2022-09-18T00:00:00.000Z",
     "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ",
@@ -42,10 +42,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "18-09-2022",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "22 Mahe Safar, 1444 AH"
   },
   {
-    "id": 469,
+    "id": 468,
     "name": "મરહુમ સાદીકઅલી હસનઅલી પંજવાણી ",
     "died": "2018-09-18T00:00:00.000Z",
     "place": "તળાજા ગુજરાત ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "2024-10-24T21:08:02.213Z",
     "updatedAt": "2024-10-24T21:08:02.213Z",
     "original_date": "18-09-2018",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "9 Mahe Muharram, 1440 AH"
   }
 ]

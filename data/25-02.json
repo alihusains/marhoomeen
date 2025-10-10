@@ -12,7 +12,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:33:32.348Z",
     "original_date": "25-02-2014",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Rabi' al-Akhir, 1435 AH"
   },
   {
     "id": 48,
@@ -27,10 +27,10 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:33:52.396Z",
     "original_date": "25-02-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "14 Mahe Rajab, 1442 AH"
   },
   {
-    "id": 340,
+    "id": 339,
     "name": "મરહુમ મોહંમ્મદઅલી નુરભાઇ ઉમતીયા ",
     "died": "1999-02-25T00:00:00.000Z",
     "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
@@ -42,10 +42,10 @@
     "createdAt": "2024-06-12T19:22:28.260Z",
     "updatedAt": "2024-06-12T19:22:28.260Z",
     "original_date": "25-02-1999",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "9 Dhuʻl-Qiʻdah, 1419 AH"
   },
   {
-    "id": 565,
+    "id": 564,
     "name": "મરહુમા શહેનાઝ બિન્તે અબ્દુલભાઇ રાસીદ W/O હાજી અલીરઝાભાઇ બંદેઅલી ",
     "died": "2025-02-25T00:00:00.000Z",
     "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "25-02-2025",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "27 Shaʻban, 1446 AH"
   }
 ]

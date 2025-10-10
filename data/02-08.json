@@ -12,7 +12,7 @@
     "createdAt": "2024-03-06T16:14:07.023Z",
     "updatedAt": "2024-03-06T16:14:07.023Z",
     "original_date": "02-08-2013",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "25 Mahe Ramadhan, 1434 AH"
   },
   {
     "id": 172,
@@ -27,10 +27,10 @@
     "createdAt": "2024-03-19T03:00:10.521Z",
     "updatedAt": "2024-03-19T03:00:10.521Z",
     "original_date": "02-08-2013",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "25 Mahe Ramadhan, 1434 AH"
   },
   {
-    "id": 377,
+    "id": 376,
     "name": "મરહુમ વજીરઅલી પ્યારઅલી પંજવાણી",
     "died": "2003-08-02T00:00:00.000Z",
     "place": "સ્વામી ગઢડા ગુજરાત ઇન્ડિયા ",
@@ -42,10 +42,10 @@
     "createdAt": "2024-08-07T22:21:02.207Z",
     "updatedAt": "2024-08-07T22:21:02.207Z",
     "original_date": "02-08-2003",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "4 Jumada al-Akhir, 1424 AH"
   },
   {
-    "id": 541,
+    "id": 540,
     "name": "મરહુમ હબીબઅલી હાજી પીરભાઇ રસભર્યા",
     "died": "1972-08-02T00:00:00.000Z",
     "place": "વીજપડી બનાસકાંઠા ગુજરાત ઇન્ડિયા ",
@@ -57,6 +57,6 @@
     "createdAt": "2025-01-28T08:13:39.877Z",
     "updatedAt": "2025-01-28T08:13:39.878Z",
     "original_date": "02-08-1972",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "23 Jumada al-Akhir, 1392 AH"
   }
 ]

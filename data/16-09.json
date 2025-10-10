@@ -12,10 +12,10 @@
     "createdAt": "2024-03-30T05:15:04.054Z",
     "updatedAt": "2024-03-30T05:15:04.054Z",
     "original_date": "16-09-1987",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "23 Mahe Muharram, 1408 AH"
   },
   {
-    "id": 236,
+    "id": 235,
     "name": "મરહુમ રજબઅલી મોહંમ્મદઅલી રાજાણી ",
     "died": "1994-09-16T00:00:00.000Z",
     "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "2024-04-01T23:38:37.445Z",
     "updatedAt": "2024-04-01T23:38:37.445Z",
     "original_date": "16-09-1994",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "11 Rabi' al-Akhir, 1415 AH"
   },
   {
-    "id": 354,
+    "id": 353,
     "name": "મરહુમ ઝુલ્ફીકારઅલી ઇબ્ને અલીનકીભાઇ સૈયદ",
     "died": "2018-09-16T00:00:00.000Z",
     "place": "ખંભાત-આણંદ ગુજરાત ઇન્ડિયા ",
@@ -42,10 +42,10 @@
     "createdAt": "2024-07-12T16:04:57.209Z",
     "updatedAt": "2024-07-12T16:04:57.209Z",
     "original_date": "16-09-2018",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "7 Mahe Muharram, 1440 AH"
   },
   {
-    "id": 781,
+    "id": 780,
     "name": "મરહુમ હાજી ઝાહીદહુસૈન મોહંમ્મદહુસૈન અજાની",
     "died": "2010-09-16T00:00:00.000Z",
     "place": "",
@@ -57,6 +57,6 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "16-09-2010",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "8 Shawwal, 1431 AH"
   }
 ]

@@ -12,7 +12,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:34:55.967Z",
     "original_date": "02-11-2019",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "5 Rabi' al-Awwal, 1441 AH"
   },
   {
     "id": 209,
@@ -27,10 +27,10 @@
     "createdAt": "2024-03-29T12:26:38.736Z",
     "updatedAt": "2024-03-29T12:26:38.736Z",
     "original_date": "02-11-2005",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "30 Mahe Ramadhan, 1426 AH"
   },
   {
-    "id": 788,
+    "id": 787,
     "name": "મરહુમા લખુબેન જમાલભાઇ મોમીન ",
     "died": "1958-11-02T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-09-16T06:20:00.492Z",
     "updatedAt": "2025-09-16T06:20:00.492Z",
     "original_date": "02-11-1958",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "21 Rabi' al-Akhir, 1378 AH"
   }
 ]

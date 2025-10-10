@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "12-09-2020",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "24 Mahe Muharram, 1442 AH"
   },
   {
     "id": 4,
@@ -27,7 +27,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "12-09-2020",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "24 Mahe Muharram, 1442 AH"
   },
   {
     "id": 5,
@@ -42,10 +42,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "12-09-2020",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "24 Mahe Muharram, 1442 AH"
   },
   {
-    "id": 400,
+    "id": 399,
     "name": "મરહુમ મોહંમ્મદરઝાભાઇ માસુમઅલી નાયાણી ",
     "died": "2019-09-12T00:00:00.000Z",
     "place": "તળાજા ગુજરાત ઇન્ડિયા ",
@@ -57,10 +57,10 @@
     "createdAt": "2024-08-11T20:27:57.436Z",
     "updatedAt": "2024-08-11T20:27:57.436Z",
     "original_date": "12-09-2019",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "13 Mahe Muharram, 1441 AH"
   },
   {
-    "id": 447,
+    "id": 446,
     "name": "મરહુમ હાજી રજબઅલી હાજી ગુલામહુસૈનભાઇ ભોજાણી",
     "died": "2006-09-12T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -72,10 +72,10 @@
     "createdAt": "2024-09-25T12:42:00.144Z",
     "updatedAt": "2024-09-25T12:42:00.144Z",
     "original_date": "12-09-2006",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "20 Shaʻban, 1427 AH"
   },
   {
-    "id": 720,
+    "id": 719,
     "name": "મરહુમ ગુલામઅલી મોહંમદઅલી જામાણી",
     "died": "2011-09-12T00:00:00.000Z",
     "place": "",
@@ -87,6 +87,6 @@
     "createdAt": "2025-07-20T16:29:45.233Z",
     "updatedAt": "2025-07-20T16:29:45.233Z",
     "original_date": "12-09-2011",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "14 Shawwal, 1432 AH"
   }
 ]

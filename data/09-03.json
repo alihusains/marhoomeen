@@ -12,7 +12,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "09-03-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "29 Shaʻban, 1445 AH"
   },
   {
     "id": 114,
@@ -27,10 +27,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "09-03-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Mahe Rajab, 1442 AH"
   },
   {
-    "id": 552,
+    "id": 551,
     "name": "મરહુમ શબ્બીરઅલી મોહંમ્મદઅલી ગૌરાણી(ભદ્રાવળવાળા)",
     "died": "2022-03-09T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -42,10 +42,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "09-03-2022",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "7 Shaʻban, 1443 AH"
   },
   {
-    "id": 553,
+    "id": 552,
     "name": "મરહુમ મોહંમ્મદઅલી બાબુલભાઇ ગૌરાણી(ભદ્રાવળવાળા)",
     "died": "2021-03-09T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -57,10 +57,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "09-03-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Mahe Rajab, 1442 AH"
   },
   {
-    "id": 579,
+    "id": 578,
     "name": "મરહુમા રૂબાબબાનુ રોશનઅલી દામાણી",
     "died": "2021-03-09T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -72,6 +72,6 @@
     "createdAt": "2025-03-05T13:36:25.891Z",
     "updatedAt": "2025-03-05T13:36:25.891Z",
     "original_date": "09-03-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Mahe Rajab, 1442 AH"
   }
 ]

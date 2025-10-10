@@ -1,6 +1,6 @@
 [
   {
-    "id": 370,
+    "id": 369,
     "name": " મરહુમ હૈદરઅલી અસગરઅલી માણેકીયા",
     "died": "2024-07-31T00:00:00.000Z",
     "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
@@ -12,10 +12,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "31-07-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Mahe Muharram, 1446 AH"
   },
   {
-    "id": 677,
+    "id": 676,
     "name": "મરહુમા ફાતેમા બેન હસનભાઈ શાહુ ",
     "died": "2024-07-31T00:00:00.000Z",
     "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "2025-05-15T14:40:25.000Z",
     "updatedAt": "2025-05-15T14:40:25.000Z",
     "original_date": "31-07-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "26 Mahe Muharram, 1446 AH"
   },
   {
-    "id": 767,
+    "id": 766,
     "name": "મરહુમ બાકરઅલી અબ્બાસઅલી સૈયદ ",
     "died": "2015-07-31T00:00:00.000Z",
     "place": "Shahe alam roza ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-09-04T20:32:34.398Z",
     "updatedAt": "2025-09-04T20:32:34.398Z",
     "original_date": "31-07-2015",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "15 Shawwal, 1436 AH"
   }
 ]

@@ -12,10 +12,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "31-12-2000",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "6 Shawwal, 1421 AH"
   },
   {
-    "id": 527,
+    "id": 526,
     "name": "મરહુમ અઝીઝભાઇ મોહંમ્મદભાઇ ખોજા",
     "died": "2019-12-31T00:00:00.000Z",
     "place": "ભુજ કચ્છ ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "2025-01-20T19:26:23.631Z",
     "updatedAt": "2025-01-20T19:26:23.631Z",
     "original_date": "31-12-2019",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "5 Jumada al-Awwal, 1441 AH"
   },
   {
-    "id": 783,
+    "id": 782,
     "name": "મરહુમ હાજી શૌકતઅલી હસનઅલી રાજાણી",
     "died": "2020-12-31T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -42,6 +42,6 @@
     "createdAt": "2025-09-16T11:42:09.687Z",
     "updatedAt": "2025-09-16T11:42:09.688Z",
     "original_date": "31-12-2020",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "17 Jumada al-Awwal, 1442 AH"
   }
 ]

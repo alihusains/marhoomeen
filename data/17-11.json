@@ -12,10 +12,10 @@
     "createdAt": "2024-03-14T09:15:24.848Z",
     "updatedAt": "2024-03-14T09:15:24.848Z",
     "original_date": "17-11-1986",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "15 Rabi' al-Awwal, 1407 AH"
   },
   {
-    "id": 289,
+    "id": 288,
     "name": "મરહુમ હુસૈનઅલી કાસમઅલી છગલાની",
     "died": "2015-11-17T00:00:00.000Z",
     "place": "મુન્દ્રા કચ્છ ઇન્ડિયા ",
@@ -27,10 +27,10 @@
     "createdAt": "2024-04-19T11:31:16.940Z",
     "updatedAt": "2024-04-19T11:31:16.940Z",
     "original_date": "17-11-2015",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "6 Mahe Safar, 1437 AH"
   },
   {
-    "id": 484,
+    "id": 483,
     "name": "મરહુમ હૈદરઅલી એહમદઅલી પનવેલવાલા",
     "died": "2024-11-17T00:00:00.000Z",
     "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
@@ -42,10 +42,10 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "17-11-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "16 Jumada al-Awwal, 1446 AH"
   },
   {
-    "id": 508,
+    "id": 507,
     "name": "મરહુમ હુશેનઅલી કાસમઅલી ખોજા ",
     "died": "2015-11-17T00:00:00.000Z",
     "place": "મુન્દ્રા (કચ્છ) ઇન્ડિયા ",
@@ -57,10 +57,10 @@
     "createdAt": "2024-12-20T20:26:09.214Z",
     "updatedAt": "2024-12-20T20:26:09.214Z",
     "original_date": "17-11-2015",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "6 Mahe Safar, 1437 AH"
   },
   {
-    "id": 661,
+    "id": 660,
     "name": " મરહુમ હુસેન અલી કાસમ અલી ખોજા ચાગલાની ",
     "died": "2015-11-17T00:00:00.000Z",
     "place": "મુન્દ્રા કચ્છ ગુજરાત ઈન્ડિયા ",
@@ -72,10 +72,10 @@
     "createdAt": "2025-04-27T13:06:40.652Z",
     "updatedAt": "2025-04-27T13:06:40.652Z",
     "original_date": "17-11-2015",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "6 Mahe Safar, 1437 AH"
   },
   {
-    "id": 799,
+    "id": 798,
     "name": "મરહુમ સૈયદ સજ્જાદહુસૈન માહીરહુસૈન",
     "died": "2023-11-17T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -87,6 +87,6 @@
     "createdAt": "2025-09-29T19:58:34.497Z",
     "updatedAt": "2025-09-29T19:58:34.497Z",
     "original_date": "17-11-2023",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "4 Jumada al-Awwal, 1445 AH"
   }
 ]
