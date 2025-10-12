@@ -12148,5 +12148,35 @@
     "updatedAt": "2025-10-10T19:09:14.025Z",
     "original_date": "25-05-2021",
     "hijri_date": "14 Shawwal, 1442 AH"
+  },
+  {
+    "id": 812,
+    "name": "mohammed jaffer sherali noorani",
+    "died": "2019-03-06T00:00:00.000Z",
+    "place": "mumbai",
+    "email": "merchant.saiyada@gmail.com",
+    "phone": 9773849945,
+    "initiatedBy": "saiyada merchant",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-10-11T19:49:26.595Z",
+    "updatedAt": "2025-10-11T19:49:26.595Z",
+    "original_date": "06-03-2019",
+    "hijri_date": "30 Jumada al-Akhir, 1440 AH"
+  },
+  {
+    "id": 813,
+    "name": "Abid gulam abbas dhebar ",
+    "died": "2024-05-27T00:00:00.000Z",
+    "place": "GOMA  CONGO (AFRICA)",
+    "email": "khoja1272@gmail.com",
+    "phone": 7048147272,
+    "initiatedBy": "mustafa Amir ali kayani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-10-12T05:33:13.365Z",
+    "updatedAt": "2025-10-12T05:33:13.365Z",
+    "original_date": "27-05-2024",
+    "hijri_date": "19 Dhuʻl-Qiʻdah, 1445 AH"
   }
 ]
