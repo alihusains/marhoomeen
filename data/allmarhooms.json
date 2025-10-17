@@ -12120,6 +12120,21 @@
     "hijri_date": "24 Rabi' al-Akhir, 1447 AH"
   },
   {
+    "id": 815,
+    "name": "મરહુમ મુખતારઅલી હૈદરઅલી કેશવાણી",
+    "died": "2017-04-18T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "Alishazaink@gmail.com",
+    "phone": 8780751295,
+    "initiatedBy": "keshwani Alisha Zain Ali ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-10-16T11:05:42.033Z",
+    "updatedAt": "2025-10-16T11:05:42.033Z",
+    "original_date": "18-04-2017",
+    "hijri_date": "21 Mahe Rajab, 1438 AH"
+  },
+  {
     "id": 809,
     "name": "મર્હુમ હાજી જુમ્મા ઊઢેજા (જીજુડા)",
     "died": "2023-07-08T00:00:00.000Z",
@@ -12135,9 +12150,9 @@
     "hijri_date": "20 Dhuʻl-Hijjah, 1444 AH"
   },
   {
-    "id": 810,
+    "id": 811,
     "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
-    "died": "2025-10-15T00:00:00.000Z",
+    "died": "2025-10-17T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -12146,11 +12161,11 @@
     "gender": "male",
     "createdAt": "2025-06-08T14:43:42.201Z",
     "updatedAt": "2025-06-08T14:43:42.203Z",
-    "original_date": "15-10-2025",
-    "hijri_date": "24 Rabi' al-Akhir, 1447 AH"
+    "original_date": "17-10-2025",
+    "hijri_date": "26 Rabi' al-Akhir, 1447 AH"
   },
   {
-    "id": 811,
+    "id": 812,
     "name": "મરહુમ શેરઅલીભાઇ ફાઝલભાઇ વંકાણી વફાત : ૨૭ માહે રમઝાન ૧૪૨૦",
     "died": "2000-01-04T00:00:00.000Z",
     "place": "ઇન્ડીઆ",
@@ -12165,7 +12180,7 @@
     "hijri_date": "28 Mahe Ramadhan, 1420 AH"
   },
   {
-    "id": 812,
+    "id": 813,
     "name": "મરહુમ વાહીદઅલી ગુલામઅલી",
     "died": "1968-01-02T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -12180,7 +12195,7 @@
     "hijri_date": "2 Shawwal, 1387 AH"
   },
   {
-    "id": 813,
+    "id": 814,
     "name": "મરહુમા ફાતેમાબાનું ગુલામહુસૈન",
     "died": "2023-05-16T00:00:00.000Z",
     "place": "Atlanta Georgia USA",
@@ -12195,7 +12210,7 @@
     "hijri_date": "26 Shawwal, 1444 AH"
   },
   {
-    "id": 814,
+    "id": 815,
     "name": "મરહુમ ગુલામઅબ્બાસ મહેરઅલી",
     "died": "2025-09-21T00:00:00.000Z",
     "place": "સાંગલી મહારાષ્ટ્ર ઇન્ડિયા ",
@@ -12210,18 +12225,18 @@
     "hijri_date": "29 Rabi' al-Awwal, 1447 AH"
   },
   {
-    "id": 815,
-    "name": "Mukhtar Ali Haidar Ali Keshwani ",
-    "died": "2017-04-18T00:00:00.000Z",
-    "place": "bhavnagar ",
-    "email": "Alishazaink@gmail.com",
-    "phone": 8780751295,
-    "initiatedBy": "keshwani Alisha Zain Ali ",
+    "id": 816,
+    "name": "marhoom Syed serwer Hussain Naqvi",
+    "died": "2018-04-15T00:00:00.000Z",
+    "place": "una gujarat ",
+    "email": "naqvi.aun89@gmail.com",
+    "phone": 8733039612,
+    "initiatedBy": "Aun Mohammad S Naqvi",
     "status": false,
     "gender": "male",
-    "createdAt": "2025-10-16T11:05:42.033Z",
-    "updatedAt": "2025-10-16T11:05:42.033Z",
-    "original_date": "18-04-2017",
-    "hijri_date": "21 Mahe Rajab, 1438 AH"
+    "createdAt": "2025-10-17T11:03:46.455Z",
+    "updatedAt": "2025-10-17T11:03:46.455Z",
+    "original_date": "15-04-2018",
+    "hijri_date": "29 Mahe Rajab, 1439 AH"
   }
 ]
