@@ -7812,7 +7812,7 @@
     "createdAt": "2025-01-20T19:18:43.504Z",
     "updatedAt": "2025-01-20T19:18:43.504Z",
     "original_date": "15-01-2017",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "17 Rabi' al-Akhir, 1438 AH"
   },
   {
     "id": 522,
@@ -12253,5 +12253,20 @@
     "updatedAt": "2025-10-17T18:44:08.282Z",
     "original_date": "12-01-2011",
     "hijri_date": "8 Mahe Safar, 1432 AH"
+  },
+  {
+    "id": 818,
+    "name": "Marhoom Saiyed Nazre Hussain Abid Hussain",
+    "died": "1992-07-18T00:00:00.000Z",
+    "place": "vatva gaam , Musafir khana, Ahemdabad",
+    "email": "saiyedmdraza7262@gmail.com",
+    "phone": 9898008031,
+    "initiatedBy": "Saiyed mohmmd taza",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-10-18T13:07:58.946Z",
+    "updatedAt": "2025-10-18T13:07:58.946Z",
+    "original_date": "18-07-1992",
+    "hijri_date": "18 Mahe Muharram, 1413 AH"
   }
 ]
