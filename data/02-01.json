@@ -43,5 +43,20 @@
     "updatedAt": "2025-01-03T21:32:03.653Z",
     "original_date": "02-01-2025",
     "hijri_date": "3 Mahe Rajab, 1446 AH"
+  },
+  {
+    "id": 809,
+    "name": "મરહુમ વાહીદઅલી ગુલામઅલી",
+    "died": "1968-01-02T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "pmomin2004@yahoo.com",
+    "phone": 4045426855,
+    "initiatedBy": "Parvez Momin",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-10-10T19:05:19.852Z",
+    "updatedAt": "2025-10-10T19:05:19.852Z",
+    "original_date": "02-01-1968",
+    "hijri_date": "2 Shawwal, 1387 AH"
   }
 ]

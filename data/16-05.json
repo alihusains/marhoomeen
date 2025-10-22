@@ -73,5 +73,20 @@
     "updatedAt": "2025-03-21T05:37:13.296Z",
     "original_date": "16-05-1984",
     "hijri_date": "15 Shaʻban, 1404 AH"
+  },
+  {
+    "id": 810,
+    "name": "મરહુમા ફાતેમાબાનું ગુલામહુસૈન",
+    "died": "2023-05-16T00:00:00.000Z",
+    "place": "Atlanta Georgia USA",
+    "email": "pmomin2004@yahoo.com",
+    "phone": 4045426855,
+    "initiatedBy": "Parvez momin",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-10-10T19:07:01.055Z",
+    "updatedAt": "2025-10-10T19:07:01.055Z",
+    "original_date": "16-05-2023",
+    "hijri_date": "26 Shawwal, 1444 AH"
   }
 ]

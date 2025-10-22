@@ -841,9 +841,54 @@
       "hijri_date": "24 Rabi' al-Akhir, 1447 AH"
     },
     {
-      "id": 810,
+      "id": 815,
+      "name": "મરહુમ ખાદીમ હુસેન જીવાભાઈ દાવવા",
+      "died": "2025-10-16T00:00:00.000Z",
+      "place": "ધોળકા ગુજરાત ઇન્ડીયા",
+      "email": "mominrizvan110@gmail.com",
+      "phone": 9898243110,
+      "initiatedBy": "મોહમદ રીઝવાન મોમીન",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-10-18T21:24:17.367Z",
+      "updatedAt": "2025-10-18T21:24:17.367Z",
+      "original_date": "16-10-2025",
+      "hijri_date": "25 Rabi' al-Akhir, 1447 AH"
+    },
+    {
+      "id": 816,
+      "name": "મરહુમા સારા ફાતેમા અલીરજા ભોજાણી ",
+      "died": "2021-10-21T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "bhojani102@gmail.com",
+      "phone": 9925976862,
+      "initiatedBy": "શબ્બીર અલી રજબ અલી ભોજાણી ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-10-21T12:36:11.362Z",
+      "updatedAt": "2025-10-21T12:36:11.362Z",
+      "original_date": "21-10-2021",
+      "hijri_date": "15 Rabi' al-Awwal, 1443 AH"
+    },
+    {
+      "id": 817,
+      "name": "મરહુમા માસુમાબાનુ બિન્તે વાલજીભાઈ મોટરવાલા ",
+      "died": "2025-10-03T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "bhojani102@gmail.com",
+      "phone": 9925976862,
+      "initiatedBy": "શબ્બીર અલી રજબ અલી ભોજાણી ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-10-21T12:38:18.038Z",
+      "updatedAt": "2025-10-21T12:38:18.038Z",
+      "original_date": "03-10-2025",
+      "hijri_date": "12 Rabi' al-Akhir, 1447 AH"
+    },
+    {
+      "id": 818,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
-      "died": "2025-10-21T00:00:00.000Z",
+      "died": "2025-10-22T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -852,8 +897,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "21-10-2025",
-      "hijri_date": "30 Rabi' al-Akhir, 1447 AH"
+      "original_date": "22-10-2025",
+      "hijri_date": "1 Jumada al-Awwal, 1447 AH"
     }
   ],
   "11": [
@@ -4657,6 +4702,21 @@
       "updatedAt": "2025-10-02T19:02:36.868Z",
       "original_date": "15-09-2015",
       "hijri_date": "2 Dhuʻl-Hijjah, 1436 AH"
+    },
+    {
+      "id": 811,
+      "name": "મરહુમ ગુલામઅબ્બાસ મહેરઅલી",
+      "died": "2025-09-21T00:00:00.000Z",
+      "place": "સાંગલી મહારાષ્ટ્ર ઇન્ડિયા ",
+      "email": "mohsinbhojani70@gmail.com",
+      "phone": 9960341406,
+      "initiatedBy": "mohsin bhojani",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-10-14T06:10:58.850Z",
+      "updatedAt": "2025-10-14T06:10:58.850Z",
+      "original_date": "21-09-2025",
+      "hijri_date": "29 Rabi' al-Awwal, 1447 AH"
     }
   ],
   "07": [
@@ -5484,6 +5544,21 @@
       "updatedAt": "2025-09-08T18:27:04.363Z",
       "original_date": "08-07-2019",
       "hijri_date": "6 Dhuʻl-Qiʻdah, 1440 AH"
+    },
+    {
+      "id": 814,
+      "name": "મરહુમ સૈયદ નજીરહુસૈન આબીદહુસૈન",
+      "died": "1992-07-18T00:00:00.000Z",
+      "place": "vatva gaam , Musafir khana, Ahemdabad",
+      "email": "saiyedmdraza7262@gmail.com",
+      "phone": 9898008031,
+      "initiatedBy": "Saiyed mohmmd taza",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-10-18T13:07:58.946Z",
+      "updatedAt": "2025-10-18T13:07:58.946Z",
+      "original_date": "18-07-1992",
+      "hijri_date": "18 Mahe Muharram, 1413 AH"
     }
   ],
   "03": [
@@ -8897,7 +8972,7 @@
       "hijri_date": "9 Shawwal, 1445 AH"
     },
     {
-      "id": 815,
+      "id": 808,
       "name": "મરહુમ મુખતારઅલી હૈદરઅલી કેશવાણી",
       "died": "2017-04-18T00:00:00.000Z",
       "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
@@ -8910,6 +8985,21 @@
       "updatedAt": "2025-10-16T11:05:42.033Z",
       "original_date": "18-04-2017",
       "hijri_date": "21 Mahe Rajab, 1438 AH"
+    },
+    {
+      "id": 812,
+      "name": "મરહુમ સૈયદ સરવરહુસૈન નકવી ",
+      "died": "2018-04-15T00:00:00.000Z",
+      "place": "ઉના ગુજરાત ઇન્ડિયા ",
+      "email": "naqvi.aun89@gmail.com",
+      "phone": 8733039612,
+      "initiatedBy": "Aun Mohammad S Naqvi",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-10-17T11:03:46.455Z",
+      "updatedAt": "2025-10-17T11:03:46.455Z",
+      "original_date": "15-04-2018",
+      "hijri_date": "29 Mahe Rajab, 1439 AH"
     }
   ],
   "06": [
@@ -10864,6 +10954,21 @@
       "updatedAt": "2025-10-10T19:09:14.025Z",
       "original_date": "25-05-2021",
       "hijri_date": "14 Shawwal, 1442 AH"
+    },
+    {
+      "id": 810,
+      "name": "મરહુમા ફાતેમાબાનું ગુલામહુસૈન",
+      "died": "2023-05-16T00:00:00.000Z",
+      "place": "Atlanta Georgia USA",
+      "email": "pmomin2004@yahoo.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez momin",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-10-10T19:07:01.055Z",
+      "updatedAt": "2025-10-10T19:07:01.055Z",
+      "original_date": "16-05-2023",
+      "hijri_date": "26 Shawwal, 1444 AH"
     }
   ],
   "01": [
@@ -11871,6 +11976,36 @@
       "updatedAt": "2025-10-05T19:02:43.294Z",
       "original_date": "16-01-2025",
       "hijri_date": "17 Mahe Rajab, 1446 AH"
+    },
+    {
+      "id": 809,
+      "name": "મરહુમ વાહીદઅલી ગુલામઅલી",
+      "died": "1968-01-02T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "pmomin2004@yahoo.com",
+      "phone": 4045426855,
+      "initiatedBy": "Parvez Momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-10-10T19:05:19.852Z",
+      "updatedAt": "2025-10-10T19:05:19.852Z",
+      "original_date": "02-01-1968",
+      "hijri_date": "2 Shawwal, 1387 AH"
+    },
+    {
+      "id": 813,
+      "name": "મરહુમ હુસૈનઅલી બરકતઅલી નાયાણી",
+      "died": "2011-01-12T00:00:00.000Z",
+      "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+      "email": "nayaniabbas14@gmail.com",
+      "phone": 9979994514,
+      "initiatedBy": "Abbas Nayani",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-10-17T18:44:08.282Z",
+      "updatedAt": "2025-10-17T18:44:08.282Z",
+      "original_date": "12-01-2011",
+      "hijri_date": "8 Mahe Safar, 1432 AH"
     }
   ]
 }
