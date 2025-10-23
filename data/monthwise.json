@@ -888,7 +888,7 @@
     {
       "id": 818,
       "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
-      "died": "2025-10-22T00:00:00.000Z",
+      "died": "2025-10-23T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -897,8 +897,8 @@
       "gender": "male",
       "createdAt": "2025-06-08T14:43:42.201Z",
       "updatedAt": "2025-06-08T14:43:42.203Z",
-      "original_date": "22-10-2025",
-      "hijri_date": "1 Jumada al-Awwal, 1447 AH"
+      "original_date": "23-10-2025",
+      "hijri_date": "2 Jumada al-Awwal, 1447 AH"
     }
   ],
   "11": [
@@ -7903,6 +7903,21 @@
       "updatedAt": "2025-10-10T23:18:12.052Z",
       "original_date": "25-08-2025",
       "hijri_date": "2 Rabi' al-Awwal, 1447 AH"
+    },
+    {
+      "id": 819,
+      "name": "મરહુમા શમીમબાનુ અબ્દુલહુસૈન બરમાવાલા",
+      "died": "2020-08-11T00:00:00.000Z",
+      "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+      "email": "mohmadjafarpatel7110@gmail.com",
+      "phone": 9558024110,
+      "initiatedBy": "Mohammed jafar patel",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-10-22T14:02:33.408Z",
+      "updatedAt": "2025-10-22T14:02:33.408Z",
+      "original_date": "11-08-2020",
+      "hijri_date": "22 Dhuʻl-Hijjah, 1441 AH"
     }
   ],
   "04": [
