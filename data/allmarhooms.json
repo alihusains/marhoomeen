@@ -12255,7 +12255,7 @@
     "hijri_date": "12 Rabi' al-Akhir, 1447 AH"
   },
   {
-    "id": 819,
+    "id": 818,
     "name": "મરહુમા શમીમબાનુ અબ્દુલહુસૈન બરમાવાલા",
     "died": "2020-08-11T00:00:00.000Z",
     "place": "તળાજા ગુજરાત ઇન્ડિયા ",
@@ -12268,50 +12268,5 @@
     "updatedAt": "2025-10-22T14:02:33.408Z",
     "original_date": "11-08-2020",
     "hijri_date": "22 Dhuʻl-Hijjah, 1441 AH"
-  },
-  {
-    "id": 818,
-    "name": " ખાસ નોધ : મરહુમ ની પુરી વિગત  (નામ - વાલીદનું નામ - અટક - તદફીન ની ઇંગ્લીશ તારીખ અને સ્થળ) હશે તો જ ઇસાલે સવાબ માટે \"સુરે ફાતેહા \" માં મરહુમનાં નામ નું સ્ક્રોલિંગ થશેં..",
-    "died": "2025-10-23T00:00:00.000Z",
-    "place": "",
-    "email": "",
-    "phone": "",
-    "initiatedBy": "",
-    "status": true,
-    "gender": "male",
-    "createdAt": "2025-06-08T14:43:42.201Z",
-    "updatedAt": "2025-06-08T14:43:42.203Z",
-    "original_date": "23-10-2025",
-    "hijri_date": "2 Jumada al-Awwal, 1447 AH"
-  },
-  {
-    "id": "",
-    "name": "",
-    "died": "",
-    "place": "",
-    "email": "",
-    "phone": "",
-    "initiatedBy": "",
-    "status": "",
-    "gender": "",
-    "createdAt": "",
-    "updatedAt": "",
-    "original_date": "",
-    "hijri_date": ""
-  },
-  {
-    "id": "",
-    "name": " ",
-    "died": "",
-    "place": "",
-    "email": "",
-    "phone": "",
-    "initiatedBy": "",
-    "status": "",
-    "gender": "",
-    "createdAt": "",
-    "updatedAt": "",
-    "original_date": "",
-    "hijri_date": ""
   }
 ]
