@@ -12198,7 +12198,7 @@
     "id": 814,
     "name": "મરહુમ સૈયદ નજીરહુસૈન આબીદહુસૈન",
     "died": "1992-07-18T00:00:00.000Z",
-    "place": "vatva gaam , Musafir khana, Ahemdabad",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
     "email": "saiyedmdraza7262@gmail.com",
     "phone": 9898008031,
     "initiatedBy": "Saiyed mohmmd taza",
@@ -12268,5 +12268,20 @@
     "updatedAt": "2025-10-22T14:02:33.408Z",
     "original_date": "11-08-2020",
     "hijri_date": "22 Dhuʻl-Hijjah, 1441 AH"
+  },
+  {
+    "id": 819,
+    "name": "મરહુમ આબીદઅલી ફકીરમોહમદ લાઇટવાલા",
+    "died": "2011-07-05T00:00:00.000Z",
+    "place": "એટલાન્ટા USA",
+    "email": "pmomin2004@yahoo.com",
+    "phone": 4045426855,
+    "initiatedBy": "Parvez Momin",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-10-25T22:36:38.597Z",
+    "updatedAt": "2025-10-25T22:36:38.597Z",
+    "original_date": "05-07-2011",
+    "hijri_date": "4 Shaʻban, 1432 AH"
   }
 ]
