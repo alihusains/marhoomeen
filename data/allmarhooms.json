@@ -12328,5 +12328,35 @@
     "updatedAt": "",
     "original_date": "30-10-2025",
     "hijri_date": "9 Jumada al-Awwal, 1447 AH"
+  },
+  {
+    "id": 823,
+    "name": "zakir Hussain Noor Mohammed balwa",
+    "died": "2013-09-15T00:00:00.000Z",
+    "place": "meta Gujarat India ",
+    "email": "Sanoberfatema.786@gmail.com",
+    "phone": 9152435395,
+    "initiatedBy": "Sanober Fatema Zakir Hussain balwa",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-01T19:33:27.505Z",
+    "updatedAt": "2025-11-01T19:33:27.505Z",
+    "original_date": "15-09-2013",
+    "hijri_date": "10 Dhuʻl-Qiʻdah, 1434 AH"
+  },
+  {
+    "id": 824,
+    "name": "abcd",
+    "died": "2025-11-01T00:00:00.000Z",
+    "place": "oiu",
+    "email": "p@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "pp",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-01T20:35:31.927Z",
+    "updatedAt": "2025-11-01T20:35:31.927Z",
+    "original_date": "01-11-2025",
+    "hijri_date": "11 Jumada al-Awwal, 1447 AH"
   }
 ]
