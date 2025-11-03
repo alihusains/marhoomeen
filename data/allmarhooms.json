@@ -12315,9 +12315,24 @@
     "hijri_date": "22 Shawwal, 1424 AH"
   },
   {
+    "id": 823,
+    "name": " મરહુમ ઝાકીરહુસૈન નુરમોહંમ્મદ બલવા",
+    "died": "2013-09-15T00:00:00.000Z",
+    "place": "મેતા-કાણોદર ગુજરાત ઇન્ડિયા ",
+    "email": "Sanoberfatema.786@gmail.com",
+    "phone": 9152435395,
+    "initiatedBy": "Sanober Fatema Zakir Hussain balwa",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-11-01T19:33:27.505Z",
+    "updatedAt": "2025-11-01T19:33:27.505Z",
+    "original_date": "15-09-2013",
+    "hijri_date": "10 Dhuʻl-Qiʻdah, 1434 AH"
+  },
+  {
     "id": 822,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-10-30T00:00:00.000Z",
+    "died": "2025-11-03T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -12326,22 +12341,7 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
-    "original_date": "30-10-2025",
-    "hijri_date": "9 Jumada al-Awwal, 1447 AH"
-  },
-  {
-    "id": 823,
-    "name": "zakir Hussain Noor Mohammed balwa",
-    "died": "2013-09-15T00:00:00.000Z",
-    "place": "meta Gujarat India ",
-    "email": "Sanoberfatema.786@gmail.com",
-    "phone": 9152435395,
-    "initiatedBy": "Sanober Fatema Zakir Hussain balwa",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-11-01T19:33:27.505Z",
-    "updatedAt": "2025-11-01T19:33:27.505Z",
-    "original_date": "15-09-2013",
-    "hijri_date": "10 Dhuʻl-Qiʻdah, 1434 AH"
+    "original_date": "03-11-2025",
+    "hijri_date": "13 Jumada al-Awwal, 1447 AH"
   }
 ]
