@@ -1,21 +1,6 @@
 [
   {
-    "id": 625,
-    "name": "મરહુમ રમઝાન અલી ફઝલહુસૈન દેવજીયણી",
-    "died": "2022-11-05T00:00:00.000Z",
-    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
-    "email": "sajjadalis7992@gmail.com",
-    "phone": 9106812497,
-    "initiatedBy": "SAJJAD Ali ramjan Ali devjiyani ",
-    "status": true,
-    "gender": "male",
-    "createdAt": "2025-03-20T20:36:19.304Z",
-    "updatedAt": "2025-03-20T20:36:19.304Z",
-    "original_date": "05-11-2022",
-    "hijri_date": "11 Rabi' al-Akhir, 1444 AH"
-  },
-  {
-    "id": 630,
+    "id": 628,
     "name": " મરહુમ  રમજાનઅલી ફાજલ હુસેન દેવજીયાણી દીહોર વાળા",
     "died": "2022-11-05T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઈન્ડીયા ",
@@ -30,22 +15,7 @@
     "hijri_date": "11 Rabi' al-Akhir, 1444 AH"
   },
   {
-    "id": 641,
-    "name": "મરહુમ રમઝાન અલી ફઝલ હુસૈન દેવજીયાણી",
-    "died": "2022-11-05T00:00:00.000Z",
-    "place": "ભાવનગર ગુજરાત ઈન્ડીયા ",
-    "email": "sajjadalis7992@gmail.com",
-    "phone": 9106812497,
-    "initiatedBy": "sajjadali devjani",
-    "status": true,
-    "gender": "male",
-    "createdAt": "2025-04-02T00:49:23.103Z",
-    "updatedAt": "2025-04-02T00:49:23.103Z",
-    "original_date": "05-11-2022",
-    "hijri_date": "11 Rabi' al-Akhir, 1444 AH"
-  },
-  {
-    "id": 683,
+    "id": 680,
     "name": "મરહુમ શૌકતઅલી મહમદરઝાભાઇ ચામડાવાલા",
     "died": "2019-11-05T00:00:00.000Z",
     "place": " ભુજ કચ્છ ઇન્ડિયા",
@@ -58,5 +28,20 @@
     "updatedAt": "2025-06-06T14:39:23.288Z",
     "original_date": "05-11-2019",
     "hijri_date": "8 Rabi' al-Awwal, 1441 AH"
+  },
+  {
+    "id": 819,
+    "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
+    "died": "2025-11-05T00:00:00.000Z",
+    "place": "",
+    "email": "",
+    "phone": "",
+    "initiatedBy": "",
+    "status": true,
+    "gender": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "original_date": "05-11-2025",
+    "hijri_date": "15 Jumada al-Awwal, 1447 AH"
   }
 ]
