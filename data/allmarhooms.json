@@ -12433,5 +12433,20 @@
     "updatedAt": "2025-11-06T00:11:59.637Z",
     "original_date": "06-09-2020",
     "hijri_date": "18 Mahe Muharram, 1442 AH"
+  },
+  {
+    "id": 832,
+    "name": "Misamali Mahedihusain gani",
+    "died": "2021-11-06T00:00:00.000Z",
+    "place": "Australia.sydeny",
+    "email": "bilkisbengani@gmail.com",
+    "phone": 9898101253,
+    "initiatedBy": "bilkisbengani",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-06T07:15:44.540Z",
+    "updatedAt": "2025-11-06T07:15:44.540Z",
+    "original_date": "06-11-2021",
+    "hijri_date": "2 Rabi' al-Akhir, 1443 AH"
   }
 ]
