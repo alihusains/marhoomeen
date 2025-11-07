@@ -2022,7 +2022,7 @@
     "createdAt": "2024-03-14T07:10:57.695Z",
     "updatedAt": "2024-03-14T07:10:57.695Z",
     "original_date": "11-04-2004",
-    "hijri_date": "22 Mahe Safar, 1425 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 136,
@@ -2622,7 +2622,7 @@
     "createdAt": "2024-03-19T15:28:20.820Z",
     "updatedAt": "2024-03-19T15:28:20.820Z",
     "original_date": "01-10-2022",
-    "hijri_date": "6 Rabi' al-Awwal, 1444 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 176,
@@ -8187,7 +8187,7 @@
     "createdAt": "2025-01-29T05:13:18.390Z",
     "updatedAt": "2025-01-29T05:13:18.390Z",
     "original_date": "26-01-2002",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "13 Dhuʻl-Qiʻdah, 1422 AH"
   },
   {
     "id": 547,
@@ -12287,7 +12287,7 @@
   {
     "id": 819,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-11-05T00:00:00.000Z",
+    "died": "2025-11-07T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -12296,8 +12296,8 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
-    "original_date": "05-11-2025",
-    "hijri_date": "15 Jumada al-Awwal, 1447 AH"
+    "original_date": "07-11-2025",
+    "hijri_date": "17 Jumada al-Awwal, 1447 AH"
   },
   {
     "id": 823,
@@ -12583,5 +12583,50 @@
     "updatedAt": "2025-11-06T19:29:34.079Z",
     "original_date": "05-03-2016",
     "hijri_date": "26 Jumada al-Awwal, 1437 AH"
+  },
+  {
+    "id": 842,
+    "name": "m.Husain bhai jevan bhai kalvani ",
+    "died": "1988-01-20T00:00:00.000Z",
+    "place": "gadhada somena ",
+    "email": "Sajjadkaebalai@gmail.com",
+    "phone": 9408374812,
+    "initiatedBy": "Sajjad Ali Husain ali kalvani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-07T09:32:01.141Z",
+    "updatedAt": "2025-11-07T09:32:01.141Z",
+    "original_date": "20-01-1988",
+    "hijri_date": "1 Jumada al-Akhir, 1408 AH"
+  },
+  {
+    "id": 843,
+    "name": "marhuma.sheren banu Husain ali kalvani ",
+    "died": "2016-05-05T00:00:00.000Z",
+    "place": "gadhada somena",
+    "email": "Sajjadkaebalai@gmail.com",
+    "phone": 9408374812,
+    "initiatedBy": "Sajjad Ali Husain ali kalvani ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-07T09:32:03.478Z",
+    "updatedAt": "2025-11-07T09:32:03.478Z",
+    "original_date": "05-05-2016",
+    "hijri_date": "28 Mahe Rajab, 1437 AH"
+  },
+  {
+    "id": 844,
+    "name": "M.Vajer ali Husain ali kalvani ",
+    "died": "2001-10-05T00:00:00.000Z",
+    "place": "gadhada Somena ",
+    "email": "Sajjadkaebalai@gmail.com",
+    "phone": 9408374812,
+    "initiatedBy": "Sajjad Ali Husain ali kalvani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-07T09:32:07.646Z",
+    "updatedAt": "2025-11-07T09:32:07.646Z",
+    "original_date": "05-10-2001",
+    "hijri_date": "18 Mahe Rajab, 1422 AH"
   }
 ]

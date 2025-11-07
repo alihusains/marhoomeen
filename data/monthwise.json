@@ -193,7 +193,7 @@
       "createdAt": "2024-03-19T15:28:20.820Z",
       "updatedAt": "2024-03-19T15:28:20.820Z",
       "original_date": "01-10-2022",
-      "hijri_date": "6 Rabi' al-Awwal, 1444 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 210,
@@ -1565,7 +1565,7 @@
     {
       "id": 819,
       "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
-      "died": "2025-11-05T00:00:00.000Z",
+      "died": "2025-11-07T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -1574,8 +1574,8 @@
       "gender": "",
       "createdAt": "",
       "updatedAt": "",
-      "original_date": "05-11-2025",
-      "hijri_date": "15 Jumada al-Awwal, 1447 AH"
+      "original_date": "07-11-2025",
+      "hijri_date": "17 Jumada al-Awwal, 1447 AH"
     }
   ],
   "12": [
@@ -8054,7 +8054,7 @@
       "createdAt": "2024-03-14T07:10:57.695Z",
       "updatedAt": "2024-03-14T07:10:57.695Z",
       "original_date": "11-04-2004",
-      "hijri_date": "22 Mahe Safar, 1425 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 140,
@@ -11735,7 +11735,7 @@
       "createdAt": "2025-01-29T05:13:18.390Z",
       "updatedAt": "2025-01-29T05:13:18.390Z",
       "original_date": "26-01-2002",
-      "hijri_date": "#ERROR!"
+      "hijri_date": "13 Dhuʻl-Qiʻdah, 1422 AH"
     },
     {
       "id": 549,
