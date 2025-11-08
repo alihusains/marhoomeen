@@ -12643,5 +12643,35 @@
     "updatedAt": "2025-11-07T17:33:02.121Z",
     "original_date": "09-02-2023",
     "hijri_date": "19 Mahe Rajab, 1444 AH"
+  },
+  {
+    "id": 846,
+    "name": "રજબઅલી હસનઅલી ફતવાણી",
+    "died": "2025-06-23T00:00:00.000Z",
+    "place": "મહુવા",
+    "email": "hmfatwani@gmail.com",
+    "phone": 7778885786,
+    "initiatedBy": "Hadi hasan fatwani",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-08T12:42:26.933Z",
+    "updatedAt": "2025-11-08T12:42:26.933Z",
+    "original_date": "23-06-2025",
+    "hijri_date": "27 Dhuʻl-Hijjah, 1446 AH"
+  },
+  {
+    "id": 847,
+    "name": "ઝહરાબાનું ગુલામહુસૈન લાખાણી",
+    "died": "2002-05-31T00:00:00.000Z",
+    "place": "મહુવા",
+    "email": "hmfatwani@gmail.com",
+    "phone": 7778885786,
+    "initiatedBy": "Hadihasan fatwani",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-08T13:01:15.699Z",
+    "updatedAt": "2025-11-08T13:01:15.699Z",
+    "original_date": "31-05-2002",
+    "hijri_date": "19 Rabi' al-Awwal, 1423 AH"
   }
 ]
