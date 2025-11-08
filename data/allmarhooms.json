@@ -2022,7 +2022,7 @@
     "createdAt": "2024-03-14T07:10:57.695Z",
     "updatedAt": "2024-03-14T07:10:57.695Z",
     "original_date": "11-04-2004",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "22 Mahe Safar, 1425 AH"
   },
   {
     "id": 136,
@@ -2622,7 +2622,7 @@
     "createdAt": "2024-03-19T15:28:20.820Z",
     "updatedAt": "2024-03-19T15:28:20.820Z",
     "original_date": "01-10-2022",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "6 Rabi' al-Awwal, 1444 AH"
   },
   {
     "id": 176,
@@ -12628,5 +12628,20 @@
     "updatedAt": "2025-11-07T09:32:07.646Z",
     "original_date": "05-10-2001",
     "hijri_date": "18 Mahe Rajab, 1422 AH"
+  },
+  {
+    "id": 845,
+    "name": " મ ઓનઅલી સિરાજઅલી રૂપાણી",
+    "died": "2023-02-09T00:00:00.000Z",
+    "place": "Rajula",
+    "email": "murtuza.charania14@gmail.com",
+    "phone": 7096572110,
+    "initiatedBy": "સિરાજઅલી રૂપાણી",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-07T17:33:02.121Z",
+    "updatedAt": "2025-11-07T17:33:02.121Z",
+    "original_date": "09-02-2023",
+    "hijri_date": "19 Mahe Rajab, 1444 AH"
   }
 ]
