@@ -12718,5 +12718,35 @@
     "updatedAt": "2025-11-09T00:13:11.456Z",
     "original_date": "21-07-2012",
     "hijri_date": "2 Mahe Ramadhan, 1433 AH"
+  },
+  {
+    "id": 851,
+    "name": "nasim ben Ahemad ali bhojani",
+    "died": "2016-11-20T00:00:00.000Z",
+    "place": "sihor",
+    "email": "bhimanikanizfatema@gmail.com",
+    "phone": 8866828849,
+    "initiatedBy": "kaniz bhimani",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-09T10:21:54.518Z",
+    "updatedAt": "2025-11-09T10:21:54.518Z",
+    "original_date": "20-11-2016",
+    "hijri_date": "21 Mahe Safar, 1438 AH"
+  },
+  {
+    "id": 852,
+    "name": "Mahenub ali Ramzan bhai jivani",
+    "died": "2022-01-05T00:00:00.000Z",
+    "place": "sihor ",
+    "email": "bhimanikanizfatema@gmail.com",
+    "phone": 8866828849,
+    "initiatedBy": "kaniz bhimani",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-09T10:21:57.831Z",
+    "updatedAt": "2025-11-09T10:21:57.831Z",
+    "original_date": "05-01-2022",
+    "hijri_date": "3 Jumada al-Akhir, 1443 AH"
   }
 ]
