@@ -60,7 +60,7 @@
     "hijri_date": "16 Shaʻban, 1443 AH"
   },
   {
-    "id": 663,
+    "id": 662,
     "name": "મરહુમ મોહંમ્મદહુસૈન શોકતઅલી નુરાની ",
     "died": "2024-03-18T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -75,7 +75,7 @@
     "hijri_date": "8 Mahe Ramadhan, 1445 AH"
   },
   {
-    "id": 702,
+    "id": 701,
     "name": "મરહુમ મહેરઅલી કરીમભાઇ મોમીન",
     "died": "2025-03-18T00:00:00.000Z",
     "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
@@ -88,5 +88,20 @@
     "updatedAt": "2025-06-27T22:11:38.808Z",
     "original_date": "18-03-2025",
     "hijri_date": "18 Mahe Ramadhan, 1446 AH"
+  },
+  {
+    "id": 840,
+    "name": "મરહુમ હાજી મોહંમ્મદઅલી એસ. નુરાની ",
+    "died": "2024-03-18T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "www.saiyadanoorani@gmail.com",
+    "phone": 7818841400,
+    "initiatedBy": "Saiyada noorani ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-11-10T07:23:41.044Z",
+    "updatedAt": "2025-11-10T07:23:41.044Z",
+    "original_date": "18-03-2024",
+    "hijri_date": "8 Mahe Ramadhan, 1445 AH"
   }
 ]

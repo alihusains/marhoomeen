@@ -45,7 +45,7 @@
     "hijri_date": "22 Mahe Ramadhan, 1418 AH"
   },
   {
-    "id": 669,
+    "id": 668,
     "name": "મરહુમ હાજી રજાહુસેન બાઉભાઈ રાજાણી",
     "died": "2018-01-20T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -58,5 +58,20 @@
     "updatedAt": "2025-05-06T06:12:53.814Z",
     "original_date": "20-01-2018",
     "hijri_date": "3 Jumada al-Awwal, 1439 AH"
+  },
+  {
+    "id": 829,
+    "name": "મરહુમ હુસેરનભાઇ જીવનભાઇ કલવાણી",
+    "died": "1988-01-20T00:00:00.000Z",
+    "place": "સ્વામી ગઢડા ગુજરાત ઇન્ડિયા ",
+    "email": "Sajjadkaebalai@gmail.com",
+    "phone": 9408374812,
+    "initiatedBy": "Sajjad Ali Husain ali kalvani ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-11-07T09:32:01.141Z",
+    "updatedAt": "2025-11-07T09:32:01.141Z",
+    "original_date": "20-01-1988",
+    "hijri_date": "1 Jumada al-Akhir, 1408 AH"
   }
 ]

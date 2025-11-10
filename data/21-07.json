@@ -15,7 +15,7 @@
     "hijri_date": "2 Mahe Ramadhan, 1433 AH"
   },
   {
-    "id": 685,
+    "id": 684,
     "name": "મરહુમા રોશનબેન વજીરભાઈ ઉમતીયા",
     "died": "1990-07-21T00:00:00.000Z",
     "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -30,7 +30,7 @@
     "hijri_date": "29 Dhuʻl-Hijjah, 1410 AH"
   },
   {
-    "id": 764,
+    "id": 763,
     "name": "મરહુમા હાજીયાણી ફાતેમાબેન ઈબ્રાહિમભાઈ બદામી",
     "died": "1981-07-21T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -43,5 +43,20 @@
     "updatedAt": "2025-09-08T18:26:41.343Z",
     "original_date": "21-07-1981",
     "hijri_date": "20 Mahe Ramadhan, 1401 AH"
+  },
+  {
+    "id": 837,
+    "name": "મરહુમ આશીકઅલી ગુલામહુસૈન લાખાણી",
+    "died": "2012-07-21T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+    "email": "sabiravakil14@gmail.com",
+    "phone": 9484414969,
+    "initiatedBy": "fatema",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-11-09T00:13:11.456Z",
+    "updatedAt": "2025-11-09T00:13:11.456Z",
+    "original_date": "21-07-2012",
+    "hijri_date": "2 Mahe Ramadhan, 1433 AH"
   }
 ]
