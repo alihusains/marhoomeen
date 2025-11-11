@@ -4332,7 +4332,7 @@
     "createdAt": "2024-04-20T02:28:31.099Z",
     "updatedAt": "2024-04-20T02:28:31.099Z",
     "original_date": "20-07-2023",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "3 Mahe Muharram, 1445 AH"
   },
   {
     "id": 290,
@@ -7182,7 +7182,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "11-11-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "7 Rabi' al-Akhir, 1443 AH"
   },
   {
     "id": 480,
@@ -12586,7 +12586,7 @@
   },
   {
     "id": 840,
-    "name": "મરહુમ હાજી મોહંમ્મદઅલી એસ. નુરાની ",
+    "name": "મરહુમ હાજી મોહંમ્મદઅલી શૌકતઅલી નુરાની ",
     "died": "2024-03-18T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
     "email": "www.saiyadanoorani@gmail.com",
@@ -12601,13 +12601,13 @@
   },
   {
     "id": 841,
-    "name": "મરહુમા હાજીયાણી માસુમાબેન અંગોદલીયા",
+    "name": "મરહુમા હાજીયાણી માસુમાબેન અબ્દુલહુસૈન ગોંડલીયા W/o   મરહુમ હાજી મોહંમ્મદઅલી શૌકતઅલી નુરાની  ",
     "died": "2017-08-05T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
     "email": "www.saiyadanoorani@gmail.com",
     "phone": 7818841400,
     "initiatedBy": "Saiyada noorani ",
-    "status": false,
+    "status": true,
     "gender": "female",
     "createdAt": "2025-11-10T07:23:48.597Z",
     "updatedAt": "2025-11-10T07:23:48.597Z",
