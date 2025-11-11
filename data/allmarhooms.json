@@ -7171,7 +7171,7 @@
   },
   {
     "id": 479,
-    "name": "મરહુમા મનસુરાબાનું બિન્તે હાજી યુસુફઅલી ભીમાણી (ટાણાવાળા) W/o  હાજી અલીરઝાભાઇ હુસૈનઅલી મસાણી",
+    "name": "મરહુમા મનસુરાબાનું બિન્તે હાજી યુસુફઅલી બરકતઅલી ભીમાણી (ટાણાવાળા) W/o  હાજી અલીરઝાભાઇ હુસૈનઅલી મસાણી",
     "died": "2021-11-11T00:00:00.000Z",
     "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
     "email": "",
@@ -12737,7 +12737,7 @@
   {
     "id": 850,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-11-10T00:00:00.000Z",
+    "died": "2025-11-11T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -12746,7 +12746,52 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
-    "original_date": "10-11-2025",
-    "hijri_date": "20 Jumada al-Awwal, 1447 AH"
+    "original_date": "11-11-2025",
+    "hijri_date": "21 Jumada al-Awwal, 1447 AH"
+  },
+  {
+    "id": 851,
+    "name": "M.Nasim ben Shokatali Hirani",
+    "died": "2005-06-30T00:00:00.000Z",
+    "place": "Rajula",
+    "email": "gazib210@gmail.com",
+    "phone": 7878110786,
+    "initiatedBy": "Hirani Sohil Abbas",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-11T13:36:43.136Z",
+    "updatedAt": "2025-11-11T13:36:43.136Z",
+    "original_date": "30-06-2005",
+    "hijri_date": "24 Jumada al-Awwal, 1426 AH"
+  },
+  {
+    "id": 852,
+    "name": "iqbal Husain Sadiq ali jalali",
+    "died": "1980-10-18T00:00:00.000Z",
+    "place": "khambaht gujarat India ",
+    "email": "kanizesakinapanjvani110@gemail.com",
+    "phone": 9574690110,
+    "initiatedBy": "kanize sakina panjvani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-11T16:30:28.581Z",
+    "updatedAt": "2025-11-11T16:30:28.581Z",
+    "original_date": "18-10-1980",
+    "hijri_date": "9 Dhuʻl-Hijjah, 1400 AH"
+  },
+  {
+    "id": 853,
+    "name": "મ.હાજી બચ્ચુભાઈ ગુલામહુસૈન ભાઈ ભુરાણી",
+    "died": "1985-04-09T00:00:00.000Z",
+    "place": "તળાજા ",
+    "email": "srbhurani.and@gmail.com",
+    "phone": 9173196161,
+    "initiatedBy": "Bhurani Sohilabbas Ramjanali ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-11T17:29:42.897Z",
+    "updatedAt": "2025-11-11T17:29:42.897Z",
+    "original_date": "09-04-1985",
+    "hijri_date": "19 Mahe Rajab, 1405 AH"
   }
 ]
