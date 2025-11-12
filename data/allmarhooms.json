@@ -1317,7 +1317,7 @@
     "createdAt": "2024-03-06T07:10:11.503Z",
     "updatedAt": "2024-03-06T07:10:11.503Z",
     "original_date": "27-01-2021",
-    "hijri_date": "14 Jumada al-Akhir, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 89,
@@ -12793,5 +12793,20 @@
     "updatedAt": "2025-11-11T17:29:42.897Z",
     "original_date": "09-04-1985",
     "hijri_date": "19 Mahe Rajab, 1405 AH"
+  },
+  {
+    "id": 854,
+    "name": "masuma banu murad ali kanji",
+    "died": "2025-10-03T00:00:00.000Z",
+    "place": "Bhavnagar gujrat ",
+    "email": "fatimfatima864@gmail.com",
+    "phone": 8291314612,
+    "initiatedBy": "naim batliwla ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-11T20:20:22.717Z",
+    "updatedAt": "2025-11-11T20:20:22.717Z",
+    "original_date": "03-10-2025",
+    "hijri_date": "12 Rabi' al-Akhir, 1447 AH"
   }
 ]
