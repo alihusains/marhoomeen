@@ -1317,7 +1317,7 @@
     "createdAt": "2024-03-06T07:10:11.503Z",
     "updatedAt": "2024-03-06T07:10:11.503Z",
     "original_date": "27-01-2021",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "14 Jumada al-Akhir, 1442 AH"
   },
   {
     "id": 89,
@@ -12737,7 +12737,7 @@
   {
     "id": 850,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-11-11T00:00:00.000Z",
+    "died": "2025-11-12T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -12746,8 +12746,8 @@
     "gender": "",
     "createdAt": "",
     "updatedAt": "",
-    "original_date": "11-11-2025",
-    "hijri_date": "21 Jumada al-Awwal, 1447 AH"
+    "original_date": "12-11-2025",
+    "hijri_date": "22 Jumada al-Awwal, 1447 AH"
   },
   {
     "id": 851,
@@ -12808,5 +12808,50 @@
     "updatedAt": "2025-11-11T20:20:22.717Z",
     "original_date": "03-10-2025",
     "hijri_date": "12 Rabi' al-Akhir, 1447 AH"
+  },
+  {
+    "id": 855,
+    "name": "M.Husain Bhai Jevan Bhai Kalvani ",
+    "died": "1988-01-20T00:00:00.000Z",
+    "place": "Gadhada Somena ",
+    "email": "Sajjadkaebalai@gmail.com",
+    "phone": 9408374812,
+    "initiatedBy": "sajjad Ali Husain Ali kalvani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-12T15:07:36.466Z",
+    "updatedAt": "2025-11-12T15:07:36.466Z",
+    "original_date": "20-01-1988",
+    "hijri_date": "1 Jumada al-Akhir, 1408 AH"
+  },
+  {
+    "id": 856,
+    "name": "M.Sheren Banu Husain Ali Kalvani ",
+    "died": "2016-05-05T00:00:00.000Z",
+    "place": "Gadhada Somena ",
+    "email": "Sajjadkaebalai@gmail.com",
+    "phone": 9408374812,
+    "initiatedBy": "sajjad Ali Husain Ali kalvani ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-12T15:07:50.464Z",
+    "updatedAt": "2025-11-12T15:07:50.464Z",
+    "original_date": "05-05-2016",
+    "hijri_date": "28 Mahe Rajab, 1437 AH"
+  },
+  {
+    "id": 857,
+    "name": "M.Vajer Ali Husain Ali Kalvani ",
+    "died": "2001-11-05T00:00:00.000Z",
+    "place": "Gadhada Somena ",
+    "email": "Sajjadkaebalai@gmail.com",
+    "phone": 9408374812,
+    "initiatedBy": "sajjad Ali Husain Ali kalvani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-12T15:09:28.805Z",
+    "updatedAt": "2025-11-12T15:09:28.805Z",
+    "original_date": "05-11-2001",
+    "hijri_date": "20 Shaʻban, 1422 AH"
   }
 ]
