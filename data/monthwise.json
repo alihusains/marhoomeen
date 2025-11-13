@@ -914,6 +914,51 @@
       "updatedAt": "2025-11-09T00:13:09.487Z",
       "original_date": "24-10-2024",
       "hijri_date": "22 Rabi' al-Akhir, 1446 AH"
+    },
+    {
+      "id": 843,
+      "name": "મરહુમ ઇકબાલહુસૈન સાદીકઅલી જલાલી",
+      "died": "1980-10-18T00:00:00.000Z",
+      "place": "ખંભાત ગુજરાત ઇન્ડિયા ",
+      "email": "kanizesakinapanjvani110@gemail.com",
+      "phone": 9574690110,
+      "initiatedBy": "kanize sakina panjvani ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-11-11T16:30:28.581Z",
+      "updatedAt": "2025-11-11T16:30:28.581Z",
+      "original_date": "18-10-1980",
+      "hijri_date": "9 Dhuʻl-Hijjah, 1400 AH"
+    },
+    {
+      "id": 845,
+      "name": "મરહુમા માસુમાબાનું મુરાદઅલી કાનજી",
+      "died": "2025-10-03T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "fatimfatima864@gmail.com",
+      "phone": 8291314612,
+      "initiatedBy": "naim batliwla ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-11-11T20:20:22.717Z",
+      "updatedAt": "2025-11-11T20:20:22.717Z",
+      "original_date": "03-10-2025",
+      "hijri_date": "12 Rabi' al-Akhir, 1447 AH"
+    },
+    {
+      "id": 851,
+      "name": "મરહુમા ઝરીનાબેન શરીફઅલી ખેરાજ",
+      "died": "2024-10-23T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "rrpanjwani72@gmail.com",
+      "phone": 8200835282,
+      "initiatedBy": "Rozmin",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-11-12T21:08:28.290Z",
+      "updatedAt": "2025-11-12T21:08:28.290Z",
+      "original_date": "23-10-2024",
+      "hijri_date": "21 Rabi' al-Akhir, 1446 AH"
     }
   ],
   "11": [
@@ -1623,9 +1668,24 @@
       "hijri_date": "21 Mahe Safar, 1438 AH"
     },
     {
-      "id": 850,
+      "id": 848,
+      "name": "મરહુમ વજીરઅલી હુસૈનઅલી કલવાણી",
+      "died": "2001-11-05T00:00:00.000Z",
+      "place": "સ્વામી ગઢડા ગુજરાત ઇન્ડિયા ",
+      "email": "Sajjadkaebalai@gmail.com",
+      "phone": 9408374812,
+      "initiatedBy": "sajjad Ali Husain Ali kalvani ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-11-12T15:09:28.805Z",
+      "updatedAt": "2025-11-12T15:09:28.805Z",
+      "original_date": "05-11-2001",
+      "hijri_date": "20 Shaʻban, 1422 AH"
+    },
+    {
+      "id": 852,
       "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
-      "died": "2025-11-12T00:00:00.000Z",
+      "died": "2025-11-13T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
@@ -1634,8 +1694,8 @@
       "gender": "",
       "createdAt": "",
       "updatedAt": "",
-      "original_date": "12-11-2025",
-      "hijri_date": "22 Jumada al-Awwal, 1447 AH"
+      "original_date": "13-11-2025",
+      "hijri_date": "23 Jumada al-Awwal, 1447 AH"
     }
   ],
   "12": [
@@ -5694,6 +5754,21 @@
       "updatedAt": "2025-11-09T00:13:11.456Z",
       "original_date": "21-07-2012",
       "hijri_date": "2 Mahe Ramadhan, 1433 AH"
+    },
+    {
+      "id": 849,
+      "name": "મરહુમ હુસૈનભાઇ અલીમોહંમ્મદભાઇ  સુણસરા ",
+      "died": "2015-07-10T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "todaazmat@gmail.com",
+      "phone": 9998636072,
+      "initiatedBy": "અજમત અલી હુસૈન અલી સુણસરા ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-11-12T19:09:16.176Z",
+      "updatedAt": "2025-11-12T19:09:16.176Z",
+      "original_date": "10-07-2015",
+      "hijri_date": "24 Mahe Ramadhan, 1436 AH"
     }
   ],
   "03": [
@@ -9225,6 +9300,36 @@
       "updatedAt": "2025-11-05T19:23:40.898Z",
       "original_date": "10-04-2021",
       "hijri_date": "28 Shaʻban, 1442 AH"
+    },
+    {
+      "id": 844,
+      "name": "મરહુમ હાજી બચ્ચુભાઈ ગુલામહુસૈન ભાઈ ભુરાણી",
+      "died": "1985-04-09T00:00:00.000Z",
+      "place": "તળાજા ગુજરાત ઇન્ડિયા ",
+      "email": "srbhurani.and@gmail.com",
+      "phone": 9173196161,
+      "initiatedBy": "Bhurani Sohilabbas Ramjanali ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-11-11T17:29:42.897Z",
+      "updatedAt": "2025-11-11T17:29:42.897Z",
+      "original_date": "09-04-1985",
+      "hijri_date": "19 Mahe Rajab, 1405 AH"
+    },
+    {
+      "id": 850,
+      "name": "મરહુમા શકીનાબેન બચ્ચુભાઇ રાજાણી",
+      "died": "2003-04-05T00:00:00.000Z",
+      "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+      "email": "rrpanjwani72@gmail.com",
+      "phone": 8200835282,
+      "initiatedBy": "Rozmin",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-11-12T21:08:23.646Z",
+      "updatedAt": "2025-11-12T21:08:23.646Z",
+      "original_date": "05-04-2003",
+      "hijri_date": "4 Mahe Safar, 1424 AH"
     }
   ],
   "06": [
@@ -10307,6 +10412,21 @@
       "updatedAt": "2025-11-08T19:34:59.925Z",
       "original_date": "29-06-2021",
       "hijri_date": "19 Dhuʻl-Qiʻdah, 1442 AH"
+    },
+    {
+      "id": 842,
+      "name": "મરહુમા નશીમબેન શૌકતઅલી હીરાણી",
+      "died": "2005-06-30T00:00:00.000Z",
+      "place": "રાજુલા ગુજરાત ઇન્ડિયા ",
+      "email": "gazib210@gmail.com",
+      "phone": 7878110786,
+      "initiatedBy": "Hirani Sohil Abbas",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-11-11T13:36:43.136Z",
+      "updatedAt": "2025-11-11T13:36:43.136Z",
+      "original_date": "30-06-2005",
+      "hijri_date": "24 Jumada al-Awwal, 1426 AH"
     }
   ],
   "05": [
@@ -11118,7 +11238,7 @@
       "createdAt": "2025-05-07T15:04:09.255Z",
       "updatedAt": "2025-05-07T15:04:09.255Z",
       "original_date": "07-05-2025",
-      "hijri_date": "#ERROR!"
+      "hijri_date": "10 Dhuʻl-Qiʻdah, 1446 AH"
     },
     {
       "id": 670,
@@ -11299,6 +11419,21 @@
       "updatedAt": "2025-11-08T13:01:15.699Z",
       "original_date": "31-05-2002",
       "hijri_date": "19 Rabi' al-Awwal, 1423 AH"
+    },
+    {
+      "id": 847,
+      "name": "મરહુમા શેરબાનું હુસૈનઅલી કલવાણી",
+      "died": "2016-05-05T00:00:00.000Z",
+      "place": "સ્વામી ગઢડા ગુજરાત ઇન્ડિયા ",
+      "email": "Sajjadkaebalai@gmail.com",
+      "phone": 9408374812,
+      "initiatedBy": "sajjad Ali Husain Ali kalvani ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-11-12T15:07:50.464Z",
+      "updatedAt": "2025-11-12T15:07:50.464Z",
+      "original_date": "05-05-2016",
+      "hijri_date": "28 Mahe Rajab, 1437 AH"
     }
   ],
   "01": [
@@ -12366,6 +12501,21 @@
       "updatedAt": "2025-11-09T10:21:57.831Z",
       "original_date": "05-01-2022",
       "hijri_date": "3 Jumada al-Akhir, 1443 AH"
+    },
+    {
+      "id": 846,
+      "name": "મરહુમ હુસૈનભાઇ જીવનભાઇ કલવાણી",
+      "died": "1988-01-20T00:00:00.000Z",
+      "place": "સ્વામી ગઢડા ગુજરાત ઇન્ડિયા ",
+      "email": "Sajjadkaebalai@gmail.com",
+      "phone": 9408374812,
+      "initiatedBy": "sajjad Ali Husain Ali kalvani ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-11-12T15:07:36.466Z",
+      "updatedAt": "2025-11-12T15:07:36.466Z",
+      "original_date": "20-01-1988",
+      "hijri_date": "1 Jumada al-Akhir, 1408 AH"
     }
   ]
 }
