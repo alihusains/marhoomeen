@@ -5262,7 +5262,7 @@
     "createdAt": "2024-07-12T14:48:34.896Z",
     "updatedAt": "2024-07-12T14:48:34.896Z",
     "original_date": "18-08-2021",
-    "hijri_date": "10 Mahe Muharram, 1443 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 352,
@@ -7542,7 +7542,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "17-12-1990",
-    "hijri_date": "30 Jumada al-Awwal, 1411 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 504,
@@ -12928,5 +12928,50 @@
     "updatedAt": "2025-11-06T18:28:05.698Z",
     "original_date": "12-01-2006",
     "hijri_date": "12 Dhuʻl-Hijjah, 1426 AH"
+  },
+  {
+    "id": 863,
+    "name": "M.Husin Bhai Jevan Bhai Kalvani ",
+    "died": "1988-01-20T00:00:00.000Z",
+    "place": "Gadhada somena ",
+    "email": "Sajjadkaebalai@gemial.com",
+    "phone": 9408374812,
+    "initiatedBy": "Sajjad Ali Husin Ali kalvani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-13T19:50:43.490Z",
+    "updatedAt": "2025-11-13T19:50:43.490Z",
+    "original_date": "20-01-1988",
+    "hijri_date": "1 Jumada al-Akhir, 1408 AH"
+  },
+  {
+    "id": 864,
+    "name": "M.Sheren Banu Husin Bhai Kalvani ",
+    "died": "2016-05-05T00:00:00.000Z",
+    "place": "Gadhada Somena ",
+    "email": "Sajjadkaebalai@gemial.com",
+    "phone": 9408374812,
+    "initiatedBy": "Sajjad Ali Husin Ali kalvani ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-13T19:50:48.410Z",
+    "updatedAt": "2025-11-13T19:50:48.411Z",
+    "original_date": "05-05-2016",
+    "hijri_date": "28 Mahe Rajab, 1437 AH"
+  },
+  {
+    "id": 865,
+    "name": "M. Vajer Ali Husin Ali Kalvani ",
+    "died": "2001-10-05T00:00:00.000Z",
+    "place": "Gadhada somena",
+    "email": "Sajjadkaebalai@gemial.com",
+    "phone": 9408374812,
+    "initiatedBy": "Sajjad Ali Husin Ali kalvani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-13T19:50:53.304Z",
+    "updatedAt": "2025-11-13T19:50:53.304Z",
+    "original_date": "05-10-2001",
+    "hijri_date": "18 Mahe Rajab, 1422 AH"
   }
 ]
