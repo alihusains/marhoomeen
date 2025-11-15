@@ -819,9 +819,9 @@
       "phone": "",
       "initiatedBy": "",
       "status": true,
-      "gender": "",
-      "createdAt": "",
-      "updatedAt": "",
+      "gender": "female",
+      "createdAt": "2025-10-12T19:21:56.850Z",
+      "updatedAt": "2025-10-12T19:21:56.850Z",
       "original_date": "15-10-2025",
       "hijri_date": "24 Rabi' al-Akhir, 1447 AH"
     },
@@ -1669,16 +1669,16 @@
     },
     {
       "id": 851,
-      "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ \"સુરે ફાતેહા\" માં સ્ક્રોલિંગ થશે...",
+      "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
       "died": "2025-11-14T00:00:00.000Z",
       "place": "",
       "email": "",
       "phone": "",
-      "initiatedBy": "",
+      "initiatedBy": "admin",
       "status": true,
       "gender": "",
-      "createdAt": "",
-      "updatedAt": "",
+      "createdAt": "2025-11-12T21:08:28.290Z",
+      "updatedAt": "2025-11-12T21:08:28.290Z",
       "original_date": "14-11-2025",
       "hijri_date": "24 Jumada al-Awwal, 1447 AH"
     }
@@ -9676,7 +9676,7 @@
       "createdAt": "2024-04-06T13:04:43.694Z",
       "updatedAt": "2024-04-06T13:04:43.694Z",
       "original_date": "20-06-2022",
-      "hijri_date": "21 Dhuʻl-Qiʻdah, 1443 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": 282,
@@ -11193,7 +11193,7 @@
       "createdAt": "2025-05-03T21:33:33.626Z",
       "updatedAt": "2025-05-03T21:33:33.626Z",
       "original_date": "03-05-2025",
-      "hijri_date": "#ERROR!"
+      "hijri_date": "6 Dhuʻl-Qiʻdah, 1446 AH"
     },
     {
       "id": 665,
