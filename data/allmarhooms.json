@@ -12857,7 +12857,7 @@
   {
     "id": 858,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-11-20T00:00:00.000Z",
+    "died": "2025-11-21T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -12866,23 +12866,8 @@
     "gender": "",
     "createdAt": "2025-11-12T21:08:28.290Z",
     "updatedAt": "2025-11-12T21:08:28.290Z",
-    "original_date": "20-11-2025",
-    "hijri_date": "30 Jumada al-Awwal, 1447 AH"
-  },
-  {
-    "id": 859,
-    "name": "marhooma Jamila bibi ",
-    "died": "2015-07-20T00:00:00.000Z",
-    "place": "AHMEDABAD ",
-    "email": "mohammadalibukhari950@gmail.com",
-    "phone": 9427172071,
-    "initiatedBy": "Mohammad Ali BUKHARI ",
-    "status": false,
-    "gender": "female",
-    "createdAt": "2025-11-20T19:10:36.640Z",
-    "updatedAt": "2025-11-20T19:10:36.640Z",
-    "original_date": "20-07-2015",
-    "hijri_date": "4 Shawwal, 1436 AH"
+    "original_date": "21-11-2025",
+    "hijri_date": "1 Jumada al-Akhir, 1447 AH"
   },
   {
     "id": 860,
@@ -12913,5 +12898,20 @@
     "updatedAt": "2025-11-20T20:42:04.386Z",
     "original_date": "03-10-2025",
     "hijri_date": "12 Rabi' al-Akhir, 1447 AH"
+  },
+  {
+    "id": 862,
+    "name": "vajirali noor mohmmad bhai bhu6",
+    "died": "2008-11-11T00:00:00.000Z",
+    "place": "Talaja ",
+    "email": "Bhuranisahil225@gmail.com",
+    "phone": 8780798141,
+    "initiatedBy": "sahil",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-21T06:39:43.583Z",
+    "updatedAt": "2025-11-21T06:39:43.583Z",
+    "original_date": "11-11-2008",
+    "hijri_date": "14 Dhuʻl-Qiʻdah, 1429 AH"
   }
 ]
