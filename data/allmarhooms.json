@@ -12857,7 +12857,7 @@
   {
     "id": 858,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-11-21T00:00:00.000Z",
+    "died": "2025-11-22T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -12866,8 +12866,8 @@
     "gender": "",
     "createdAt": "2025-11-12T21:08:28.290Z",
     "updatedAt": "2025-11-12T21:08:28.290Z",
-    "original_date": "21-11-2025",
-    "hijri_date": "1 Jumada al-Akhir, 1447 AH"
+    "original_date": "22-11-2025",
+    "hijri_date": "2 Jumada al-Akhir, 1447 AH"
   },
   {
     "id": 860,
@@ -12913,5 +12913,50 @@
     "updatedAt": "2025-11-21T06:39:43.583Z",
     "original_date": "11-11-2008",
     "hijri_date": "14 Dhuʻl-Qiʻdah, 1429 AH"
+  },
+  {
+    "id": 863,
+    "name": "haji Muslim bhai nurbhai agharia ",
+    "died": "2002-07-11T00:00:00.000Z",
+    "place": "kanodar ",
+    "email": "saidagharia@yahoo.com",
+    "phone": 9898791666,
+    "initiatedBy": "saidali Muslim bhai agharia ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-22T06:23:31.858Z",
+    "updatedAt": "2025-11-22T06:23:31.858Z",
+    "original_date": "11-07-2002",
+    "hijri_date": "1 Jumada al-Awwal, 1423 AH"
+  },
+  {
+    "id": 864,
+    "name": "hajiyani Rajiya ben Muslim bhai agharia ",
+    "died": "2024-06-14T00:00:00.000Z",
+    "place": "kanodar ",
+    "email": "saidagharia@yahoo.com",
+    "phone": 9898791666,
+    "initiatedBy": "said Ali Muslim bhai agharia ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-11-22T06:27:07.710Z",
+    "updatedAt": "2025-11-22T06:27:07.710Z",
+    "original_date": "14-06-2024",
+    "hijri_date": "8 Dhuʻl-Hijjah, 1445 AH"
+  },
+  {
+    "id": 865,
+    "name": "Gulam Ali Shaban Ali Bhimani",
+    "died": "2025-01-23T00:00:00.000Z",
+    "place": "Bhavnagar",
+    "email": "mgb7865@gmail.com",
+    "phone": 9879072754,
+    "initiatedBy": "Mehbhb ali",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-11-22T14:26:51.352Z",
+    "updatedAt": "2025-11-22T14:26:51.352Z",
+    "original_date": "23-01-2025",
+    "hijri_date": "24 Mahe Rajab, 1446 AH"
   }
 ]
