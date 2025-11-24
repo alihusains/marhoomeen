@@ -13,5 +13,35 @@
     "updatedAt": "2025-08-18T04:01:34.067Z",
     "original_date": "02-03-2025",
     "hijri_date": "2 Mahe Ramadhan, 1446 AH"
+  },
+  {
+    "id": 866,
+    "name": "મરહુમા અમીનાબાઇ બિન્તે ખાનમોહંમ્મદ કપાસી",
+    "died": "2000-03-02T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+    "email": "ayeda14@gmail.com",
+    "phone": 9930501108,
+    "initiatedBy": "Ayeda",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-11-23T07:18:39.707Z",
+    "updatedAt": "2025-11-23T07:18:39.707Z",
+    "original_date": "02-03-2000",
+    "hijri_date": "26 Dhuʻl-Qiʻdah, 1420 AH"
+  },
+  {
+    "id": 867,
+    "name": "મરહુમા મનસુરાબેન યુસુફઅલી બુધવાણી ",
+    "died": "2025-03-02T00:00:00.000Z",
+    "place": "મઝગાંવ મુંબઈ ઇન્ડિયા ",
+    "email": "ayeda14@gmail.com",
+    "phone": 9930501108,
+    "initiatedBy": "Ayeda ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-11-23T07:21:37.928Z",
+    "updatedAt": "2025-11-23T07:21:37.928Z",
+    "original_date": "02-03-2025",
+    "hijri_date": "2 Mahe Ramadhan, 1446 AH"
   }
 ]
