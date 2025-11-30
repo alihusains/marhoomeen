@@ -989,6 +989,21 @@
       "updatedAt": "2025-11-23T16:39:43.825Z",
       "original_date": "05-10-2001",
       "hijri_date": "18 Mahe Rajab, 1422 AH"
+    },
+    {
+      "id": 876,
+      "name": "મરહુમ મોહંમ્મદઅલી વલીમોહંમ્મદ રવજાણી",
+      "died": "1982-10-12T00:00:00.000Z",
+      "place": "મોણપર ગુજરાત ઇન્ડિયા ",
+      "email": "abbasiravjani786@gmail.com",
+      "phone": 9033163363,
+      "initiatedBy": "Abbas Ali mahmad ravjani",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-11-29T14:18:27.586Z",
+      "updatedAt": "2025-11-29T14:18:27.586Z",
+      "original_date": "12-10-1982",
+      "hijri_date": "25 Dhuʻl-Hijjah, 1402 AH"
     }
   ],
   "11": [
@@ -1799,21 +1814,6 @@
       "gender": "",
       "createdAt": "",
       "updatedAt": "",
-      "original_date": "29-11-2025",
-      "hijri_date": "9 Jumada al-Akhir, 1447 AH"
-    },
-    {
-      "id": 875,
-      "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-      "died": "2025-11-29T00:00:00.000Z",
-      "place": "",
-      "email": "",
-      "phone": "",
-      "initiatedBy": "admin",
-      "status": true,
-      "gender": "",
-      "createdAt": "2025-11-12T21:08:28.290Z",
-      "updatedAt": "2025-11-12T21:08:28.290Z",
       "original_date": "29-11-2025",
       "hijri_date": "9 Jumada al-Akhir, 1447 AH"
     }
@@ -2915,7 +2915,7 @@
       "hijri_date": "14 Mahe Rajab, 1415 AH"
     },
     {
-      "id": 879,
+      "id": 880,
       "name": "મરહુમ યુસુફઅલી અબ્દુલહુસૈન ગોંડલીયા",
       "died": "2013-12-27T00:00:00.000Z",
       "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -12906,6 +12906,23 @@
       "updatedAt": "2025-11-22T14:26:51.352Z",
       "original_date": "23-01-2025",
       "hijri_date": "24 Mahe Rajab, 1446 AH"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 875,
+      "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
+      "died": "2025-11-30T00:00:00.000Z",
+      "place": "",
+      "email": "",
+      "phone": "",
+      "initiatedBy": "admin",
+      "status": true,
+      "gender": "",
+      "createdAt": "2025-11-12T21:08:28.290Z",
+      "updatedAt": "2025-11-12T21:08:28.290Z",
+      "original_date": "",
+      "hijri_date": ""
     }
   ]
 }
