@@ -462,7 +462,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "05-02-2021",
-    "hijri_date": "23 Jumada al-Akhir, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 32,
@@ -567,7 +567,7 @@
     "createdAt": "2024-02-04T06:28:54.291Z",
     "updatedAt": "2024-02-04T09:33:45.172Z",
     "original_date": "09-11-2014",
-    "hijri_date": "17 Mahe Muharram, 1436 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 39,
@@ -8547,7 +8547,7 @@
     "createdAt": "2025-03-04T14:36:37.733Z",
     "updatedAt": "2025-03-04T14:36:37.733Z",
     "original_date": "04-03-2025",
-    "hijri_date": "4 Mahe Ramadhan, 1446 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 571,
@@ -13172,7 +13172,7 @@
   {
     "id": 879,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-11-30T00:00:00.000Z",
+    "died": "2025-12-03T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -13196,6 +13196,21 @@
     "gender": "male",
     "createdAt": "2025-12-01T02:47:03.177Z",
     "updatedAt": "2025-12-01T02:47:03.177Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 887,
+    "name": "મરહૂમ વજીરભાઈ નુરભાઈ ઉમતીયા",
+    "died": "2018-12-14T00:00:00.000Z",
+    "place": "કાણોદર ",
+    "email": "rahab_umatia@yahoo.com",
+    "phone": 9998390070,
+    "initiatedBy": "રજબઅલી વજીર ભાઈ ઉમતીયા",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-12-03T08:15:30.332Z",
+    "updatedAt": "2025-12-03T08:15:30.333Z",
     "original_date": "",
     "hijri_date": ""
   }
