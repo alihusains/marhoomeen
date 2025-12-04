@@ -30,7 +30,7 @@
     "hijri_date": "14 Rabi' al-Awwal, 1445 AH"
   },
   {
-    "id": 526,
+    "id": 525,
     "name": "મરહુમ અમનઅલી સાદીકઅલી અઘારીયા",
     "died": "2023-09-29T00:00:00.000Z",
     "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
@@ -45,22 +45,7 @@
     "hijri_date": "14 Rabi' al-Awwal, 1445 AH"
   },
   {
-    "id": 617,
-    "name": "મરહુમ સલીમ હુસૈન અસગરઅલી હાલાણી",
-    "died": "2019-09-29T00:00:00.000Z",
-    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
-    "email": "mamdanisakina0@gmail.com",
-    "phone": 9898673667,
-    "initiatedBy": "mamdani sakina",
-    "status": true,
-    "gender": "male",
-    "createdAt": "2025-03-22T02:54:50.797Z",
-    "updatedAt": "2025-03-22T02:54:50.797Z",
-    "original_date": "29-09-2019",
-    "hijri_date": "1 Mahe Safar, 1441 AH"
-  },
-  {
-    "id": 791,
+    "id": 788,
     "name": "મરહુમા ઝહેરાબાનું હસનાભાઇ મોમીન",
     "died": "2025-09-29T00:00:00.000Z",
     "place": "USA",
