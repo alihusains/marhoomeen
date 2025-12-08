@@ -13050,7 +13050,7 @@
     "hijri_date": "28 Mahe Muharram, 1442 AH"
   },
   {
-    "id": 878,
+    "id": 879,
     "name": "મરહુમ યુસુફઅલી અબ્દુલહુસૈન ગોંડલીયા",
     "died": "2013-12-27T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -13140,9 +13140,24 @@
     "hijri_date": "7 Rabi' al-Akhir, 1440 AH"
   },
   {
+    "id": 888,
+    "name": "મરહુમ અકબરઅલી વલીભાઇ પાશેરીયા ",
+    "died": "2011-02-16T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+    "email": "asfaqwtc@gmail.com",
+    "phone": 9898771784,
+    "initiatedBy": "asfakali",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-12-07T17:48:08.132Z",
+    "updatedAt": "2025-12-07T17:48:08.132Z",
+    "original_date": "16-02-2011",
+    "hijri_date": "13 Rabi' al-Awwal, 1432 AH"
+  },
+  {
     "id": 876,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-12-06T00:00:00.000Z",
+    "died": "2025-12-08T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -13151,8 +13166,8 @@
     "gender": "",
     "createdAt": "2025-11-12T21:08:28.290Z",
     "updatedAt": "2025-11-12T21:08:28.290Z",
-    "original_date": "06-12-2025",
-    "hijri_date": "16 Jumada al-Akhir, 1447 AH"
+    "original_date": "08-12-2025",
+    "hijri_date": "18 Jumada al-Akhir, 1447 AH"
   },
   {
     "id": 886,
@@ -13166,36 +13181,6 @@
     "gender": "male",
     "createdAt": "2025-12-01T02:47:03.177Z",
     "updatedAt": "2025-12-01T02:47:03.177Z",
-    "original_date": "23-01-2021",
-    "hijri_date": "10 Jumada al-Akhir, 1442 AH"
-  },
-  {
-    "id": 887,
-    "name": "yakubali akbarali paseriya ",
-    "died": "2025-11-18T00:00:00.000Z",
-    "place": "kanodar",
-    "email": "asfaqwtc@gmail.com",
-    "phone": 9898771784,
-    "initiatedBy": "asfakali",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-12-07T17:48:04.909Z",
-    "updatedAt": "2025-12-07T17:48:04.909Z",
-    "original_date": "",
-    "hijri_date": ""
-  },
-  {
-    "id": 888,
-    "name": "akbarali valibhai paseriya ",
-    "died": "2011-02-16T00:00:00.000Z",
-    "place": "kanodar",
-    "email": "asfaqwtc@gmail.com",
-    "phone": 9898771784,
-    "initiatedBy": "asfakali",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2025-12-07T17:48:08.132Z",
-    "updatedAt": "2025-12-07T17:48:08.132Z",
     "original_date": "",
     "hijri_date": ""
   }
