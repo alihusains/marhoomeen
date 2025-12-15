@@ -13243,5 +13243,50 @@
     "updatedAt": "2025-12-13T22:52:49.347Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 891,
+    "name": "Afrinfatema Turabali Datari",
+    "died": "2022-05-29T00:00:00.000Z",
+    "place": "Bhavnagar ",
+    "email": "sohilmerchant414@gmail.com",
+    "phone": 9374969640,
+    "initiatedBy": "Sohil N Merchant ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-12-14T20:40:35.047Z",
+    "updatedAt": "2025-12-14T20:40:35.047Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 892,
+    "name": "Rubabbanu Maganbhai virani",
+    "died": "2015-01-17T00:00:00.000Z",
+    "place": "Bhavnagar ",
+    "email": "sohilmerchant414@gmail.com",
+    "phone": 9374969640,
+    "initiatedBy": "Sohil N Merchant ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-12-14T20:40:38.450Z",
+    "updatedAt": "2025-12-14T20:40:38.450Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 893,
+    "name": "Haidarali Bhanjibhai Merchant ",
+    "died": "2015-06-07T00:00:00.000Z",
+    "place": "Bhavnagar ",
+    "email": "sohilmerchant414@gmail.com",
+    "phone": 9374969640,
+    "initiatedBy": "Sohil N Merchant ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-12-14T20:40:43.361Z",
+    "updatedAt": "2025-12-14T20:40:43.361Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
