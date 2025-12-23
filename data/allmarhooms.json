@@ -13348,5 +13348,20 @@
     "updatedAt": "2025-12-18T14:27:51.440Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 898,
+    "name": "Jamalbhai Mohamad Bhai Momin",
+    "died": "2000-09-30T00:00:00.000Z",
+    "place": "Ahmedabad",
+    "email": "kabirmomin57@yahoo.com",
+    "phone": 3344153500,
+    "initiatedBy": "Salim Momin",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-12-22T12:28:08.724Z",
+    "updatedAt": "2025-12-22T12:28:08.724Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
