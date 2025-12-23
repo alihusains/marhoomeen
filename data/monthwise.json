@@ -1004,6 +1004,21 @@
       "updatedAt": "2025-11-29T14:18:27.586Z",
       "original_date": "12-10-1982",
       "hijri_date": "25 Dhuʻl-Hijjah, 1402 AH"
+    },
+    {
+      "id": 878,
+      "name": "મરહુમ ગુલામરઝા નઝરઅલી મરચન્ટ",
+      "died": "2019-10-07T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "mse4112@Gmail.com",
+      "phone": 9879794112,
+      "initiatedBy": "સલીમ મરચન્ટ ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-15T21:50:08.346Z",
+      "updatedAt": "2025-12-15T21:50:08.346Z",
+      "original_date": "07-10-2019",
+      "hijri_date": "9 Mahe Safar, 1441 AH"
     }
   ],
   "11": [
@@ -2870,7 +2885,7 @@
       "hijri_date": "14 Mahe Rajab, 1415 AH"
     },
     {
-      "id": 879,
+      "id": 871,
       "name": "મરહુમ યુસુફઅલી અબ્દુલહુસૈન ગોંડલીયા",
       "died": "2013-12-27T00:00:00.000Z",
       "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -2885,7 +2900,7 @@
       "hijri_date": "24 Mahe Safar, 1435 AH"
     },
     {
-      "id": 887,
+      "id": 876,
       "name": "મરહૂમ વજીરભાઈ નુરભાઈ ઉમતીયા",
       "died": "2018-12-14T00:00:00.000Z",
       "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -2898,21 +2913,6 @@
       "updatedAt": "2025-12-03T08:15:30.333Z",
       "original_date": "14-12-2018",
       "hijri_date": "7 Rabi' al-Akhir, 1440 AH"
-    },
-    {
-      "id": 876,
-      "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-      "died": "2025-12-22T00:00:00.000Z",
-      "place": "",
-      "email": "",
-      "phone": "",
-      "initiatedBy": "admin",
-      "status": true,
-      "gender": "",
-      "createdAt": "2025-11-12T21:08:28.290Z",
-      "updatedAt": "2025-11-12T21:08:28.290Z",
-      "original_date": "22-12-2025",
-      "hijri_date": "2 Mahe Rajab, 1447 AH"
     }
   ],
   "02": [
@@ -3922,7 +3922,7 @@
       "hijri_date": "3 Jumada al-Akhir, 1439 AH"
     },
     {
-      "id": 888,
+      "id": 877,
       "name": "મરહુમ અકબરઅલી વલીભાઇ પાશેરીયા ",
       "died": "2011-02-16T00:00:00.000Z",
       "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -12906,6 +12906,188 @@
       "updatedAt": "2025-11-22T14:26:51.352Z",
       "original_date": "23-01-2025",
       "hijri_date": "24 Mahe Rajab, 1446 AH"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 879,
+      "name": "મરહુમા કુબ્રાબાનું જીવરાજભાઈ અશારીઆ",
+      "died": "2014-06-23T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "mse4112@Gmail.com",
+      "phone": 9879794112,
+      "initiatedBy": "સલીમ મરચન્ટ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-12-15T21:54:21.747Z",
+      "updatedAt": "2025-12-15T21:54:21.747Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 880,
+      "name": "મરહુમ બુખારી મુસ્તાકહુસૈન યાકુબહુસૈન",
+      "died": "2021-01-23T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "મુદસ્સરએમબુખારી@જીમેઇલ.કોમ",
+      "phone": 9898047486,
+      "initiatedBy": "બુખારી મુદસરહુસૈન મુસ્તાકહુસૈન",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-01T02:47:03.177Z",
+      "updatedAt": "2025-12-01T02:47:03.177Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 881,
+      "name": "મરહુમા ખૈરૂન્નિશાબાનું રમઝાનઅલી ફતવાની",
+      "died": "2025-12-11T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "gulamraza@gmali.com",
+      "phone": 9904061372,
+      "initiatedBy": "gulamraza",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-12-12T09:06:22.062Z",
+      "updatedAt": "2025-12-12T09:06:22.062Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 882,
+      "name": "મરહુમ જાવીદહુસૈન અનવરઅલી બુધવાણી",
+      "died": "2023-08-08T00:00:00.000Z",
+      "place": "અંકલેશ્વર  ગુજરાત ઇન્ડિયા ",
+      "email": "muskanbudhwani15@gmail.com",
+      "phone": 7383031515,
+      "initiatedBy": "Datari Muskan Fatema",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-12T14:08:50.322Z",
+      "updatedAt": "2025-12-12T14:08:50.322Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 883,
+      "name": "મરહુમા કુલશુમબેન હસનઅલી ગની",
+      "died": "2025-12-13T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "anishthara1564@gmail.com",
+      "phone": 430887864,
+      "initiatedBy": "Anismahendi",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-12-13T22:52:49.347Z",
+      "updatedAt": "2025-12-13T22:52:49.347Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 884,
+      "name": "મરહુમા અફરીનફાતેમા તુરાબઅલી દાતારી",
+      "died": "2022-05-29T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "sohilmerchant414@gmail.com",
+      "phone": 9374969640,
+      "initiatedBy": "Sohil N Merchant ",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-12-14T20:40:35.047Z",
+      "updatedAt": "2025-12-14T20:40:35.047Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 885,
+      "name": "મરહુમા રૂબાબબાનું મગનભાઇ વીરાણી",
+      "died": "2015-01-17T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "sohilmerchant414@gmail.com",
+      "phone": 9374969640,
+      "initiatedBy": "Sohil N Merchant ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-14T20:40:38.450Z",
+      "updatedAt": "2025-12-14T20:40:38.450Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 886,
+      "name": "મરહુમ હૈદરઅલી ભાણજીભાઇ મરચન્ટ",
+      "died": "2015-06-07T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "sohilmerchant414@gmail.com",
+      "phone": 9374969640,
+      "initiatedBy": "Sohil N Merchant ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-14T20:40:43.361Z",
+      "updatedAt": "2025-12-14T20:40:43.361Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 887,
+      "name": "મરહુમ મહમુદઅલી વલીમહમદ રવજાણી",
+      "died": "1982-12-15T00:00:00.000Z",
+      "place": "મોણપર ગુજરાત ઇન્ડિયા ",
+      "email": "abbasiravjani786@gmail.com",
+      "phone": 9033163363,
+      "initiatedBy": "abbas Ali ravjani ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-15T21:15:08.752Z",
+      "updatedAt": "2025-12-15T21:15:08.752Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 888,
+      "name": "મરહુમ ફીદાહુસૈન ગુલામહુસૈન મરચન્ટ",
+      "died": "2025-12-18T00:00:00.000Z",
+      "place": "મહુવા ગુજરાત ઇન્ડિયા ",
+      "email": "kasimraza313@gmail.com",
+      "phone": 7878640114,
+      "initiatedBy": "KasimRaza AmirAli Merchant ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-18T14:27:51.440Z",
+      "updatedAt": "2025-12-18T14:27:51.440Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 889,
+      "name": "મરહુમ જમાલભાઇ મોહંમ્મદભાઇ મોમીન",
+      "died": "2000-09-30T00:00:00.000Z",
+      "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+      "email": "kabirmomin57@yahoo.com",
+      "phone": 3344153500,
+      "initiatedBy": "Salim Momin",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-22T12:28:08.724Z",
+      "updatedAt": "2025-12-22T12:28:08.724Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
+    {
+      "id": 890,
+      "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
+      "died": "2025-12-23T00:00:00.000Z",
+      "place": "",
+      "email": "",
+      "phone": "",
+      "initiatedBy": "admin",
+      "status": true,
+      "gender": "",
+      "createdAt": "2025-11-12T21:08:28.290Z",
+      "updatedAt": "2025-11-12T21:08:28.290Z",
+      "original_date": "",
+      "hijri_date": ""
     }
   ]
 }
