@@ -4152,7 +4152,7 @@
     "createdAt": "2024-04-07T12:57:21.856Z",
     "updatedAt": "2024-04-07T12:57:21.856Z",
     "original_date": "09-01-2011",
-    "hijri_date": "5 Mahe Safar, 1432 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 278,
@@ -13376,6 +13376,21 @@
     "gender": "female",
     "createdAt": "2025-12-23T11:48:56.518Z",
     "updatedAt": "2025-12-23T11:48:56.518Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 893,
+    "name": "મ. હાજી નિશાર અલી રમજાન અલી બદામી",
+    "died": "2020-12-18T00:00:00.000Z",
+    "place": "ભાવનગર ગુજરાત",
+    "email": "abbas.s.bhojani786@gmail.com",
+    "phone": 7817861414,
+    "initiatedBy": "મહમદ અબ્બાસ શોકતઅલી ભોજાણી",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-12-23T23:09:32.122Z",
+    "updatedAt": "2025-12-23T23:09:32.122Z",
     "original_date": "",
     "hijri_date": ""
   }
