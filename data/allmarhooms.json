@@ -13678,5 +13678,35 @@
     "updatedAt": "2025-11-12T21:08:28.290Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 913,
+    "name": "મરહૂમ અબ્દુલહુસૈન માસુમઅલી વાડીયા",
+    "died": "2014-02-13T00:00:00.000Z",
+    "place": "Mahuva",
+    "email": "metrocomputer80000@gmail.com",
+    "phone": 9824504100,
+    "initiatedBy": "મરહૂમ અબ્દુલહુસૈન માસુમઅલી વાડીયા ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-12-28T06:40:10.043Z",
+    "updatedAt": "2025-12-28T06:40:10.043Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 914,
+    "name": "બશીરાબાનું રાજાહુસૈન મર્ચન્ટ ",
+    "died": "2015-07-01T00:00:00.000Z",
+    "place": "મહુવા",
+    "email": "metrocomputer80000@gmail.com",
+    "phone": 9824504100,
+    "initiatedBy": "Sarfaraz Wadia",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2025-12-28T06:45:13.059Z",
+    "updatedAt": "2025-12-28T06:45:13.059Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
