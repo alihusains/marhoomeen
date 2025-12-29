@@ -13697,7 +13697,7 @@
   {
     "id": 912,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2025-12-28T00:00:00.000Z",
+    "died": "2025-12-29T00:00:00.000Z",
     "place": "",
     "email": "",
     "phone": "",
@@ -13901,6 +13901,21 @@
     "gender": "male",
     "createdAt": "2025-12-28T14:26:50.003Z",
     "updatedAt": "2025-12-28T14:26:50.003Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 926,
+    "name": "  mohammad hussain hafiz",
+    "died": "2017-01-27T00:00:00.000Z",
+    "place": "Bhavnagar ",
+    "email": "ktcpowertools@gmail.com",
+    "phone": 80002372,
+    "initiatedBy": "mahdi hafiz ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2025-12-29T13:19:08.084Z",
+    "updatedAt": "2025-12-29T13:19:08.084Z",
     "original_date": "",
     "hijri_date": ""
   }
