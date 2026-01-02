@@ -4827,7 +4827,7 @@
     "createdAt": "2024-05-30T18:03:41.692Z",
     "updatedAt": "2024-05-30T18:03:41.692Z",
     "original_date": "05-10-2005",
-    "hijri_date": "2 Mahe Ramadhan, 1426 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 323,
@@ -14096,6 +14096,51 @@
     "gender": "male",
     "createdAt": "2026-01-01T16:42:29.880Z",
     "updatedAt": "2026-01-01T16:42:29.880Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 914,
+    "name": "મહેંદીહુશેન મોહંમદભાઈ ચૌધરી ",
+    "died": "2021-01-02T00:00:00.000Z",
+    "place": "કાણોદર તા.પાલનપુર જી.બનાશકોઠા",
+    "email": "alimahammadpogalva@yahoo.com",
+    "phone": 9898560412,
+    "initiatedBy": "અલીમોહંમદ ડોસનભાઈ પોગલવા ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-02T15:21:19.000Z",
+    "updatedAt": "2026-01-02T15:21:19.000Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 915,
+    "name": "Zahir abbas Ali hussain jamani",
+    "died": "2022-03-28T00:00:00.000Z",
+    "place": "Rajula",
+    "email": "afsinfatemajamani@gmail.com",
+    "phone": 7069777978,
+    "initiatedBy": "fatema",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-02T15:36:40.821Z",
+    "updatedAt": "2026-01-02T15:36:40.821Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 916,
+    "name": "Gulam Abbas Akbar ali Nayani",
+    "died": "2025-12-12T00:00:00.000Z",
+    "place": "Surat",
+    "email": "afsinfatemajamani@gmail.com",
+    "phone": 7069777978,
+    "initiatedBy": "fatema",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-02T15:36:44.177Z",
+    "updatedAt": "2026-01-02T15:36:44.177Z",
     "original_date": "",
     "hijri_date": ""
   }
