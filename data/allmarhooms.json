@@ -14203,5 +14203,35 @@
     "updatedAt": "2026-01-04T15:28:32.662Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 945,
+    "name": "AsgarAli.Karmaali.Bhimani",
+    "died": "2016-03-16T00:00:00.000Z",
+    "place": "Maliya(Miyana)",
+    "email": "bhimanirubhina786@gmail.com",
+    "phone": 6352859769,
+    "initiatedBy": "Rubina AkhtarAli Bhimani ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-05T07:06:15.765Z",
+    "updatedAt": "2026-01-05T07:06:15.765Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 946,
+    "name": "ઝુલ્ફીકારઅલી મલંગ મિયા સૈયદ ",
+    "died": "2021-03-07T00:00:00.000Z",
+    "place": "વડોદરા ગુજરાત ",
+    "email": "mazharalimirza960@gmail.com",
+    "phone": 9429511472,
+    "initiatedBy": "સૈયદ ગોશિય બાનુ ઝુલ્ફીકારઅલી ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-05T09:34:58.989Z",
+    "updatedAt": "2026-01-05T09:34:58.989Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
