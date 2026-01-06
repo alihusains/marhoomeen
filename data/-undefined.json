@@ -960,7 +960,7 @@
     "hijri_date": ""
   },
   {
-    "id": 946,
+    "id": 947,
     "name": "મરહુમ મોહંમ્મદભાઇ યારભાઇ સુનસરા",
     "died": "1990-09-30T00:00:00.000Z",
     "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -986,6 +986,21 @@
     "gender": "female",
     "createdAt": "2026-01-03T09:27:34.103Z",
     "updatedAt": "2026-01-03T09:27:34.103Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 945,
+    "name": "મરહુમ અસગર અલી કરમાલીભાઇ ભીમાણી",
+    "died": "2016-03-16T00:00:00.000Z",
+    "place": "માલીયા મિયાણા ગુજરાત ઇન્ડિયા ",
+    "email": "bhimanirubhina786@gmail.com",
+    "phone": 6352859769,
+    "initiatedBy": "Rubina AkhtarAli Bhimani ",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2026-01-05T07:06:15.765Z",
+    "updatedAt": "2026-01-05T07:06:15.765Z",
     "original_date": "",
     "hijri_date": ""
   },
