@@ -14353,5 +14353,35 @@
     "updatedAt": "2026-01-09T19:41:29.490Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 963,
+    "name": "M.masumabanu.m.muni.",
+    "died": "2022-02-16T00:00:00.000Z",
+    "place": "તળાજા",
+    "email": "rp3730105@gmail.com",
+    "phone": 9924292969,
+    "initiatedBy": "Riyajali.A.patel",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-01-10T22:44:08.497Z",
+    "updatedAt": "2026-01-10T22:44:08.497Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 964,
+    "name": "shokat Ali haji yusufali nayani",
+    "died": "2000-10-02T00:00:00.000Z",
+    "place": "BHAVANGAR,HAJI NAJI KABRISTAN, 3 MAHE RAJAB ",
+    "email": "alamdarmarine@yahoo.com",
+    "phone": 9662604252,
+    "initiatedBy": "sukena Abbas Ali farsata",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-10T23:02:14.278Z",
+    "updatedAt": "2026-01-10T23:02:14.278Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
