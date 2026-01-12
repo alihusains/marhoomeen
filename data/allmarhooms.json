@@ -14398,5 +14398,50 @@
     "updatedAt": "2026-01-11T14:15:57.187Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 966,
+    "name": "Hada Jetunben karimbhai ",
+    "died": "2025-11-29T00:00:00.000Z",
+    "place": "kanodar",
+    "email": "nilofarbanupolara@gmail.com",
+    "phone": 9662293360,
+    "initiatedBy": "polara Nilofar irfanali ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-01-12T12:55:01.474Z",
+    "updatedAt": "2026-01-12T12:55:01.474Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 967,
+    "name": "Hada Karimbhai Mamjibhai",
+    "died": "2020-02-04T00:00:00.000Z",
+    "place": "kanodar.",
+    "email": "nilofarbanupolara@gmail.com",
+    "phone": 9662293360,
+    "initiatedBy": "polara Nilofar irfanali ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-12T12:55:04.579Z",
+    "updatedAt": "2026-01-12T12:55:04.579Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 968,
+    "name": "polara Alimohmmad mamjibhai",
+    "died": "2026-01-05T00:00:00.000Z",
+    "place": "kanodar.",
+    "email": "nilofarbanupolara@gmail.com",
+    "phone": 9662293360,
+    "initiatedBy": "polara Nilofar irfanali ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-12T12:55:07.910Z",
+    "updatedAt": "2026-01-12T12:55:07.910Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
