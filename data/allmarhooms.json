@@ -9882,7 +9882,7 @@
     "createdAt": "2025-05-06T06:12:56.649Z",
     "updatedAt": "2025-05-06T06:12:56.649Z",
     "original_date": "14-08-2014",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "19 Shawwal, 1435 AH"
   },
   {
     "id": 660,
@@ -14726,6 +14726,51 @@
     "gender": "male",
     "createdAt": "2026-01-13T23:35:00.233Z",
     "updatedAt": "2026-01-13T23:35:00.233Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 989,
+    "name": "marhum razahusen gulamhusen kapasi",
+    "died": "2020-12-17T00:00:00.000Z",
+    "place": "bhavnagar ",
+    "email": "mhk721110@gmail.com",
+    "phone": 9227189214,
+    "initiatedBy": "mohammad husain kapasi ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-15T16:56:13.770Z",
+    "updatedAt": "2026-01-15T16:56:13.770Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 990,
+    "name": "marhuma fizzabanu binte gulamhusen jamani",
+    "died": "2017-12-20T00:00:00.000Z",
+    "place": "bhavnagar",
+    "email": "mhk721110@gmail.com",
+    "phone": 9227189214,
+    "initiatedBy": "mohammad husain kapasi ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-01-15T16:56:16.419Z",
+    "updatedAt": "2026-01-15T16:56:16.419Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 991,
+    "name": "sherali gulamhusen jamani",
+    "died": "2004-03-19T00:00:00.000Z",
+    "place": "mahuva",
+    "email": "mhk721110@gmail.com",
+    "phone": 9227189214,
+    "initiatedBy": "mohammad husain kapasi ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-15T16:56:18.870Z",
+    "updatedAt": "2026-01-15T16:56:18.870Z",
     "original_date": "",
     "hijri_date": ""
   }
