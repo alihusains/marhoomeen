@@ -9072,7 +9072,7 @@
     "createdAt": "2025-03-24T19:03:25.440Z",
     "updatedAt": "2025-03-24T19:03:25.440Z",
     "original_date": "31-01-2020",
-    "hijri_date": "7 Jumada al-Akhir, 1441 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 606,
@@ -14771,6 +14771,66 @@
     "gender": "male",
     "createdAt": "2026-01-15T16:56:18.870Z",
     "updatedAt": "2026-01-15T16:56:18.870Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 992,
+    "name": "Azhar abbass mustufahussain zaidi",
+    "died": "1995-10-20T00:00:00.000Z",
+    "place": "mahuva - Bhavnagar",
+    "email": "zainabzaidib@gmail.com",
+    "phone": 8439380075,
+    "initiatedBy": "zainab azarabbass zaidi",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-15T19:17:40.388Z",
+    "updatedAt": "2026-01-15T19:17:40.388Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 993,
+    "name": "Aslam husen Gulamrasul Gani",
+    "died": "2013-07-28T00:00:00.000Z",
+    "place": "kanodar Gujarat",
+    "email": "nidagani11@gmail.com",
+    "phone": 9978699214,
+    "initiatedBy": "Nida gani",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-15T19:53:47.751Z",
+    "updatedAt": "2026-01-15T19:53:47.751Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 994,
+    "name": "kulsum ben hasanali Gani",
+    "died": "2025-12-13T00:00:00.000Z",
+    "place": "kanodar Gujarat",
+    "email": "nidagani11@gmail.com",
+    "phone": 9978699214,
+    "initiatedBy": "Nida gani",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-01-15T19:53:50.116Z",
+    "updatedAt": "2026-01-15T19:53:50.116Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 995,
+    "name": "sirajali sabanali rupani ",
+    "died": "2016-01-12T00:00:00.000Z",
+    "place": "vijapdi",
+    "email": "murtuzjamani09@gmail.com",
+    "phone": 9913996574,
+    "initiatedBy": "murtujaali",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-16T00:07:45.149Z",
+    "updatedAt": "2026-01-16T00:07:45.149Z",
     "original_date": "",
     "hijri_date": ""
   }
