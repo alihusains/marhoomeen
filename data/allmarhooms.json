@@ -7332,7 +7332,7 @@
     "createdAt": "2024-12-10T22:48:09.842Z",
     "updatedAt": "2024-12-10T22:48:09.842Z",
     "original_date": "21-06-2001",
-    "hijri_date": "29 Rabi' al-Awwal, 1422 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 490,
@@ -14831,6 +14831,21 @@
     "gender": "male",
     "createdAt": "2026-01-16T00:07:45.149Z",
     "updatedAt": "2026-01-16T00:07:45.149Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 996,
+    "name": "saited mohsinodin ",
+    "died": "2023-08-14T00:00:00.000Z",
+    "place": "pirana ",
+    "email": "shahenursaiyed@gmail.com",
+    "phone": 7624016675,
+    "initiatedBy": "shahenur banu ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-17T05:23:44.372Z",
+    "updatedAt": "2026-01-17T05:23:44.372Z",
     "original_date": "",
     "hijri_date": ""
   }
