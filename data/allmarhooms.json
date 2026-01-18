@@ -14923,5 +14923,35 @@
     "updatedAt": "2026-01-17T15:12:58.231Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1002,
+    "name": "valiahmed Gulamhaider momin",
+    "died": "1998-05-26T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "mominmaleka5@gmail.com",
+    "phone": 9512123014,
+    "initiatedBy": "Malika Momin ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-18T07:18:59.643Z",
+    "updatedAt": "2026-01-18T07:18:59.643Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1003,
+    "name": "Nasim Gulamahmed momin ",
+    "died": "2023-10-05T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "mominmaleka5@gmail.com",
+    "phone": 9512123014,
+    "initiatedBy": "Malika Momin ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-01-18T14:24:51.225Z",
+    "updatedAt": "2026-01-18T14:24:51.225Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
