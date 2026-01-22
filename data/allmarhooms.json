@@ -15178,5 +15178,35 @@
     "updatedAt": "2026-01-22T06:34:16.255Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1019,
+    "name": "ali hussain daud kadiwala",
+    "died": "2010-06-05T00:00:00.000Z",
+    "place": "meta",
+    "email": "kadiwalakomelhussain@gmail.com",
+    "phone": 343275856,
+    "initiatedBy": "komeil",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-22T15:27:43.840Z",
+    "updatedAt": "2026-01-22T15:27:43.840Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1020,
+    "name": "haidar ali pyar ali balwa",
+    "died": "2010-06-06T00:00:00.000Z",
+    "place": "meta",
+    "email": "kadiwalakomelhussain@gmail.com",
+    "phone": 343275856,
+    "initiatedBy": "komeil",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-22T15:27:50.341Z",
+    "updatedAt": "2026-01-22T15:27:50.341Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
