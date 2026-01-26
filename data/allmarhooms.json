@@ -15388,5 +15388,35 @@
     "updatedAt": "2026-01-24T17:03:54.646Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1034,
+    "name": "Ali Akbar mohd Ali sunasara",
+    "died": "2021-06-29T00:00:00.000Z",
+    "place": "kanodar",
+    "email": "hasinaali@110gmail.com",
+    "phone": 9898538734,
+    "initiatedBy": "hasina",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-26T13:37:36.500Z",
+    "updatedAt": "2026-01-26T13:37:36.500Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1035,
+    "name": "noorbhai jivabhai sunasara",
+    "died": "1976-07-24T00:00:00.000Z",
+    "place": "kanodar ",
+    "email": "hasinaali110@gmail.com",
+    "phone": 9898538734,
+    "initiatedBy": "hasina",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-01-26T13:50:26.171Z",
+    "updatedAt": "2026-01-26T13:50:26.171Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
