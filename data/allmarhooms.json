@@ -15418,5 +15418,50 @@
     "updatedAt": "2026-02-01T01:47:52.108Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1029,
+    "name": "હૈદરઅલી ઇબ્રાહીમભાઇ સુરપુરા ",
+    "died": "2022-10-11T00:00:00.000Z",
+    "place": "સુરપુર",
+    "email": "અહેમદદેલા@ગ્મૈલ્.કોમ",
+    "phone": 8511702803,
+    "initiatedBy": "અહેમદઅબ્બાસ ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-02-01T18:48:42.763Z",
+    "updatedAt": "2026-02-01T18:48:42.763Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1030,
+    "name": "muddasir raza nathani",
+    "died": "2026-01-19T00:00:00.000Z",
+    "place": "bhavnagar ",
+    "email": "insiyafatemanathabi@gmail.com",
+    "phone": 9104167272,
+    "initiatedBy": "fatema nathani",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-02-01T23:07:34.719Z",
+    "updatedAt": "2026-02-01T23:07:34.719Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1031,
+    "name": "raziyaben nathani",
+    "died": "2026-01-22T00:00:00.000Z",
+    "place": "bhavnagar ",
+    "email": "insiyafatemanathabi@gmail.com",
+    "phone": 9104167272,
+    "initiatedBy": "fatema nathani",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-02-01T23:07:37.185Z",
+    "updatedAt": "2026-02-01T23:07:37.185Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
