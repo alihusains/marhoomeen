@@ -15210,36 +15210,6 @@
     "hijri_date": ""
   },
   {
-    "id": 1030,
-    "name": "muddasir raza nathani",
-    "died": "2026-01-19T00:00:00.000Z",
-    "place": "bhavnagar ",
-    "email": "insiyafatemanathabi@gmail.com",
-    "phone": 9104167272,
-    "initiatedBy": "fatema nathani",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2026-02-01T23:07:34.719Z",
-    "updatedAt": "2026-02-01T23:07:34.719Z",
-    "original_date": "",
-    "hijri_date": ""
-  },
-  {
-    "id": 1031,
-    "name": "raziyaben nathani",
-    "died": "2026-01-22T00:00:00.000Z",
-    "place": "bhavnagar ",
-    "email": "insiyafatemanathabi@gmail.com",
-    "phone": 9104167272,
-    "initiatedBy": "fatema nathani",
-    "status": false,
-    "gender": "female",
-    "createdAt": "2026-02-01T23:07:37.185Z",
-    "updatedAt": "2026-02-01T23:07:37.185Z",
-    "original_date": "",
-    "hijri_date": ""
-  },
-  {
     "id": 1032,
     "name": "Hasan",
     "died": "2026-02-03T00:00:00.000Z",
