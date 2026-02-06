@@ -15358,5 +15358,35 @@
     "updatedAt": "2026-02-04T03:13:20.040Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1025,
+    "name": "હાજીયાણી મુસ્લીબેન અહમદ હુસૈન શાહુ",
+    "died": "2023-07-01T00:00:00.000Z",
+    "place": "કાણોદર ગુજરાત ",
+    "email": "kashishfshahu786@gmail.com",
+    "phone": 7016976377,
+    "initiatedBy": "Fatema",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-02-05T19:35:17.025Z",
+    "updatedAt": "2026-02-05T19:35:17.025Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1026,
+    "name": "મરહુમા ખેરૂનીસા શેરઅલી મર્ચન્ટ ",
+    "died": "2021-06-01T00:00:00.000Z",
+    "place": "મહુવા ",
+    "email": "mfarasta34@gmail.com",
+    "phone": 9824832937,
+    "initiatedBy": "Mohsin FARASTA ",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-02-05T23:18:57.525Z",
+    "updatedAt": "2026-02-05T23:18:57.525Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
