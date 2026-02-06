@@ -15,7 +15,7 @@
     "hijri_date": "2 Mahe Ramadhan, 1426 AH"
   },
   {
-    "id": 823,
+    "id": 822,
     "name": "મરહુમ વજીરઅલી હુસૈનઅલી કલવાણી",
     "died": "2001-10-05T00:00:00.000Z",
     "place": "સ્વામી ગઢડા ગુજરાત ઇન્ડિયા ",
@@ -26,21 +26,6 @@
     "gender": "male",
     "createdAt": "2025-11-07T09:32:07.646Z",
     "updatedAt": "2025-11-07T09:32:07.646Z",
-    "original_date": "05-10-2001",
-    "hijri_date": "18 Mahe Rajab, 1422 AH"
-  },
-  {
-    "id": 864,
-    "name": "મરહુમ વજીરઅલી હુસૈનઅલી કલવાણી",
-    "died": "2001-10-05T00:00:00.000Z",
-    "place": "ગઢડા (સ્વામીના) ગુજરાત ઇન્ડિયા ",
-    "email": "Sajjadkaebalai@gmail.com",
-    "phone": 9408374812,
-    "initiatedBy": "સજજાદઅલી હુસૈનઅલી કલવાણી",
-    "status": true,
-    "gender": "male",
-    "createdAt": "2025-11-23T16:39:43.825Z",
-    "updatedAt": "2025-11-23T16:39:43.825Z",
     "original_date": "05-10-2001",
     "hijri_date": "18 Mahe Rajab, 1422 AH"
   }
