@@ -4227,7 +4227,7 @@
     "createdAt": "2024-04-18T16:48:09.311Z",
     "updatedAt": "2024-04-18T16:48:09.311Z",
     "original_date": "23-06-2013",
-    "hijri_date": "15 Shaʻban, 1434 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -15557,7 +15557,7 @@
   {
     "id": "",
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2026-02-15T00:00:00.000Z",
+    "died": "2026-02-16T00:00:00.000Z",
     "place": "---",
     "email": "",
     "phone": "",
@@ -15586,36 +15586,6 @@
   },
   {
     "id": "",
-    "name": "nasrudin munir abbasi",
-    "died": "2026-01-19T00:00:00.000Z",
-    "place": "lajapor jumma",
-    "email": "faridaibrahim@gmail.com",
-    "phone": 8153007837,
-    "initiatedBy": "farida abbasi",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2026-02-13T14:53:10.162Z",
-    "updatedAt": "2026-02-13T14:53:10.162Z",
-    "original_date": "",
-    "hijri_date": ""
-  },
-  {
-    "id": "",
-    "name": "nasrudin munir abbasi ",
-    "died": "2026-01-19T00:00:00.000Z",
-    "place": "lajapor ",
-    "email": "faridaibrahimbhamji@gmail.com",
-    "phone": 8153007837,
-    "initiatedBy": "farida bhamji ",
-    "status": false,
-    "gender": "male",
-    "createdAt": "2026-02-13T14:55:08.282Z",
-    "updatedAt": "2026-02-13T14:55:08.282Z",
-    "original_date": "",
-    "hijri_date": ""
-  },
-  {
-    "id": "",
     "name": "Mahek sultan mirza ",
     "died": "2026-02-13T00:00:00.000Z",
     "place": "Ahmedabad ",
@@ -15630,7 +15600,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1043,
+    "id": "",
     "name": "Mustufahusen Rajmohammad Pogalva ",
     "died": "2002-04-17T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15645,7 +15615,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1044,
+    "id": "",
     "name": "Anisulmehdi Mustufahusen Pogalva ",
     "died": "1999-10-17T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15660,7 +15630,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1045,
+    "id": "",
     "name": "Rajmahammad Alimadbhai Pogalva ",
     "died": "1986-11-17T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15675,7 +15645,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1046,
+    "id": "",
     "name": "Mariyamben Rajmahamadbhai Pogalva ",
     "died": "2005-09-13T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15690,7 +15660,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1047,
+    "id": "",
     "name": "Hasanbhai Rajmohamad Pogalva ",
     "died": "2021-05-24T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15705,7 +15675,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1048,
+    "id": "",
     "name": "Zarinaben(Hasanbhai Pogalva)Binte Karimbhai Chowdhary ",
     "died": "2010-04-28T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15720,7 +15690,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1049,
+    "id": "",
     "name": "Kanijfatema Hasanbhai Pogalva",
     "died": "2008-04-30T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15735,7 +15705,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1050,
+    "id": "",
     "name": "Tanvirali Mohamadhusen Marediya",
     "died": "2000-08-27T00:00:00.000Z",
     "place": "Kanodar North Gujarat ",
@@ -15750,7 +15720,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1051,
+    "id": "",
     "name": "ગુલામઅલી અલીમદ મરેડિયા ",
     "died": "2025-11-07T00:00:00.000Z",
     "place": "કાણોદર બનાસકાંઠા ઉત્તર ગુજરાત ",
@@ -15761,6 +15731,36 @@
     "gender": "male",
     "createdAt": "2026-02-16T06:44:06.223Z",
     "updatedAt": "2026-02-16T06:44:06.223Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1050,
+    "name": "હાજી અલીહુસૈન રજબઅલી ભીમાણી (ટાણાવાળા)",
+    "died": "2015-10-18T00:00:00.000Z",
+    "place": "ટાણા ભાવનગર",
+    "email": "Vazirsainab1998@gmail.com",
+    "phone": 9974688678,
+    "initiatedBy": "zainab nayani",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-02-16T15:05:43.162Z",
+    "updatedAt": "2026-02-16T15:05:43.162Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1051,
+    "name": "Fizza binte Anwar Ali kanani",
+    "died": "2015-02-01T00:00:00.000Z",
+    "place": "Kinshasa ",
+    "email": "ravjanimosin1@gmail.com",
+    "phone": 977731666,
+    "initiatedBy": "Mohsin Ravjani ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-02-16T13:34:59.997Z",
+    "updatedAt": "2026-02-16T13:34:59.997Z",
     "original_date": "",
     "hijri_date": ""
   }
