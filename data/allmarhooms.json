@@ -16093,5 +16093,35 @@
     "updatedAt": "2026-02-22T05:22:06.254Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1074,
+    "name": "Husen Ali Haji Fida Husen",
+    "died": "2020-07-20T00:00:00.000Z",
+    "place": "Talaja ",
+    "email": "Mohsin.bhurani@gmail.com",
+    "phone": 506526590,
+    "initiatedBy": "Mohsin Bhurani ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-02-22T20:28:00.234Z",
+    "updatedAt": "2026-02-22T20:28:00.234Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1075,
+    "name": "Roshan Banu Muhammad Ali Bhojani",
+    "died": "2024-07-14T00:00:00.000Z",
+    "place": "Talaja ",
+    "email": "Mohsin.bhurani@gmail.com",
+    "phone": 506526590,
+    "initiatedBy": "Mohsin Bhurani ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-02-22T20:28:03.632Z",
+    "updatedAt": "2026-02-22T20:28:03.632Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
