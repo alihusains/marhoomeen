@@ -13167,7 +13167,7 @@
     "createdAt": "2025-12-15T21:15:08.752Z",
     "updatedAt": "2025-12-15T21:15:08.752Z",
     "original_date": "15-12-1982",
-    "hijri_date": "30 Mahe Safar, 1403 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -16241,6 +16241,36 @@
     "gender": "male",
     "createdAt": "2026-02-26T15:00:31.869Z",
     "updatedAt": "2026-02-26T15:00:31.869Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1084,
+    "name": "Sher ali bhai gulam hussainbhai jamani",
+    "died": "2004-03-08T00:00:00.000Z",
+    "place": "mhv",
+    "email": "jamanikasim74@gmail.com",
+    "phone": 8980241214,
+    "initiatedBy": "jamani mohammad raza ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-02-26T19:24:53.956Z",
+    "updatedAt": "2026-02-26T19:24:53.956Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1085,
+    "name": "ફિઝઝા બિન્તેં અનવર અલી કાનાણી ",
+    "died": "2015-02-01T00:00:00.000Z",
+    "place": "Congo Kinshasa ",
+    "email": "ravjanimosin1@gmail.com",
+    "phone": 8140115117,
+    "initiatedBy": "મોહસીન રવજાણી ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-02-26T21:45:40.091Z",
+    "updatedAt": "2026-02-26T21:45:40.091Z",
     "original_date": "",
     "hijri_date": ""
   }
