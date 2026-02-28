@@ -13167,7 +13167,7 @@
     "createdAt": "2025-12-15T21:15:08.752Z",
     "updatedAt": "2025-12-15T21:15:08.752Z",
     "original_date": "15-12-1982",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "30 Mahe Safar, 1403 AH"
   },
   {
     "id": "",
@@ -16172,7 +16172,7 @@
   {
     "id": "",
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2026-02-26T00:00:00.000Z",
+    "died": "2026-02-28T00:00:00.000Z",
     "place": "---",
     "email": "",
     "phone": "",
@@ -16271,6 +16271,21 @@
     "gender": "female",
     "createdAt": "2026-02-26T21:45:40.091Z",
     "updatedAt": "2026-02-26T21:45:40.091Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1086,
+    "name": "mariyamben valibhai chodhary ",
+    "died": "2019-05-15T00:00:00.000Z",
+    "place": "Kanodar ",
+    "email": "parvinagharaya@gmail.com",
+    "phone": 9723279315,
+    "initiatedBy": "parvinben Umatiya ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-02-27T21:38:42.805Z",
+    "updatedAt": "2026-02-27T21:38:42.805Z",
     "original_date": "",
     "hijri_date": ""
   }
