@@ -447,7 +447,7 @@
     "createdAt": "2024-02-02T04:14:16.784Z",
     "updatedAt": "2024-02-02T08:25:03.999Z",
     "original_date": "08-04-1988",
-    "hijri_date": "21 Shaʻban, 1408 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -11487,7 +11487,7 @@
     "createdAt": "2025-09-16T11:42:09.687Z",
     "updatedAt": "2025-09-16T11:42:09.688Z",
     "original_date": "31-12-2020",
-    "hijri_date": "17 Jumada al-Awwal, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -16481,6 +16481,21 @@
     "gender": "male",
     "createdAt": "2026-03-06T22:19:19.676Z",
     "updatedAt": "2026-03-06T22:19:19.676Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1100,
+    "name": "મરહુમ રજબઅલી લાલજી બીજાની",
+    "died": "",
+    "place": "માળીયા મીયાણા",
+    "email": "gmb78611092@gmail.com",
+    "phone": 763366110,
+    "initiatedBy": "મેહદી બીજાની",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-03-07T05:01:45.690Z",
+    "updatedAt": "2026-03-07T05:01:45.690Z",
     "original_date": "",
     "hijri_date": ""
   }
