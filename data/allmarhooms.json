@@ -16453,5 +16453,35 @@
     "updatedAt": "2026-03-05T15:02:42.629Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1098,
+    "name": "સુલ્તાનઅલી મહંમદઅલી સુમરાણી ",
+    "died": "2025-04-29T00:00:00.000Z",
+    "place": "મહુવા ",
+    "email": "sohilsumrani@gmail.com",
+    "phone": 9979014786,
+    "initiatedBy": "sohil",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-03-06T18:49:16.725Z",
+    "updatedAt": "2026-03-06T18:49:16.725Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1099,
+    "name": "ગુલામઅકબર મોહંમદહુસેન મોમીન ",
+    "died": "2025-08-16T00:00:00.000Z",
+    "place": "બાગે સુકુન અમદાવાદ ",
+    "email": "kamaralimomin14@gmail.com",
+    "phone": 9377324298,
+    "initiatedBy": "કમરઅલી ગુલામ અકબર મોમીન ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-03-06T22:19:19.676Z",
+    "updatedAt": "2026-03-06T22:19:19.676Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
