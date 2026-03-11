@@ -16723,5 +16723,35 @@
     "updatedAt": "2026-03-11T05:42:45.796Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1116,
+    "name": " અબુલ હસન નુરભાઈ સુણસરા",
+    "died": "2016-06-27T00:00:00.000Z",
+    "place": "કાણોદર, ગુજરાત ",
+    "email": "sunasara9@gmail.com",
+    "phone": 545733786,
+    "initiatedBy": "મહંમદ કૌનેન સુણસરા",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-03-11T05:34:25.525Z",
+    "updatedAt": "2026-03-11T05:34:25.525Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1117,
+    "name": "કુરબાન હુસૈન અબુલ હસન સુણસરા",
+    "died": "2024-12-27T00:00:00.000Z",
+    "place": "કાણોદર, ગુજરાત ",
+    "email": "sunasara9@gmail.com",
+    "phone": 545733786,
+    "initiatedBy": "મહંમદ કૌનેન સુણસરા",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-03-11T05:34:31.254Z",
+    "updatedAt": "2026-03-11T05:34:31.254Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
