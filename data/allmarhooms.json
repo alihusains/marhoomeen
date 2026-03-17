@@ -10512,7 +10512,7 @@
     "createdAt": "2025-07-13T23:36:37.600Z",
     "updatedAt": "2025-07-13T23:36:37.600Z",
     "original_date": "12-07-2016",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "8 Shawwal, 1437 AH"
   },
   {
     "id": "",
@@ -16766,6 +16766,21 @@
     "gender": "male",
     "createdAt": "2026-03-12T01:20:24.180Z",
     "updatedAt": "2026-03-12T01:20:24.180Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1119,
+    "name": "Aziz Mamad Khoja (bhuj-kutch)",
+    "died": "2019-12-31T00:00:00.000Z",
+    "place": "Kinshasha, Africa",
+    "email": "aarzukhoja23@gmail.com",
+    "phone": 9173245309,
+    "initiatedBy": "Aarzufatema Aziz Khoja ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-03-17T05:51:46.705Z",
+    "updatedAt": "2026-03-17T05:51:46.705Z",
     "original_date": "",
     "hijri_date": ""
   }
