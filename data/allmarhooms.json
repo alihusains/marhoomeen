@@ -16798,5 +16798,20 @@
     "updatedAt": "2026-03-18T21:30:04.543Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1121,
+    "name": "Akbarbhai vajirbhai salema",
+    "died": "2009-03-20T00:00:00.000Z",
+    "place": "kanodar",
+    "email": "salemaaliasgaro5@gmail.com",
+    "phone": 9998687493,
+    "initiatedBy": "firozbhai",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-03-20T23:30:34.792Z",
+    "updatedAt": "2026-03-20T23:30:34.792Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
