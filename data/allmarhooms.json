@@ -16843,5 +16843,35 @@
     "updatedAt": "2026-03-28T18:05:21.954Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1124,
+    "name": "મ.હાજીયાણી આમેનાબાનુ બિન્તે રજબઅલી ભોજાણી ",
+    "died": "2025-08-26T00:00:00.000Z",
+    "place": "ભરૂચ",
+    "email": "danawalafiza@gmail.com",
+    "phone": 9427935512,
+    "initiatedBy": "સોહિલ હુસેન સીરજભાઈ દાનાવલા",
+    "status": false,
+    "gender": "female",
+    "createdAt": "2026-03-29T06:58:04.772Z",
+    "updatedAt": "2026-03-29T06:58:04.772Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1125,
+    "name": "સીરજભાઈ અબ્દુલ્લા દાણાવાળા (નાયાની)",
+    "died": "2015-10-15T00:00:00.000Z",
+    "place": "ડેડીયાપાડા ગુજરાત ઈન્ડિયા",
+    "email": "danawalafiza@gmail.com",
+    "phone": 9427935512,
+    "initiatedBy": "સોહીલહુસેન સીરજભાઈ દાનાવાણા",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-03-29T07:11:33.776Z",
+    "updatedAt": "2026-03-29T07:11:33.776Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
