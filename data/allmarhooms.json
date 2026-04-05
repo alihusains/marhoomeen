@@ -6807,7 +6807,7 @@
     "createdAt": "2024-10-06T13:56:23.526Z",
     "updatedAt": "2024-10-06T13:56:23.526Z",
     "original_date": "14-04-2022",
-    "hijri_date": "13 Mahe Ramadhan, 1443 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -7077,7 +7077,7 @@
     "createdAt": "2024-11-03T21:01:21.620Z",
     "updatedAt": "2024-11-03T21:01:21.620Z",
     "original_date": "22-05-2021",
-    "hijri_date": "11 Shawwal, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -9147,7 +9147,7 @@
     "createdAt": "2025-03-19T08:05:47.540Z",
     "updatedAt": "2025-03-19T08:05:47.541Z",
     "original_date": "30-09-2012",
-    "hijri_date": "14 Dhuʻl-Qiʻdah, 1433 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -16901,6 +16901,21 @@
     "gender": "male",
     "createdAt": "2026-04-02T21:59:29.163Z",
     "updatedAt": "2026-04-02T21:59:29.164Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1128,
+    "name": "આબીદઅલી ગુલામહુસેન મોમીન.લાઈટવાલા",
+    "died": "2015-10-27T00:00:00.000Z",
+    "place": "ગંજ શોહદા કબસતાન ..અમદાવાદ",
+    "email": "mom.adarsh@yahoo.com",
+    "phone": 9376111056,
+    "initiatedBy": "હસન અબબાસ આબીદઅલી મોમીન",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-04-05T14:38:06.772Z",
+    "updatedAt": "2026-04-05T14:38:06.772Z",
     "original_date": "",
     "hijri_date": ""
   }
