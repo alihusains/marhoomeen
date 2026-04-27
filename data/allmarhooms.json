@@ -17008,5 +17008,35 @@
     "updatedAt": "2026-04-25T20:45:30.108Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1139,
+    "name": "MEHROONNISA binte zahid husain naqvi",
+    "died": "2019-05-05T00:00:00.000Z",
+    "place": "mahuva Gujarat",
+    "email": "fatemabanu@gmail.com",
+    "phone": 9924632993,
+    "initiatedBy": "fatema sajjad husain naqvi",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-04-27T17:15:58.146Z",
+    "updatedAt": "2026-04-27T17:15:58.146Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1140,
+    "name": "AHEMADALI moula baqas naqvi",
+    "died": "2001-11-02T00:00:00.000Z",
+    "place": "randhiya amreli Gujarat",
+    "email": "fatemabanu@gmail.com",
+    "phone": 9924632993,
+    "initiatedBy": "fatema sajjad husain naqvi",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-04-27T17:24:29.316Z",
+    "updatedAt": "2026-04-27T17:24:29.316Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
