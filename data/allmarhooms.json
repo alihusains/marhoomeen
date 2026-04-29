@@ -12162,7 +12162,7 @@
     "createdAt": "2025-11-05T04:30:05.020Z",
     "updatedAt": "2025-11-05T04:30:05.020Z",
     "original_date": "07-06-2018",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "23 Mahe Ramadhan, 1439 AH"
   },
   {
     "id": "",
@@ -17036,6 +17036,36 @@
     "gender": "male",
     "createdAt": "2026-04-27T17:24:29.316Z",
     "updatedAt": "2026-04-27T17:24:29.316Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1141,
+    "name": "M.Mohsin Ali pyar ali bhimani",
+    "died": "2026-01-29T00:00:00.000Z",
+    "place": "Nagalpur",
+    "email": "ruhejalangay097@email.com",
+    "phone": 7698971870,
+    "initiatedBy": "Ruheja",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-04-28T21:51:28.401Z",
+    "updatedAt": "2026-04-28T21:51:28.401Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1142,
+    "name": "Asifali Fakirmohammad Chataiwala",
+    "died": "2024-05-14T00:00:00.000Z",
+    "place": "Atlanta, Georgia USA ",
+    "email": "firdosmomin621@gmail.com",
+    "phone": 6784630787,
+    "initiatedBy": "Firdos Momin",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-04-28T22:18:21.834Z",
+    "updatedAt": "2026-04-28T22:18:21.834Z",
     "original_date": "",
     "hijri_date": ""
   }
