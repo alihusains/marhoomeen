@@ -17218,5 +17218,35 @@
     "updatedAt": "2026-05-07T18:56:41.841Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1153,
+    "name": "માસુમઅલી મહેરઅલી વકીલ ",
+    "died": "1983-08-27T00:00:00.000Z",
+    "place": "ભાવનગર ",
+    "email": "a_a_vakik@yahoo.co.in",
+    "phone": 9824203203,
+    "initiatedBy": "અલીનકી માસુમઅલી વકીલ ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-05-08T20:34:20.180Z",
+    "updatedAt": "2026-05-08T20:34:20.180Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1154,
+    "name": "રૂકૈયાબેન માસુમઅલી વકીલ ",
+    "died": "2002-05-08T00:00:00.000Z",
+    "place": "ભાવનગર ",
+    "email": "a_a_vakik@yahoo.co.in",
+    "phone": 9824203203,
+    "initiatedBy": "અલીનકી માસુમઅલી વકીલ ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-05-08T20:34:23.800Z",
+    "updatedAt": "2026-05-08T20:34:23.800Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
