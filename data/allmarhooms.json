@@ -17353,5 +17353,35 @@
     "updatedAt": "2026-05-16T16:59:55.256Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1162,
+    "name": "Valibhai Pirbhai Chaudhery ",
+    "died": "1991-07-10T00:00:00.000Z",
+    "place": "kanodar, Gujrat,India ",
+    "email": "alikanodar@gmail.com",
+    "phone": 9157783110,
+    "initiatedBy": "Alihasan v Chaudhery ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-05-18T06:29:34.656Z",
+    "updatedAt": "2026-05-18T06:29:34.656Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1163,
+    "name": "Mariyamben Valibhai Chaudhery ",
+    "died": "2001-09-06T00:00:00.000Z",
+    "place": "kanodar, Gujrat, India ",
+    "email": "alikanodar@gmail.com",
+    "phone": 9157783110,
+    "initiatedBy": "Alihasan v Chaudhery ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-05-18T06:29:50.347Z",
+    "updatedAt": "2026-05-18T06:29:50.347Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
