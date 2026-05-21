@@ -11697,7 +11697,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "26-09-2025",
-    "hijri_date": "5 Rabi' al-Akhir, 1447 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -17471,6 +17471,66 @@
     "gender": "male",
     "createdAt": "2026-05-20T05:29:23.214Z",
     "updatedAt": "2026-05-20T05:29:23.214Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1170,
+    "name": "kadiwala mariyamben valibhai",
+    "died": "2015-05-01T00:00:00.000Z",
+    "place": "kanodar",
+    "email": "kadiwalamuskan12@gmil.com",
+    "phone": 7226856386,
+    "initiatedBy": "muskan kadiwala ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-05-20T20:35:42.512Z",
+    "updatedAt": "2026-05-20T20:35:42.512Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1171,
+    "name": "kadiwala valibhai",
+    "died": "1988-05-01T00:00:00.000Z",
+    "place": "kanodar",
+    "email": "kadiwalamuskan12@gmil.com",
+    "phone": 7226856386,
+    "initiatedBy": "muskan kadiwala ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-05-20T20:35:46.978Z",
+    "updatedAt": "2026-05-20T20:35:46.979Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1172,
+    "name": "chodhary mohammadbhai ",
+    "died": "1984-05-01T00:00:00.000Z",
+    "place": "kanodar",
+    "email": "kadiwalamuskan12@gmil.com",
+    "phone": 7226856386,
+    "initiatedBy": "muskan kadiwala ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-05-20T20:35:51.948Z",
+    "updatedAt": "2026-05-20T20:35:51.948Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1173,
+    "name": "Sibtenbhai Kikabhai ",
+    "died": "2026-05-21T00:00:00.000Z",
+    "place": "Vadodara Gujarat ",
+    "email": "aliakbarlokhandwala86@gmail.com",
+    "phone": 9825028244,
+    "initiatedBy": "Aliakbar Lokhandwala ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-05-21T06:12:17.767Z",
+    "updatedAt": "2026-05-21T06:12:17.767Z",
     "original_date": "",
     "hijri_date": ""
   }
