@@ -5596,7 +5596,7 @@
   },
   {
     "id": 374,
-    "name": " મરહુમા સુશાનબાનુ બિન્તે એહમદહુસૈન",
+    "name": "મરહુમા સુશાનબાનુ બિન્તે એહમદહુસૈન",
     "died": "2007-03-21T00:00:00.000Z",
     "place": "Jaffari Garden U.S.A",
     "email": "dmomin786@gmail.com",
@@ -16171,8 +16171,23 @@
   },
   {
     "id": 1079,
+    "name": "મરહુમા હાજીય‍ાણી નશીમબાનું બિન્તે હસનઅલી ઢેબર W/o મરહુમ હાજી અકબરઅલી કાસમઅલી સોરઠીયા (રાજા) { વફાત : ૩૦મી માહે શવ્વાલ ૧૪૪૦}",
+    "died": "2026-04-19T00:00:00.000Z",
+    "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:25:07.458Z",
+    "updatedAt": "2024-02-04T09:35:50.886Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1080,
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2026-05-22T00:00:00.000Z",
+    "died": "2026-05-23T00:00:00.000Z",
     "place": "---",
     "email": "",
     "phone": "",
@@ -16185,7 +16200,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1080,
+    "id": 1081,
     "name": "momin zarinabanu kamarali",
     "died": "2016-10-27T00:00:00.000Z",
     "place": "Dholka ",
@@ -16200,7 +16215,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1081,
+    "id": 1082,
     "name": "syed abderasul Miasaheb",
     "died": "1997-02-27T00:00:00.000Z",
     "place": "UNA",
@@ -16215,7 +16230,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1082,
+    "id": 1083,
     "name": "naqvi inayat abbas abrar husain",
     "died": "2020-07-06T00:00:00.000Z",
     "place": "kodinar gujrat",
@@ -16230,7 +16245,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1083,
+    "id": 1084,
     "name": "naqvi sahil abbas sibte hasan",
     "died": "2016-06-06T00:00:00.000Z",
     "place": "kodinar gujrat",
@@ -16245,7 +16260,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1084,
+    "id": 1085,
     "name": "Sher ali bhai gulam hussainbhai jamani",
     "died": "2004-03-08T00:00:00.000Z",
     "place": "mhv",
@@ -16260,7 +16275,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1085,
+    "id": 1086,
     "name": "મરહુમા ફિઝઝા બિન્તેં અનવર અલી કાનાણી ",
     "died": "2015-02-01T00:00:00.000Z",
     "place": "Congo Kinshasa ",
@@ -16275,7 +16290,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1086,
+    "id": 1087,
     "name": "mariyamben valibhai chodhary ",
     "died": "2019-05-15T00:00:00.000Z",
     "place": "Kanodar ",
@@ -16290,7 +16305,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1087,
+    "id": 1088,
     "name": "Karim Bhai Mohammad Bhai Chaudhary",
     "died": "2025-01-08T00:00:00.000Z",
     "place": "Kanodar",
@@ -16305,7 +16320,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1088,
+    "id": 1089,
     "name": "HABIBALI FIDAHUSAIN RATNANI (LONGIYAWALA)",
     "died": "2015-12-03T00:00:00.000Z",
     "place": "BHAVNAGAR (GUJARAT) INDIA",
@@ -16320,7 +16335,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1089,
+    "id": 1090,
     "name": "Samimhaider sadikhusain Rizvi ",
     "died": "2001-05-16T00:00:00.000Z",
     "place": "Jamnagar ",
@@ -16335,7 +16350,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1090,
+    "id": 1091,
     "name": "Manjurali ALIBUX SHEIKH ",
     "died": "2000-11-16T00:00:00.000Z",
     "place": "Ahmedabad ",
@@ -16350,7 +16365,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1091,
+    "id": 1092,
     "name": "saiyed mohammed iqbal ibne abutalib ",
     "died": "2019-03-20T00:00:00.000Z",
     "place": "Rustampura",
@@ -16365,7 +16380,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1092,
+    "id": 1093,
     "name": "મરહુમ રીઝવાન અલી માસુમઅલી રાજાણી ",
     "died": "2026-01-16T00:00:00.000Z",
     "place": "મહુવા ",
@@ -16380,7 +16395,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1093,
+    "id": 1094,
     "name": "મરહુમા કલીબેન બિન્તે કરીમભાઇ મુખી",
     "died": "1959-04-12T00:00:00.000Z",
     "place": "કાણોદર",
@@ -16395,7 +16410,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1094,
+    "id": 1095,
     "name": "M.Kherunben Najarali govani",
     "died": "2021-05-07T00:00:00.000Z",
     "place": "Rajula(Amreli)",
@@ -16410,7 +16425,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1095,
+    "id": 1096,
     "name": "akbar bhai kurban umatiya ",
     "died": "1999-07-07T00:00:00.000Z",
     "place": "kanodar ",
@@ -16425,7 +16440,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1096,
+    "id": 1097,
     "name": "zaheer abbsh rafik Husain virani ",
     "died": "2021-04-25T00:00:00.000Z",
     "place": "Bhavnagar Gujarat ",
@@ -16440,7 +16455,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1097,
+    "id": 1098,
     "name": "મરહુમ સુલ્તાનઅલી મહંમદઅલી સુમરાણી ",
     "died": "2025-04-29T00:00:00.000Z",
     "place": "મહુવા ",
@@ -16455,7 +16470,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1098,
+    "id": 1099,
     "name": "મરહુમ ગુલામઅકબર મોહંમદહુસેન મોમીન ",
     "died": "2025-08-16T00:00:00.000Z",
     "place": "બાગે સુકુન અમદાવાદ ",
@@ -16470,7 +16485,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1099,
+    "id": 1100,
     "name": "મરહુમ રજબઅલી લાલજી બીજાની",
     "died": "",
     "place": "માળીયા મીયાણા",
@@ -16485,7 +16500,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1100,
+    "id": 1101,
     "name": "મરહુમ વજીરઅલી રજબઅલી રાજાણી ",
     "died": "1995-08-01T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ",
@@ -16500,7 +16515,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1101,
+    "id": 1102,
     "name": "મરહુમા મરીયમબાનુ નજરઅલી રાજાણી ",
     "died": "2006-10-03T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ",
@@ -16515,7 +16530,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1102,
+    "id": 1103,
     "name": "મરહુમા રજીયાબાનુ વજીરઅલી રાજાણી ",
     "died": "2016-11-08T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ",
@@ -16530,7 +16545,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1103,
+    "id": 1104,
     "name": "મરહુમા દોલતબાનુ વજીરઅલી રાજાણી ",
     "died": "1973-03-10T00:00:00.000Z",
     "place": "કોજળી મહુવા ગુજરાત ",
@@ -16545,7 +16560,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1104,
+    "id": 1105,
     "name": "Gulambhai Fatubhai sunasara ( Pasheriya)",
     "died": "2017-01-07T00:00:00.000Z",
     "place": "Kanodar",
@@ -16560,7 +16575,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1105,
+    "id": 1106,
     "name": "Aminaben Gulambhai Sunasara ( Pasheriya)",
     "died": "2021-05-21T00:00:00.000Z",
     "place": "Kanodar",
@@ -16575,7 +16590,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1106,
+    "id": 1107,
     "name": "Kaliben Karimbhai Mukhi ",
     "died": "1959-04-08T00:00:00.000Z",
     "place": "kanodar ",
@@ -16590,7 +16605,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1107,
+    "id": 1108,
     "name": "મરહુમા બાદશાહબેગમ મીરઝાજાન મીરઝા ",
     "died": "2022-07-11T00:00:00.000Z",
     "place": "ખંભાત, જિલ્લો આણંદ ",
@@ -16605,7 +16620,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1108,
+    "id": 1109,
     "name": "મરહુમ મોહંમ્મદહુસૈન ઝુલ્ફીકારઅલી સૈયદ",
     "died": "2026-01-28T00:00:00.000Z",
     "place": "વડોદરા ",
@@ -16620,7 +16635,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1109,
+    "id": 1110,
     "name": "M.Fatema Banu jivraj Bhai kanar ",
     "died": "2009-01-27T00:00:00.000Z",
     "place": "Rajula ",
@@ -16635,7 +16650,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1110,
+    "id": 1111,
     "name": "hajiyani rashidabanu binte barkatali lakhani",
     "died": "2017-05-10T00:00:00.000Z",
     "place": "iran mashhad",
@@ -16650,7 +16665,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1111,
+    "id": 1112,
     "name": "haji shabbirali rajabali govani",
     "died": "2023-02-27T00:00:00.000Z",
     "place": "palitana ",
@@ -16665,7 +16680,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1112,
+    "id": 1113,
     "name": "Marhoom's Fizza ben binte Vali bhai",
     "died": "",
     "place": "ahmedabad ",
@@ -16680,7 +16695,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1113,
+    "id": 1114,
     "name": "મરહુમ અબુલ હસન નુરભાઈ સુણસરા",
     "died": "2016-06-27T00:00:00.000Z",
     "place": "કાણોદર, ગુજરાત ",
@@ -16695,7 +16710,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1114,
+    "id": 1115,
     "name": "મરહુમ કુરબાન હુસૈન અબુલ હસન સુણસરા",
     "died": "2024-12-27T00:00:00.000Z",
     "place": "કાણોદર, ગુજરાત ",
@@ -16710,7 +16725,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1115,
+    "id": 1116,
     "name": "મરહુમ રજબઅલી મોહંમ્મદભાઇ ઉમતીયા",
     "died": "",
     "place": "કાણોદર, ગુજરાત, ઇન્ડીયા",
@@ -16725,7 +16740,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1116,
+    "id": 1117,
     "name": "Aziz Mamad Khoja",
     "died": "2019-12-31T00:00:00.000Z",
     "place": "kinshasha, Africa",
@@ -16740,7 +16755,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1117,
+    "id": 1118,
     "name": "Akbarbhai vajirbhai salema",
     "died": "2009-03-20T00:00:00.000Z",
     "place": "kanodar",
@@ -16755,7 +16770,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1118,
+    "id": 1119,
     "name": "Asma ban ",
     "died": "2003-05-31T00:00:00.000Z",
     "place": "kanodar Gujarat ",
@@ -16770,7 +16785,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1119,
+    "id": 1120,
     "name": "marhum kaliben  binte Karimbhai Mukhi",
     "died": "1959-04-12T00:00:00.000Z",
     "place": "Kanodar Gujarat ",
@@ -16785,7 +16800,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1120,
+    "id": 1121,
     "name": "મરહુમા હાજીયાણી આમેનાબાનુ બિન્તે રજબઅલી ભોજાણી ",
     "died": "2025-08-26T00:00:00.000Z",
     "place": "ભરૂચ",
@@ -16800,7 +16815,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1121,
+    "id": 1122,
     "name": "મરહુમ સીરજભાઈ અબ્દુલ્લાભાઈ દાણાવાળા (નાયાની)",
     "died": "2015-10-15T00:00:00.000Z",
     "place": "ડેડીયાપાડા ગુજરાત ઈન્ડિયા",
@@ -16815,7 +16830,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1122,
+    "id": 1123,
     "name": "મરહુમ મીરઝાજાન હસનઅલી મીરઝા ",
     "died": "2009-10-16T00:00:00.000Z",
     "place": "ખંભાત, જિલ્લો આણંદ ",
@@ -16830,7 +16845,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1123,
+    "id": 1124,
     "name": "Haji Dr Parvez Qasim Nawab ",
     "died": "2025-12-25T00:00:00.000Z",
     "place": "Atlanta GA USA ",
@@ -16845,7 +16860,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1124,
+    "id": 1125,
     "name": "મરહુમ આબીદઅલી ગુલામહુસેન મોમીન(લાઈટવાલા)",
     "died": "2015-10-27T00:00:00.000Z",
     "place": "ગંજ શોહદા કબસતાન ..અમદાવાદ",
@@ -16860,7 +16875,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1125,
+    "id": 1126,
     "name": "મરહુમા ઝયનબબેન બિન્તે જીવાભાઈ સુણસરા",
     "died": "2026-04-08T00:00:00.000Z",
     "place": "મેતા ગુજરાત ઈન્ડીયા",
@@ -16875,7 +16890,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1126,
+    "id": 1127,
     "name": "મરહુમા હાજીયાણી શહેનાઝબેન બિન્તે અકબરઅલી ",
     "died": "2026-04-11T00:00:00.000Z",
     "place": "અમદાવાદ ",
@@ -16890,7 +16905,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1127,
+    "id": 1128,
     "name": "Ahmedhusen Karamhusen",
     "died": "2008-12-03T00:00:00.000Z",
     "place": "Ahemdabad ",
@@ -16905,7 +16920,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1128,
+    "id": 1129,
     "name": "Haji Fidahusen Ibne Mohammedbhai Vakil",
     "died": "2003-03-14T00:00:00.000Z",
     "place": "Ahmedabad ",
@@ -16920,7 +16935,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1129,
+    "id": 1130,
     "name": "મરહુમ સલીમહુસૈન ઇબ્ને ગુલામઅબબાસ મોમીન",
     "died": "2021-01-19T00:00:00.000Z",
     "place": "અમેરિકા એટલાનટા જનનતુલ બકી",
@@ -16935,7 +16950,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1130,
+    "id": 1131,
     "name": "Tanvir Hasan Nabi Bhai Momin",
     "died": "2021-09-21T00:00:00.000Z",
     "place": "Atlanta Georgia USA ",
@@ -16950,7 +16965,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1131,
+    "id": 1132,
     "name": "Marhum Yusuf Bhai Noor Mohammad Palsaniya",
     "died": "2006-04-18T00:00:00.000Z",
     "place": "Meta Gujarat",
@@ -16965,7 +16980,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1132,
+    "id": 1133,
     "name": "મરહુમ આદમભાઇ ઇબ્રાહિમભાઇ ઝાંખરા ",
     "died": "2026-04-10T00:00:00.000Z",
     "place": "રાજુલા ",
@@ -16980,7 +16995,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1133,
+    "id": 1134,
     "name": "alina banu musani",
     "died": "2026-03-30T00:00:00.000Z",
     "place": "Ahemdabad ",
@@ -16995,7 +17010,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1134,
+    "id": 1135,
     "name": "nashir ali panjwani",
     "died": "2021-02-21T00:00:00.000Z",
     "place": "Ahemdabad ",
@@ -17010,7 +17025,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1135,
+    "id": 1136,
     "name": "MEHROONNISA binte zahid husain naqvi",
     "died": "2019-05-05T00:00:00.000Z",
     "place": "mahuva Gujarat",
@@ -17025,7 +17040,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1136,
+    "id": 1137,
     "name": "AHEMADALI moula baqas naqvi",
     "died": "2001-11-02T00:00:00.000Z",
     "place": "randhiya amreli Gujarat",
@@ -17040,7 +17055,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1137,
+    "id": 1138,
     "name": "M.Mohsin Ali pyar ali bhimani",
     "died": "2026-01-29T00:00:00.000Z",
     "place": "Nagalpur",
@@ -17055,7 +17070,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1138,
+    "id": 1139,
     "name": "Asifali Fakirmohammad Chataiwala",
     "died": "2024-05-14T00:00:00.000Z",
     "place": "Atlanta, Georgia USA ",
@@ -17070,7 +17085,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1139,
+    "id": 1140,
     "name": "Asifali F Chataiwala ",
     "died": "2024-05-14T00:00:00.000Z",
     "place": "Atlanta, Georgia USA ",
@@ -17085,7 +17100,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1140,
+    "id": 1141,
     "name": "JAMILA BIBI MOHAMMAD KARIM",
     "died": "2015-06-10T00:00:00.000Z",
     "place": "AHMEDABAD ",
@@ -17100,7 +17115,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1141,
+    "id": 1142,
     "name": "Mohamad ali valibhai chaudhary ",
     "died": "2006-05-05T00:00:00.000Z",
     "place": "kanodar,  Gujrat ",
@@ -17115,7 +17130,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1142,
+    "id": 1143,
     "name": "Mohamadali V Chaudhery ",
     "died": "2006-05-05T00:00:00.000Z",
     "place": "kanodar, Gujrat ",
@@ -17130,7 +17145,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1143,
+    "id": 1144,
     "name": "shabanali sharifbhai rajani",
     "died": "2015-06-25T00:00:00.000Z",
     "place": "thaliya",
@@ -17145,7 +17160,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1144,
+    "id": 1145,
     "name": "ઈકબાલભાઈ મોહમ્મદભાઈ હસન ",
     "died": "2022-05-06T00:00:00.000Z",
     "place": "કાણોદર ",
@@ -17160,7 +17175,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1145,
+    "id": 1146,
     "name": "Mahendihusen Alimadbhai Hasan ",
     "died": "2025-05-07T00:00:00.000Z",
     "place": "kanodar ",
@@ -17175,7 +17190,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1146,
+    "id": 1147,
     "name": "RUKAIYYABANU GULAMHUSEIN ",
     "died": "2003-05-10T00:00:00.000Z",
     "place": "GADHADA ",
@@ -17190,7 +17205,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1147,
+    "id": 1148,
     "name": "RUKAIYYABANU GULAMHUSEIN ",
     "died": "2003-05-10T00:00:00.000Z",
     "place": "GADHADA ",
@@ -17205,7 +17220,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1148,
+    "id": 1149,
     "name": "RAMJANALI YUSUFALI MADHVANI ",
     "died": "2010-01-21T00:00:00.000Z",
     "place": "GADHADA ",
@@ -17220,7 +17235,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1149,
+    "id": 1150,
     "name": "માસુમઅલી મહેરઅલી વકીલ ",
     "died": "1983-08-27T00:00:00.000Z",
     "place": "ભાવનગર ",
@@ -17235,7 +17250,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1150,
+    "id": 1151,
     "name": "રૂકૈયાબેન માસુમઅલી વકીલ ",
     "died": "2002-05-08T00:00:00.000Z",
     "place": "ભાવનગર ",
@@ -17250,7 +17265,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1151,
+    "id": 1152,
     "name": "Marhum Mohammad Abbas Fazal Mohammad Gheewala ",
     "died": "2025-01-08T00:00:00.000Z",
     "place": "Viramgam ",
@@ -17265,7 +17280,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1152,
+    "id": 1153,
     "name": "Marhum Fazal Mohammad Ali Mohammed Gheewala ",
     "died": "2001-07-07T00:00:00.000Z",
     "place": "Viramgam ",
@@ -17280,7 +17295,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1153,
+    "id": 1154,
     "name": "Marhuma Maleka ben Aaga",
     "died": "2024-12-26T00:00:00.000Z",
     "place": "viramgam ",
@@ -17291,21 +17306,6 @@
     "gender": "male",
     "createdAt": "2026-05-11T18:04:28.540Z",
     "updatedAt": "2026-05-11T18:04:28.540Z",
-    "original_date": "",
-    "hijri_date": ""
-  },
-  {
-    "id": 1154,
-    "name": "ABID GULAM ABBAS DHEBAR ",
-    "died": "2024-05-27T00:00:00.000Z",
-    "place": "congo africa",
-    "email": "khoja1272@gmail.com",
-    "phone": 7048147272,
-    "initiatedBy": "mustafa amir ali kayani",
-    "status": "",
-    "gender": "male",
-    "createdAt": "2026-05-14T05:30:11.824Z",
-    "updatedAt": "2026-05-14T05:30:11.824Z",
     "original_date": "",
     "hijri_date": ""
   },
