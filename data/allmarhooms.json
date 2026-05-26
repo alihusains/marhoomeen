@@ -402,7 +402,7 @@
     "createdAt": "2024-02-04T06:04:08.005Z",
     "updatedAt": "2024-02-04T09:37:17.693Z",
     "original_date": "16-05-2021",
-    "hijri_date": "5 Shawwal, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -17561,6 +17561,21 @@
     "gender": "male",
     "createdAt": "2026-05-25T05:00:23.694Z",
     "updatedAt": "2026-05-25T05:00:23.694Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1172,
+    "name": "હુસેનઅલી અબ્દુલહુસેન કપાસી",
+    "died": "2014-03-09T00:00:00.000Z",
+    "place": "મહુવા ગુજરાત ",
+    "email": "murtuja14@gmail.com",
+    "phone": 9624053819,
+    "initiatedBy": "મુર્તઝા કપાસી ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-05-26T05:39:27.675Z",
+    "updatedAt": "2026-05-26T05:39:27.675Z",
     "original_date": "",
     "hijri_date": ""
   }
