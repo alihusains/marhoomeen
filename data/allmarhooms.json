@@ -17668,5 +17668,35 @@
     "updatedAt": "2026-05-27T18:00:31.522Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1178,
+    "name": "મહુઁમ ગુલામહૈદર ઇબને શાહમોંહમદ મેનેજર ",
+    "died": "2006-02-16T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ",
+    "email": "ab_111160@ymail.com",
+    "phone": 9924450543,
+    "initiatedBy": "હાજી અસદઅલી બાબાસાહેબ મોમીન ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-05-28T18:37:13.284Z",
+    "updatedAt": "2026-05-28T18:37:13.284Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1179,
+    "name": "મહુઁમા રશીદાબેન બિનતે ગુલામઅહેમદ માણાવદરવાળા ",
+    "died": "2016-09-17T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ",
+    "email": "ab_111160@ymail.com",
+    "phone": 9924450543,
+    "initiatedBy": "હાજી અસદઅલી બાબાસાહેબ મોમીન ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-05-28T18:37:16.128Z",
+    "updatedAt": "2026-05-28T18:37:16.128Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
