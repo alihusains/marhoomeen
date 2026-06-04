@@ -106,6 +106,36 @@
   },
   {
     "id": "",
+    "name": "મરહુમ હાજી અકબરઅલી કાસમઅલી સોરઠીયા (રાજા)  માલીયા-મિંયાણા",
+    "died": "2020-06-04T00:00:00.000Z",
+    "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:28:54.291Z",
+    "updatedAt": "2024-02-04T09:35:17.511Z",
+    "original_date": "04-06-2020",
+    "hijri_date": "13 Shawwal, 1441 AH"
+  },
+  {
+    "id": "",
+    "name": "મરહુમા હાજીય‍ાણી નશીમબાનું બિન્તે હસનઅલી ઢેબર W/o મરહુમ હાજી અકબરઅલી કાસમઅલી સોરઠીયા (રાજા) માલીયા-મિંયાણા",
+    "died": "2019-06-04T00:00:00.000Z",
+    "place": "માલીયા મિંયાણા ગુજરાત ઇન્ડિયા",
+    "email": "mimalif110@gmail.com",
+    "phone": 9969557682,
+    "initiatedBy": "MAS",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2024-02-04T06:25:07.458Z",
+    "updatedAt": "2024-02-04T09:35:50.886Z",
+    "original_date": "04-06-2019",
+    "hijri_date": "1 Shawwal, 1440 AH"
+  },
+  {
+    "id": "",
     "name": "મરહુમ રમઝ‍ાનઅલી ક‍ાસમઅલી સોરઠીયા (રાણાવાવવાલા)",
     "died": "2007-02-22T00:00:00.000Z",
     "place": "રાણાવાવ ગુજરાત ઇન્ડિયા ",
@@ -13151,8 +13181,8 @@
     "gender": "male",
     "createdAt": "2025-12-14T20:40:43.361Z",
     "updatedAt": "2025-12-14T20:40:43.361Z",
-    "original_date": "07-06-2015",
-    "hijri_date": "20 Shaʻban, 1436 AH"
+    "original_date": "",
+    "hijri_date": ""
   },
   {
     "id": "",
@@ -13166,8 +13196,8 @@
     "gender": "male",
     "createdAt": "2025-12-15T21:15:08.752Z",
     "updatedAt": "2025-12-15T21:15:08.752Z",
-    "original_date": "15-12-1982",
-    "hijri_date": "30 Mahe Safar, 1403 AH"
+    "original_date": "",
+    "hijri_date": ""
   },
   {
     "id": "",
@@ -16907,7 +16937,7 @@
   {
     "id": "",
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2026-06-03T00:00:00.000Z",
+    "died": "2026-06-04T00:00:00.000Z",
     "place": "---",
     "email": "",
     "phone": "",
@@ -17561,6 +17591,36 @@
     "gender": "male",
     "createdAt": "2026-06-01T13:29:37.501Z",
     "updatedAt": "2026-06-01T13:29:37.501Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1172,
+    "name": "Rajya ben Muslim bhai aghariya ",
+    "died": "2024-06-14T00:00:00.000Z",
+    "place": "kanodar ",
+    "email": "saidagharia@yahoo.com",
+    "phone": 9898791666,
+    "initiatedBy": "SAIDALi Muslim bhai agharia",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-06-04T05:55:42.466Z",
+    "updatedAt": "2026-06-04T05:55:42.466Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1173,
+    "name": "Haji Shabanali Fidahussain Vasaya ",
+    "died": "2017-09-09T00:00:00.000Z",
+    "place": "Mahuva",
+    "email": "aliraza.vasaya@gmail.com",
+    "phone": 7600267212,
+    "initiatedBy": "ALIRAZA VASAYA ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-06-04T13:40:02.204Z",
+    "updatedAt": "2026-06-04T13:40:02.204Z",
     "original_date": "",
     "hijri_date": ""
   }
