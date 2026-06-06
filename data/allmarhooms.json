@@ -6811,21 +6811,6 @@
   },
   {
     "id": "",
-    "name": "મરહુમા રોશનબાનુ બિન્તે મોહમ્મદ અલી સાયાણી ",
-    "died": "2007-06-06T00:00:00.000Z",
-    "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
-    "email": "abbaslakhani1@gmail.com",
-    "phone": 8980992192,
-    "initiatedBy": "અબ્બાસ અલી લાખાણી ",
-    "status": true,
-    "gender": "female",
-    "createdAt": "2024-10-06T10:45:17.642Z",
-    "updatedAt": "2024-10-06T10:45:17.642Z",
-    "original_date": "06-06-2007",
-    "hijri_date": "21 Jumada al-Awwal, 1428 AH"
-  },
-  {
-    "id": "",
     "name": "મરહુમ ગુલાબભાઈ બચુભાઈ દોણકીયા (રાજકોટ)",
     "died": "2022-04-14T00:00:00.000Z",
     "place": "રાજકોટ ગુજરાત ઈન્ડિયા ",
@@ -13181,8 +13166,8 @@
     "gender": "male",
     "createdAt": "2025-12-14T20:40:43.361Z",
     "updatedAt": "2025-12-14T20:40:43.361Z",
-    "original_date": "",
-    "hijri_date": ""
+    "original_date": "07-06-2015",
+    "hijri_date": "20 Shaʻban, 1436 AH"
   },
   {
     "id": "",
@@ -17531,6 +17516,36 @@
     "gender": "male",
     "createdAt": "2026-06-04T13:40:02.204Z",
     "updatedAt": "2026-06-04T13:40:02.204Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1174,
+    "name": "Abdul ali mahmmad ali vasaya ",
+    "died": "2026-05-01T00:00:00.000Z",
+    "place": "mahuwa",
+    "email": "jamanirojmina@gamil.com",
+    "phone": 9499835151,
+    "initiatedBy": "jamani rojmin",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-06-06T13:38:49.181Z",
+    "updatedAt": "2026-06-06T13:38:49.182Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1175,
+    "name": "હુસેનઅલી અબ્દુલહુસેન કપાસી",
+    "died": "2014-03-09T00:00:00.000Z",
+    "place": "મહુવા-ભાવનગર-ગુજરાત ",
+    "email": "murtuja14@gmail.com",
+    "phone": 9624053819,
+    "initiatedBy": " મુર્તઝા હુસેનઅલી કપાસી",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-06-06T13:29:19.516Z",
+    "updatedAt": "2026-06-06T13:29:19.516Z",
     "original_date": "",
     "hijri_date": ""
   }

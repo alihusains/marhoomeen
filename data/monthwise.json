@@ -6599,21 +6599,6 @@
     },
     {
       "id": "",
-      "name": "મરહુમા રોશનબાનુ બિન્તે મોહમ્મદ અલી સાયાણી ",
-      "died": "2007-06-06T00:00:00.000Z",
-      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
-      "email": "abbaslakhani1@gmail.com",
-      "phone": 8980992192,
-      "initiatedBy": "અબ્બાસ અલી લાખાણી ",
-      "status": true,
-      "gender": "female",
-      "createdAt": "2024-10-06T10:45:17.642Z",
-      "updatedAt": "2024-10-06T10:45:17.642Z",
-      "original_date": "06-06-2007",
-      "hijri_date": "21 Jumada al-Awwal, 1428 AH"
-    },
-    {
-      "id": "",
       "name": "મરહુમ શબ્બીરઅલી અકબરઅલી ભીમાણી(ટાણાવાળા) ",
       "died": "2017-06-23T00:00:00.000Z",
       "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
@@ -7076,6 +7061,21 @@
       "updatedAt": "2025-12-15T21:54:21.747Z",
       "original_date": "23-06-2014",
       "hijri_date": "26 Shaʻban, 1435 AH"
+    },
+    {
+      "id": "",
+      "name": "મરહુમ હૈદરઅલી ભાણજીભાઇ મરચન્ટ",
+      "died": "2015-06-07T00:00:00.000Z",
+      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
+      "email": "sohilmerchant414@gmail.com",
+      "phone": 9374969640,
+      "initiatedBy": "Sohil N Merchant ",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-14T20:40:43.361Z",
+      "updatedAt": "2025-12-14T20:40:43.361Z",
+      "original_date": "07-06-2015",
+      "hijri_date": "20 Shaʻban, 1436 AH"
     }
   ],
   "03": [
@@ -12909,21 +12909,6 @@
     }
   ],
   "undefined": [
-    {
-      "id": "",
-      "name": "મરહુમ હૈદરઅલી ભાણજીભાઇ મરચન્ટ",
-      "died": "2015-06-07T00:00:00.000Z",
-      "place": "ભાવનગર ગુજરાત ઇન્ડિયા ",
-      "email": "sohilmerchant414@gmail.com",
-      "phone": 9374969640,
-      "initiatedBy": "Sohil N Merchant ",
-      "status": true,
-      "gender": "male",
-      "createdAt": "2025-12-14T20:40:43.361Z",
-      "updatedAt": "2025-12-14T20:40:43.361Z",
-      "original_date": "",
-      "hijri_date": ""
-    },
     {
       "id": "",
       "name": "મરહુમ મહમુદઅલી વલીમહમદ રવજાણી",
