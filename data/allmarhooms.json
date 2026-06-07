@@ -16922,7 +16922,7 @@
   {
     "id": "",
     "name": "ખાસ નોંધ : મરહુમ-મરહુમા  નું નામ / વાલીદ નું નામ / પતિ નું નામ / સરનેમ(અટક) ની સાથે તદફીન નું 'સ્થળ' અને 'તારીખ' પુરૂ હશે તો જ 'સુરે ફાતેહા' માં સ્ક્રોલિંગ થશે...",
-    "died": "2026-06-05T00:00:00.000Z",
+    "died": "2026-06-07T00:00:00.000Z",
     "place": "---",
     "email": "",
     "phone": "",
@@ -17460,7 +17460,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1170,
+    "id": "",
     "name": "marhoom Mahmud Ali valimahmad ravjani ",
     "died": "1980-06-01T00:00:00.000Z",
     "place": "monpar Gujarat ",
@@ -17475,7 +17475,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1171,
+    "id": "",
     "name": "marhoom Manmad all valimahmad ravjani ",
     "died": "1980-06-01T00:00:00.000Z",
     "place": "monpar Gujarat ",
@@ -17490,7 +17490,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1172,
+    "id": "",
     "name": "Rajya ben Muslim bhai aghariya ",
     "died": "2024-06-14T00:00:00.000Z",
     "place": "kanodar ",
@@ -17505,7 +17505,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1173,
+    "id": "",
     "name": "Haji Shabanali Fidahussain Vasaya ",
     "died": "2017-09-09T00:00:00.000Z",
     "place": "Mahuva",
@@ -17520,7 +17520,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1174,
+    "id": "",
     "name": "Abdul ali mahmmad ali vasaya ",
     "died": "2026-05-01T00:00:00.000Z",
     "place": "mahuwa",
@@ -17535,7 +17535,7 @@
     "hijri_date": ""
   },
   {
-    "id": 1175,
+    "id": "",
     "name": "હુસેનઅલી અબ્દુલહુસેન કપાસી",
     "died": "2014-03-09T00:00:00.000Z",
     "place": "મહુવા-ભાવનગર-ગુજરાત ",
@@ -17546,6 +17546,21 @@
     "gender": "male",
     "createdAt": "2026-06-06T13:29:19.516Z",
     "updatedAt": "2026-06-06T13:29:19.516Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1171,
+    "name": "શમીમબાનુ મોહમ્મદજાફર પટેલ ",
+    "died": "2020-08-11T00:00:00.000Z",
+    "place": "talaja ",
+    "email": "murtuzapatel92110@gmail.com",
+    "phone": 9909008686,
+    "initiatedBy": "Murtuza M patel ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-06-07T07:37:20.157Z",
+    "updatedAt": "2026-06-07T07:37:20.157Z",
     "original_date": "",
     "hijri_date": ""
   }
