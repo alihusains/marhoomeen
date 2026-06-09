@@ -17668,5 +17668,35 @@
     "updatedAt": "2026-06-08T14:05:47.115Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1179,
+    "name": "mohamed husain Hemani ",
+    "died": "2011-04-03T00:00:00.000Z",
+    "place": "bombay ",
+    "email": "fatemamh1405@gmail.com",
+    "phone": 786908785,
+    "initiatedBy": "Fatema mohmed Hussain shamji ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-06-09T06:11:16.872Z",
+    "updatedAt": "2026-06-09T06:11:16.872Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1180,
+    "name": "zarinbai mohamed husain  Hemani ",
+    "died": "2019-03-09T00:00:00.000Z",
+    "place": "bombay ",
+    "email": "fatemamh1405@gmail.com",
+    "phone": 786908785,
+    "initiatedBy": "Fatema mohmed Hussain shamji ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-06-09T06:11:21.202Z",
+    "updatedAt": "2026-06-09T06:11:21.202Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
