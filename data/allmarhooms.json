@@ -17503,5 +17503,35 @@
     "updatedAt": "2026-06-19T13:15:21.577Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1168,
+    "name": "Marhum Khadimhusen Ibne Gulamali Jariwala",
+    "died": "2026-06-04T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "mumtazmomin3@gmail.com",
+    "phone": 9409277028,
+    "initiatedBy": "Mumtaz Momin ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-06-22T13:43:12.089Z",
+    "updatedAt": "2026-06-22T13:43:12.089Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1169,
+    "name": "Marhum Mohmedbhai Jivabhai Barodawala",
+    "died": "2026-06-22T00:00:00.000Z",
+    "place": "Ahmedabad ",
+    "email": "mumtazmomin3@gmail.com",
+    "phone": 9409277028,
+    "initiatedBy": "Mumtaz Momin ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-06-22T13:45:41.470Z",
+    "updatedAt": "2026-06-22T13:45:41.470Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
