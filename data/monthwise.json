@@ -313,7 +313,7 @@
       "createdAt": "2024-04-06T13:04:50.706Z",
       "updatedAt": "2024-04-06T13:04:50.706Z",
       "original_date": "28-10-2021",
-      "hijri_date": "22 Rabi' al-Awwal, 1443 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
@@ -2717,7 +2717,7 @@
       "createdAt": "2025-09-16T11:42:09.687Z",
       "updatedAt": "2025-09-16T11:42:09.688Z",
       "original_date": "31-12-2020",
-      "hijri_date": "17 Jumada al-Awwal, 1442 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
@@ -6820,7 +6820,7 @@
       "createdAt": "",
       "updatedAt": "",
       "original_date": "09-03-2022",
-      "hijri_date": "7 Shaʻban, 1443 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
@@ -7150,7 +7150,7 @@
       "createdAt": "2025-04-29T17:46:14.693Z",
       "updatedAt": "2025-04-29T17:46:14.693Z",
       "original_date": "08-03-2025",
-      "hijri_date": "8 Mahe Ramadhan, 1446 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
@@ -8669,7 +8669,7 @@
       "createdAt": "",
       "updatedAt": "",
       "original_date": "20-04-2021",
-      "hijri_date": "8 Mahe Ramadhan, 1442 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
@@ -10878,7 +10878,7 @@
       "createdAt": "2024-03-09T09:22:20.611Z",
       "updatedAt": "2024-03-09T09:22:20.611Z",
       "original_date": "16-05-2001",
-      "hijri_date": "23 Mahe Safar, 1422 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
@@ -11885,7 +11885,7 @@
       "createdAt": "2024-03-06T07:10:11.503Z",
       "updatedAt": "2024-03-06T07:10:11.503Z",
       "original_date": "27-01-2021",
-      "hijri_date": "14 Jumada al-Akhir, 1442 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
@@ -12830,7 +12830,7 @@
       "createdAt": "2025-10-17T18:44:08.282Z",
       "updatedAt": "2025-10-17T18:44:08.282Z",
       "original_date": "12-01-2011",
-      "hijri_date": "8 Mahe Safar, 1432 AH"
+      "hijri_date": "#ERROR!"
     },
     {
       "id": "",
