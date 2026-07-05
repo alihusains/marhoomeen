@@ -5862,21 +5862,6 @@
     },
     {
       "id": "",
-      "name": "મરહુમ આબીદઅલી ફકીરમોહમદ લાઇટવાલા",
-      "died": "2011-07-05T00:00:00.000Z",
-      "place": "એટલાન્ટા USA",
-      "email": "pmomin2004@yahoo.com",
-      "phone": 4045426855,
-      "initiatedBy": "Parvez Momin",
-      "status": true,
-      "gender": "male",
-      "createdAt": "2025-10-25T22:36:38.597Z",
-      "updatedAt": "2025-10-25T22:36:38.597Z",
-      "original_date": "05-07-2011",
-      "hijri_date": "4 Shaʻban, 1432 AH"
-    },
-    {
-      "id": "",
       "name": "મરહુમ જાફરઅલી નુરભાઇ અઘારીયા ",
       "died": "2025-07-20T00:00:00.000Z",
       "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
@@ -5949,6 +5934,21 @@
       "updatedAt": "2025-11-22T06:23:31.858Z",
       "original_date": "11-07-2002",
       "hijri_date": "1 Jumada al-Awwal, 1423 AH"
+    },
+    {
+      "id": "",
+      "name": "મરહુમ ગુલામભાઈ વજીરભાઈ બાલવા ",
+      "died": "1990-07-13T00:00:00.000Z",
+      "place": "મેતા કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "aalam4angola@gmail.com",
+      "phone": 9712037178,
+      "initiatedBy": "Alimhusen gulambhai balva",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-25T23:04:36.082Z",
+      "updatedAt": "2025-12-25T23:04:36.082Z",
+      "original_date": "13-07-1990",
+      "hijri_date": "21 Dhuʻl-Hijjah, 1410 AH"
     }
   ],
   "03": [
@@ -7391,6 +7391,21 @@
       "updatedAt": "2025-11-23T07:21:37.928Z",
       "original_date": "02-03-2025",
       "hijri_date": "2 Mahe Ramadhan, 1446 AH"
+    },
+    {
+      "id": "",
+      "name": "મરહુમા કુલશુમબેન હૈદરઅલી કડીવાલા",
+      "died": "2022-03-04T00:00:00.000Z",
+      "place": "મેતા કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "mohammadhusain23@gmail.com",
+      "phone": 9265381931,
+      "initiatedBy": "mohammadhusain haidarali kadiwala",
+      "status": true,
+      "gender": "female",
+      "createdAt": "2025-12-25T20:49:51.284Z",
+      "updatedAt": "2025-12-25T20:49:51.284Z",
+      "original_date": "04-03-2022",
+      "hijri_date": "2 Shaʻban, 1443 AH"
     }
   ],
   "08": [
@@ -11137,21 +11152,6 @@
     },
     {
       "id": "",
-      "name": "મરહુમ આબીદઅલી ગુલામહુસૈન ઢેબર (નવલખીવાળા)",
-      "died": "2024-05-28T00:00:00.000Z",
-      "place": "ગોમા-કોનગો-આફ્રિકા",
-      "email": "",
-      "phone": "",
-      "initiatedBy": "",
-      "status": true,
-      "gender": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "original_date": "28-05-2024",
-      "hijri_date": "20 Dhuʻl-Qiʻdah, 1445 AH"
-    },
-    {
-      "id": "",
       "name": "મરહુમ હાજી મોહસીનઅલી ઇબ્ને હુસૈનઅલી હેમાણી",
       "died": "2023-05-31T00:00:00.000Z",
       "place": "મઝગાંવ મુંબઈ મહારાષ્ટ્ર ",
@@ -12924,36 +12924,6 @@
     }
   ],
   "undefined": [
-    {
-      "id": "",
-      "name": "મરહુમ ગુલામભાઈ વજીરભાઈ બાલવા ",
-      "died": "1990-07-13T00:00:00.000Z",
-      "place": "મેતા કાણોદર ગુજરાત ઇન્ડિયા ",
-      "email": "aalam4angola@gmail.com",
-      "phone": 9712037178,
-      "initiatedBy": "Alimhusen gulambhai balva",
-      "status": true,
-      "gender": "male",
-      "createdAt": "2025-12-25T23:04:36.082Z",
-      "updatedAt": "2025-12-25T23:04:36.082Z",
-      "original_date": "",
-      "hijri_date": ""
-    },
-    {
-      "id": "",
-      "name": "મરહુમા કુલશુમબેન હૈદરઅલી કડીવાલા",
-      "died": "2022-03-04T00:00:00.000Z",
-      "place": "મેતા કાણોદર ગુજરાત ઇન્ડિયા ",
-      "email": "mohammadhusain23@gmail.com",
-      "phone": 9265381931,
-      "initiatedBy": "mohammadhusain haidarali kadiwala",
-      "status": true,
-      "gender": "female",
-      "createdAt": "2025-12-25T20:49:51.284Z",
-      "updatedAt": "2025-12-25T20:49:51.284Z",
-      "original_date": "",
-      "hijri_date": ""
-    },
     {
       "id": "",
       "name": "મરહુમા જરીનાબેન ગુલામહૈદર બાલવા",
