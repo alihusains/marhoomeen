@@ -1,6 +1,6 @@
 [
   {
-    "id": 378,
+    "id": 376,
     "name": "મરહુમ બરકતઅલી નજરઅલી હેમાણી",
     "died": "2020-09-10T00:00:00.000Z",
     "place": "મુંબઈ મહારાષ્ટ્ર ઇન્ડિયા ",
@@ -15,7 +15,7 @@
     "hijri_date": "22 Mahe Muharram, 1442 AH"
   },
   {
-    "id": 474,
+    "id": 472,
     "name": "મરહુમા અમીનાબેન મોહંમદભાઈ ચૌધરી",
     "died": "1987-09-10T00:00:00.000Z",
     "place": "કાણોદર બનાસકાંઠા ઇન્ડિયા ",
@@ -28,5 +28,20 @@
     "updatedAt": "2024-11-11T20:58:02.689Z",
     "original_date": "10-09-1987",
     "hijri_date": "17 Mahe Muharram, 1408 AH"
+  },
+  {
+    "id": 877,
+    "name": "મરહુમા જમીલાબીબી ગુલામરસુલ શૈખ",
+    "died": "2015-09-10T00:00:00.000Z",
+    "place": "અમદાવાદ ગુજરાત ઇન્ડિયા ",
+    "email": "mohammadalibukhari950@gmail.com",
+    "phone": 9429172071,
+    "initiatedBy": "Mohammad Ali BUKHARI ",
+    "status": true,
+    "gender": "female",
+    "createdAt": "2025-12-26T08:00:33.299Z",
+    "updatedAt": "2025-12-26T08:00:33.299Z",
+    "original_date": "10-09-2015",
+    "hijri_date": "27 Dhuʻl-Qiʻdah, 1436 AH"
   }
 ]
