@@ -17548,5 +17548,35 @@
     "updatedAt": "2026-07-29T16:27:17.061Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1171,
+    "name": "Marhum Mohmedhusen Pyarali",
+    "died": "2020-06-06T00:00:00.000Z",
+    "place": "Mahuva, Gujarat",
+    "email": "naeemmehdibhojani@gmail.com",
+    "phone": 9426478612,
+    "initiatedBy": "Naeem Bhojani",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-07-29T21:17:09.558Z",
+    "updatedAt": "2026-07-29T21:17:09.558Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1172,
+    "name": "મ.બરકત અલી બચુ ભાઇ ફુમકીયા કાળેલા વાળા ",
+    "died": "2020-10-10T00:00:00.000Z",
+    "place": "ભાવનગર ",
+    "email": "fazalfumakiya@gmail.com",
+    "phone": 9824560447,
+    "initiatedBy": "ફુમકીયા ફીલ અલી",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-07-29T21:57:11.139Z",
+    "updatedAt": "2026-07-29T21:57:11.139Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
