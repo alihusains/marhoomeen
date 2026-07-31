@@ -1347,7 +1347,7 @@
     "createdAt": "2024-03-06T07:10:17.596Z",
     "updatedAt": "2024-03-06T07:10:17.596Z",
     "original_date": "06-03-1981",
-    "hijri_date": "30 Rabi' al-Akhir, 1401 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -3147,7 +3147,7 @@
     "createdAt": "2024-03-29T12:35:02.558Z",
     "updatedAt": "2024-03-29T12:35:02.558Z",
     "original_date": "02-10-1993",
-    "hijri_date": "16 Rabi' al-Akhir, 1414 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -4572,7 +4572,7 @@
     "createdAt": "2024-05-14T00:43:55.628Z",
     "updatedAt": "2024-05-14T00:43:55.628Z",
     "original_date": "16-07-2002",
-    "hijri_date": "6 Jumada al-Awwal, 1423 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -7362,7 +7362,7 @@
     "createdAt": "2025-01-31T01:35:35.091Z",
     "updatedAt": "2025-01-31T01:35:35.091Z",
     "original_date": "18-02-2018",
-    "hijri_date": "3 Jumada al-Akhir, 1439 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -9687,7 +9687,7 @@
     "createdAt": "2025-05-01T21:53:09.421Z",
     "updatedAt": "2025-05-01T21:53:09.421Z",
     "original_date": "05-08-2017",
-    "hijri_date": "13 Dhuʻl-Qiʻdah, 1438 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -9912,7 +9912,7 @@
     "createdAt": "2025-06-05T23:49:36.226Z",
     "updatedAt": "2025-06-05T23:49:36.226Z",
     "original_date": "01-07-1981",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "29 Shaʻban, 1401 AH"
   },
   {
     "id": "",
@@ -10827,7 +10827,7 @@
     "createdAt": "2025-08-09T10:54:26.302Z",
     "updatedAt": "2025-08-09T10:54:26.302Z",
     "original_date": "06-05-2011",
-    "hijri_date": "3 Jumada al-Akhir, 1432 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -12867,7 +12867,7 @@
     "createdAt": "2025-12-07T17:48:08.132Z",
     "updatedAt": "2025-12-07T17:48:08.132Z",
     "original_date": "16-02-2011",
-    "hijri_date": "13 Rabi' al-Awwal, 1432 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -12912,7 +12912,7 @@
     "createdAt": "2025-12-01T02:47:03.177Z",
     "updatedAt": "2025-12-01T02:47:03.177Z",
     "original_date": "23-01-2021",
-    "hijri_date": "10 Jumada al-Akhir, 1442 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -17591,6 +17591,21 @@
     "gender": "male",
     "createdAt": "2026-07-31T07:12:51.940Z",
     "updatedAt": "2026-07-31T07:12:51.940Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1174,
+    "name": "marhooma Nargish bintiy Ali bhai sunasara ",
+    "died": "2020-07-12T00:00:00.000Z",
+    "place": "kanodar ",
+    "email": "sunasara999@gmail.com",
+    "phone": 9510106631,
+    "initiatedBy": "sarvarali mohmed sunasara ",
+    "status": false,
+    "gender": "male",
+    "createdAt": "2026-07-31T11:51:49.577Z",
+    "updatedAt": "2026-07-31T11:51:49.577Z",
     "original_date": "",
     "hijri_date": ""
   }
