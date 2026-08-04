@@ -5727,7 +5727,7 @@
     "createdAt": "2024-08-08T13:21:35.654Z",
     "updatedAt": "2024-08-08T13:21:35.654Z",
     "original_date": "10-01-2013",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "28 Mahe Safar, 1434 AH"
   },
   {
     "id": "",
@@ -7227,7 +7227,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "11-12-2024",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "10 Jumada al-Akhir, 1446 AH"
   },
   {
     "id": "",
@@ -12852,7 +12852,7 @@
     "createdAt": "2025-12-03T08:15:30.332Z",
     "updatedAt": "2025-12-03T08:15:30.333Z",
     "original_date": "14-12-2018",
-    "hijri_date": "7 Rabi' al-Akhir, 1440 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -17606,6 +17606,51 @@
     "gender": "male",
     "createdAt": "2026-07-31T11:51:49.577Z",
     "updatedAt": "2026-07-31T11:51:49.577Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1175,
+    "name": "હુસૈન અલી અલીમોહમ્મદ સુણસરા તોદા ",
+    "died": "2015-07-10T00:00:00.000Z",
+    "place": "ગુજરાત કાણોદર ",
+    "email": "todaazmat@gmail.com",
+    "phone": 9998636072,
+    "initiatedBy": "અજમત અલી હુસૈન અલી સુણસરા તોદા ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-04T08:01:38.848Z",
+    "updatedAt": "2026-08-04T08:01:38.848Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1176,
+    "name": "શરીફા બેન નુરભાઈ અગારિયા કુરકુર ",
+    "died": "1992-11-13T00:00:00.000Z",
+    "place": "ગુજરાત કાણોદર ",
+    "email": "todaazmat@gmail.com",
+    "phone": 9998636072,
+    "initiatedBy": "અજમત અલી હુસૈન અલી સુણસરા તોદા ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-08-04T08:04:36.960Z",
+    "updatedAt": "2026-08-04T08:04:36.960Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1177,
+    "name": "m. haji aliraza haji shabbir ali alwani",
+    "died": "2026-07-26T00:00:00.000Z",
+    "place": "nanpura bage jannat, surat",
+    "email": "iramrupani92@gmail.com",
+    "phone": 8401304860,
+    "initiatedBy": "iram fatema aliraza rupani ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-04T13:27:47.115Z",
+    "updatedAt": "2026-08-04T13:27:47.115Z",
     "original_date": "",
     "hijri_date": ""
   }
