@@ -993,6 +993,21 @@
   ],
   "11": [
     {
+      "id": "#REF!",
+      "name": "મરહુમ એદલજી ધનજી કાબા (અમરેલી)",
+      "died": "1923-11-14T00:00:00.000Z",
+      "place": "અમરેલી ગુજરાત ઇન્ડિયા ",
+      "email": "mimalif110@gmail.com",
+      "phone": 9969557682,
+      "initiatedBy": "MAS",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2024-02-04T06:28:54.291Z",
+      "updatedAt": "2024-02-04T09:35:17.511Z",
+      "original_date": "14-11-1923",
+      "hijri_date": "6 Rabi' al-Akhir, 1342 AH"
+    },
+    {
       "id": "",
       "name": "મરહુમા યાસમીનબેન ( કુબરાબેન ) બિન્તે હસનઅલી ઢેબર W/o અખતરઅલી યુસુફઅલી નાયાણી",
       "died": "2019-11-02T00:00:00.000Z",
@@ -2943,21 +2958,6 @@
       "updatedAt": "2025-12-26T07:30:43.149Z",
       "original_date": "26-12-2021",
       "hijri_date": "22 Jumada al-Awwal, 1443 AH"
-    },
-    {
-      "id": "",
-      "name": "મરહુમ કુરબાનહુસૈન અબુલહસન સુણસરા",
-      "died": "2024-12-27T00:00:00.000Z",
-      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
-      "email": "yavarabbas@gmail.com",
-      "phone": 9035503627,
-      "initiatedBy": "yavar abbas",
-      "status": true,
-      "gender": "male",
-      "createdAt": "2025-12-26T09:56:25.040Z",
-      "updatedAt": "2025-12-26T09:56:25.040Z",
-      "original_date": "27-12-2024",
-      "hijri_date": "26 Jumada al-Akhir, 1446 AH"
     }
   ],
   "02": [
@@ -12924,6 +12924,21 @@
     }
   ],
   "undefined": [
+    {
+      "id": "",
+      "name": "મરહુમ કુરબાનહુસૈન અબુલહસન સુણસરા",
+      "died": "2024-12-27T00:00:00.000Z",
+      "place": "કાણોદર ગુજરાત ઇન્ડિયા ",
+      "email": "yavarabbas@gmail.com",
+      "phone": 9035503627,
+      "initiatedBy": "yavar abbas",
+      "status": true,
+      "gender": "male",
+      "createdAt": "2025-12-26T09:56:25.040Z",
+      "updatedAt": "2025-12-26T09:56:25.040Z",
+      "original_date": "",
+      "hijri_date": ""
+    },
     {
       "id": "",
       "name": "મરહુમ રહીમભાઈ સુલેમાનભાઈ પલસાણીયા",
