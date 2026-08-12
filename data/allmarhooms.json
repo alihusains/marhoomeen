@@ -18043,5 +18043,50 @@
     "updatedAt": "2026-08-11T15:03:18.429Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1204,
+    "name": "Marhooma Tahera ben Bachu Bhai",
+    "died": "2025-03-04T00:00:00.000Z",
+    "place": "Mumbai",
+    "email": "fairy72nh@gmail.com",
+    "phone": 7498601749,
+    "initiatedBy": "Mohammad",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-08-12T12:21:18.123Z",
+    "updatedAt": "2026-08-12T12:21:18.123Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1205,
+    "name": "Marhoom Jafarali Alimohamad",
+    "died": "2009-09-12T00:00:00.000Z",
+    "place": "Mumbai ",
+    "email": "fairy72nh@gmail.com",
+    "phone": 7498601749,
+    "initiatedBy": "Mohammad",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-12T12:21:20.994Z",
+    "updatedAt": "2026-08-12T12:21:20.994Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1206,
+    "name": "marhoom Rafiali Rajabali minsariya ",
+    "died": "2023-06-12T00:00:00.000Z",
+    "place": "Iran (kum)Gulzar e shohda",
+    "email": "masumakhoja@gmail.com",
+    "phone": 9979732472,
+    "initiatedBy": "masuma Riyaz khoja",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-12T13:42:56.675Z",
+    "updatedAt": "2026-08-12T13:42:56.675Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
