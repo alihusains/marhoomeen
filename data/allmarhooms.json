@@ -18088,5 +18088,35 @@
     "updatedAt": "2026-08-12T13:42:56.675Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1207,
+    "name": "ફરિસ્તા હૈદરઅલી હુસૈનઅલી",
+    "died": "1996-09-03T00:00:00.000Z",
+    "place": "તળાજા",
+    "email": "abbasfarishta1@gmail.com",
+    "phone": 9924260419,
+    "initiatedBy": "ફરિસ્તા અબ્બાસ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-13T22:03:15.335Z",
+    "updatedAt": "2026-08-13T22:03:15.335Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1208,
+    "name": "વિરાણી ખૈરૂનબેન દેવજીભાઈ",
+    "died": "2017-12-15T00:00:00.000Z",
+    "place": "ભાવનગર (હાજી-નાજી આરામ બાગ)",
+    "email": "abbasfarishta1@gmail.com",
+    "phone": 9924260419,
+    "initiatedBy": "ફરિસ્તા અબ્બાસ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-08-13T22:03:18.196Z",
+    "updatedAt": "2026-08-13T22:03:18.196Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
