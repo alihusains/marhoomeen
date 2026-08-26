@@ -18178,5 +18178,35 @@
     "updatedAt": "2026-08-21T13:37:25.120Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1221,
+    "name": "ગુલામહુસેન અલાદીનભાઇ ભુરાણી",
+    "died": "2023-09-17T00:00:00.000Z",
+    "place": "તળાજા ગુજરાત ઈન્ડિયા",
+    "email": "shahbhurani@gmail.com",
+    "phone": 9427755660,
+    "initiatedBy": "shahnavaz bhurani",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-25T18:59:34.686Z",
+    "updatedAt": "2026-08-25T18:59:34.686Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1222,
+    "name": "vajirAli noormohammadbhai bhurani",
+    "died": "2006-11-12T00:00:00.000Z",
+    "place": "TALAJA",
+    "email": "mohamamdbhurani4@gmail.com",
+    "phone": 9104111072,
+    "initiatedBy": "Mohammad bhurani",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-25T19:37:28.929Z",
+    "updatedAt": "2026-08-25T19:37:28.929Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
