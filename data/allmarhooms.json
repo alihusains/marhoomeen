@@ -10242,7 +10242,7 @@
     "createdAt": "2025-06-24T12:40:34.824Z",
     "updatedAt": "2025-06-24T12:40:34.824Z",
     "original_date": "12-05-2014",
-    "hijri_date": "13 Mahe Rajab, 1435 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -17996,6 +17996,21 @@
     "gender": "male",
     "createdAt": "2026-08-26T15:52:09.206Z",
     "updatedAt": "2026-08-26T15:52:09.206Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1201,
+    "name": " asgar ali vazir ali rupani",
+    "died": "2020-04-21T00:00:00.000Z",
+    "place": "Rajula ",
+    "email": "iramrupani92@gmail.com",
+    "phone": 8401304860,
+    "initiatedBy": "iram fatema rupani ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-08-26T20:21:29.485Z",
+    "updatedAt": "2026-08-26T20:21:29.485Z",
     "original_date": "",
     "hijri_date": ""
   }
