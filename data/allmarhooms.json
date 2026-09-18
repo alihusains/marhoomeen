@@ -1917,7 +1917,7 @@
     "createdAt": "2024-03-13T23:54:42.864Z",
     "updatedAt": "2024-03-13T23:54:42.865Z",
     "original_date": "11-08-2011",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "12 Mahe Ramadhan, 1432 AH"
   },
   {
     "id": "",
@@ -18236,6 +18236,36 @@
     "gender": "male",
     "createdAt": "2026-09-17T09:17:01.716Z",
     "updatedAt": "2026-09-17T09:17:01.716Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1217,
+    "name": "akbarali vali bhai PASERIYA ",
+    "died": "2011-04-11T00:00:00.000Z",
+    "place": "kanodar ",
+    "email": "asfaqwtc@gmail.com",
+    "phone": 9898771784,
+    "initiatedBy": "aspakali ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-09-18T01:35:40.334Z",
+    "updatedAt": "2026-09-18T01:35:40.334Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1218,
+    "name": "yakubali akbarali PASERIYA ",
+    "died": "2025-11-18T00:00:00.000Z",
+    "place": "kanodar ",
+    "email": "asfaqwtc@gmail.com",
+    "phone": 9898771784,
+    "initiatedBy": "aspakali ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-09-18T01:35:43.741Z",
+    "updatedAt": "2026-09-18T01:35:43.741Z",
     "original_date": "",
     "hijri_date": ""
   }
