@@ -3597,7 +3597,7 @@
     "createdAt": "2024-04-04T10:22:55.144Z",
     "updatedAt": "2024-04-04T10:22:55.144Z",
     "original_date": "27-09-2019",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "28 Mahe Muharram, 1441 AH"
   },
   {
     "id": "",
@@ -18341,6 +18341,21 @@
     "gender": "female",
     "createdAt": "2026-09-22T11:23:40.898Z",
     "updatedAt": "2026-09-22T11:23:40.898Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1224,
+    "name": "Saiyeda Taslim Kausar Binte Mohammed Fazal",
+    "died": "2026-09-24T00:00:00.000Z",
+    "place": "Ahmedabad",
+    "email": "bukharishahid092@gmail.com",
+    "phone": 9558301400,
+    "initiatedBy": "Shahid Husain Bukhari ",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-09-24T07:12:52.457Z",
+    "updatedAt": "2026-09-24T07:12:52.457Z",
     "original_date": "",
     "hijri_date": ""
   }
