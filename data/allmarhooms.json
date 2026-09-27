@@ -18493,5 +18493,35 @@
     "updatedAt": "2026-09-27T07:54:57.731Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1234,
+    "name": "SAJJAD HUSEN FIDA HUSEN JAMANI RAJULAVALA",
+    "died": "2019-11-17T00:00:00.000Z",
+    "place": "AHMEDABAD GOMTIPUR KABRISTAN",
+    "email": "sjamani786@gmail.com",
+    "phone": 9824267346,
+    "initiatedBy": "SAIFUL ABBAS S JAMANI",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-09-27T12:28:59.167Z",
+    "updatedAt": "2026-09-27T12:28:59.167Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1235,
+    "name": "મરહુમ અકબરઅલી હૈદરઅલી ગોવાણી ",
+    "died": "2017-02-20T00:00:00.000Z",
+    "place": "પાલીાણા ",
+    "email": "zehrajamani81@gmail.com",
+    "phone": 9313424320,
+    "initiatedBy": "Fatema jamani ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-09-27T16:32:33.558Z",
+    "updatedAt": "2026-09-27T16:32:33.558Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
