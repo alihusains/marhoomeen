@@ -7062,7 +7062,7 @@
     "createdAt": "",
     "updatedAt": "",
     "original_date": "11-11-2021",
-    "hijri_date": "7 Rabi' al-Akhir, 1443 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": "",
@@ -18671,6 +18671,21 @@
     "gender": "male",
     "createdAt": "2026-10-17T19:04:55.989Z",
     "updatedAt": "2026-10-17T19:04:55.989Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1246,
+    "name": "રીઝવી સમીમ હૈદર સાદીક હુસેન",
+    "died": "2001-05-16T00:00:00.000Z",
+    "place": "ખોજા કબ્રસ્તાન,  જામનગર",
+    "email": "taslimhaider920@gmail.com",
+    "phone": 9825794983,
+    "initiatedBy": "રીઝવી તસ્લીમ હૈદર સમીમ હૈદર ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-10-18T19:57:39.205Z",
+    "updatedAt": "2026-10-18T19:57:39.205Z",
     "original_date": "",
     "hijri_date": ""
   }
