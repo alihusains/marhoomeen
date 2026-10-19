@@ -12,7 +12,7 @@
     "createdAt": "2025-11-07T09:32:03.478Z",
     "updatedAt": "2025-11-07T09:32:03.478Z",
     "original_date": "05-05-2016",
-    "hijri_date": "28 Mahe Rajab, 1437 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 826,
@@ -27,7 +27,7 @@
     "createdAt": "2025-11-12T15:07:50.464Z",
     "updatedAt": "2025-11-12T15:07:50.464Z",
     "original_date": "05-05-2016",
-    "hijri_date": "28 Mahe Rajab, 1437 AH"
+    "hijri_date": "#NAME?"
   },
   {
     "id": 845,
@@ -42,6 +42,6 @@
     "createdAt": "2025-11-23T16:39:39.984Z",
     "updatedAt": "2025-11-23T16:39:39.984Z",
     "original_date": "05-05-2016",
-    "hijri_date": "28 Mahe Rajab, 1437 AH"
+    "hijri_date": "#NAME?"
   }
 ]
