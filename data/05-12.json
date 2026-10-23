@@ -1,6 +1,6 @@
 [
   {
-    "id": "",
+    "id": 416,
     "name": "મરહુમ ભચુભાઇ કાનજીભાઇ રાજાણી",
     "died": "1972-12-05T00:00:00.000Z",
     "place": "મહુવા ગુજરાત ઇન્ડિયા ",
@@ -13,5 +13,20 @@
     "updatedAt": "2024-08-26T18:15:34.595Z",
     "original_date": "05-12-1972",
     "hijri_date": "29 Shawwal, 1392 AH"
+  },
+  {
+    "id": 878,
+    "name": "મરહુમ વજીરભાઈ જીવાભાઈ બાલવા",
+    "died": "1976-12-05T00:00:00.000Z",
+    "place": "મેતા કાણોદર ગુજરાત ઇન્ડિયા ",
+    "email": "aalam4angola@gmail.com",
+    "phone": 9712037178,
+    "initiatedBy": "Alimhusen gulambhai balva",
+    "status": true,
+    "gender": "male",
+    "createdAt": "2025-12-27T00:58:09.223Z",
+    "updatedAt": "2025-12-27T00:58:09.223Z",
+    "original_date": "05-12-1976",
+    "hijri_date": "14 Dhuʻl-Hijjah, 1396 AH"
   }
 ]
