@@ -5997,7 +5997,7 @@
     "createdAt": "2024-08-12T20:04:34.660Z",
     "updatedAt": "2024-08-12T20:04:34.660Z",
     "original_date": "14-06-2019",
-    "hijri_date": "11 Shawwal, 1440 AH"
+    "hijri_date": "#ERROR!"
   },
   {
     "id": 401,
@@ -11787,7 +11787,7 @@
     "createdAt": "2025-10-16T11:05:42.033Z",
     "updatedAt": "2025-10-16T11:05:42.033Z",
     "original_date": "18-04-2017",
-    "hijri_date": "#ERROR!"
+    "hijri_date": "21 Mahe Rajab, 1438 AH"
   },
   {
     "id": 787,
