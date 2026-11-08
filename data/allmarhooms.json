@@ -18643,5 +18643,35 @@
     "updatedAt": "2026-11-05T18:04:50.974Z",
     "original_date": "",
     "hijri_date": ""
+  },
+  {
+    "id": 1244,
+    "name": "gulshanbanu barkatali bhimani",
+    "died": "2026-10-03T00:00:00.000Z",
+    "place": "bvn",
+    "email": "ovejgabhrani@gmail.com",
+    "phone": 7878451400,
+    "initiatedBy": "Ovez gabhrani",
+    "status": "",
+    "gender": "female",
+    "createdAt": "2026-11-08T19:12:58.391Z",
+    "updatedAt": "2026-11-08T19:12:58.391Z",
+    "original_date": "",
+    "hijri_date": ""
+  },
+  {
+    "id": 1245,
+    "name": "Bukhari Mustak Hussain Ibne Yaqoob Hussain ",
+    "died": "2021-01-23T00:00:00.000Z",
+    "place": "Sha-e-Aalam, Ahmedabad ",
+    "email": "mudassarmbukhari@gmail.com",
+    "phone": 9898047486,
+    "initiatedBy": "Bukhari Mudassar Husain ",
+    "status": "",
+    "gender": "male",
+    "createdAt": "2026-11-08T19:21:13.667Z",
+    "updatedAt": "2026-11-08T19:21:13.667Z",
+    "original_date": "",
+    "hijri_date": ""
   }
 ]
